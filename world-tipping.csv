@@ -1,0 +1,61 @@
+country,taxis,porters,restaurants
+Argentina,Round up,$1,10%
+Australia,Round up,$1,10%
+Austria,Round up,$1,No tip
+Bahamas,15%,$1,15%
+Belgium,Round up,$1,Round up
+Brazil,10%,$1,10-15%
+Brunei,No tip,No tip,No tip
+Bulgaria,Round up,$1,10%
+Canada,10%,$1,15-20%
+Cayman Islands,10%,$1,15%
+Chile,No tip,$1,10%
+China,No tip,No tip,No tip
+Colombia,No tip,$1,10%
+Costa Rica,Round up,$1,5-10%
+Denmark,Round up,$1,No tip
+Ecuador,Round up,$1,10%
+Egypt,Round up,$1,5-10%
+Estonia,No tip,No tip,10-15%
+Fiji,Round up,No tip,No tip
+Finland,Round up,No tip,No tip
+France,Round up,$1,No tip
+Germany,Round up,$1,No tip
+Greece,Round up,$1,5-10%
+Hong Kong,Round up,$1,No tip
+Hungary,Round up,$1,10%
+India,Round up,$1,10%
+Indonesia,Round up,$0.50,10%
+Ireland,Round up,$1,5-10%
+Israel,Round up,$1,10-15%
+Italy,Round up,$1,No tip
+Japan,No tip,No tip,No tip
+Malaysia,No tip,No tip,No tip
+Mexico,No tip,$1,10-15%
+Morocco,Round up,$0.50,Round up
+Netherlands,Round up,$1,Round up
+New Zealand,No tip,No tip,No tip
+Norway,Round up,$1,No tip
+Oman,No tip,No tip,No tip
+Peru,No tip,$0.75,10%
+Philippines,Round up,$0.50,10%
+Poland,Round up,$1,No tip
+Portugal,Round up,$1,No tip
+Romania,Round up,$1,Round up
+Russia,Round up,$1,10%
+Samoa,No tip,No tip,No tip
+Saudi Arabia,10%,$1,10-15%
+Singapore,No tip,No tip,No tip
+South Africa,10%,$0.50,10%
+South Korea,No tip,No tip,No tip
+Spain,No tip,No tip,No tip
+Switzerland,Round up,$1,No tip
+Taiwan,No tip,$1,No tip
+Tanzania,No tip,No tip,10%
+Thailand,No tip,No tip,No tip
+Turkey,Round up,$1,Round up
+United Arab Emirates,No tip,No tip,No tip
+United Kingdom,10%,$1,10%
+United States,10-15%,$1,15-20%
+Venezuela,10%,$0.75,10%
+Vietnam,No tip,No tip,No tip
