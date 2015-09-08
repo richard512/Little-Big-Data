@@ -1,0 +1,560 @@
+city,state,country,priceStart,price1km,price1hr,priceStartPlus10km,priceStartPlus10kmPlus1hrWait,currency
+Bern,,Switzerland,6.9,4.67,74.69,53.6,128.29,USD
+Zurich,,Switzerland,7.26,3.94,74.69,46.66,121.35,USD
+Basel,,Switzerland,6.48,3.84,72.61,44.88,117.49,USD
+Zug,,Switzerland,6.22,4.46,62.24,50.82,113.06,USD
+Geneva,,Switzerland,7.26,3.94,62.24,46.66,108.9,USD
+Saint Helier,,Jersey,4.01,6.49,31.98,68.91,100.89,USD
+Oxford,,United Kingdom,4.31,1.54,77.03,19.71,96.74,USD
+Tromso,,Norway,8.41,2.88,57.65,37.21,94.86,USD
+Trento,,Italy,9.64,1.68,67.23,26.44,93.67,USD
+Lausanne,,Switzerland,6.43,3.11,56.02,37.53,93.55,USD
+Lugano,,Switzerland,5.19,4.15,46.68,46.69,93.37,USD
+Copenhagen,,Denmark,6.01,2.35,63.12,29.51,92.63,USD
+Trondheim,,Norway,9.61,2.4,58.92,33.61,92.53,USD
+Wollongong,,Australia,2.5,1.43,74.9,16.8,91.7,USD
+Oslo,,Norway,11.98,1.92,59.89,31.18,91.07,USD
+Aalborg,,Denmark,5.18,2.25,60.06,27.68,87.74,USD
+Oakland,CA,United States,3,3.26,50,35.6,85.6,USD
+Stavanger,,Norway,8.38,1.76,57.85,25.98,83.83,USD
+Dallas,TX,United States,2.5,3.11,50,33.6,83.6,USD
+Gothenburg,,Sweden,5.55,1.89,59,24.45,83.45,USD
+Rotterdam,,Netherlands,8.4,1.54,55.89,23.8,79.69,USD
+Iowa City,IA,United States,3.5,3.11,45,34.6,79.6,USD
+Knoxville,TN,United States,3.2,1.62,60,19.4,79.4,USD
+Edinburgh,,United Kingdom,4.62,3.08,42.37,35.42,77.79,USD
+Madison,WI,United States,3.12,3.18,42.5,34.92,77.42,USD
+Trieste,,Italy,4.2,2.24,50.43,26.6,77.03,USD
+Santa Barbara,CA,United States,2,2.49,50,26.9,76.9,USD
+Arhus,,Denmark,6.31,1.5,55.56,21.31,76.87,USD
+Reykjavik,,Iceland,5.1,2.02,51.53,25.3,76.83,USD
+Honolulu,HI,United States,3.75,2.24,50,26.15,76.15,USD
+Saint Petersburg,FL,United States,2.27,1.3,60,15.27,75.27,USD
+Helsinki,,Finland,7.74,1.74,49.29,25.14,74.43,USD
+Jyvaskyla,,Finland,9.52,1.71,47.62,26.62,74.24,USD
+Grenoble,,France,4.2,1.39,56.03,18.1,74.13,USD
+Bergen,,Norway,5.64,1.24,56.09,18.04,74.13,USD
+Tampere,,Finland,6.61,1.74,49.99,24.01,74,USD
+Pisa,,Italy,3.36,1.68,53.79,20.16,73.95,USD
+Nice,,France,5.61,1.78,50.47,23.41,73.88,USD
+Turku,,Finland,6.61,1.72,49.98,23.81,73.79,USD
+Hamilton,,New Zealand,1.92,0.77,64.15,9.62,73.77,USD
+Norwich,,United Kingdom,5.63,2.56,42.35,31.23,73.58,USD
+London,,United Kingdom,4.32,2.27,46.25,27.02,73.27,USD
+Gent,,Belgium,8.96,2.47,39.22,33.66,72.88,USD
+Seattle,WA,United States,2.5,2.03,50,22.8,72.8,USD
+Stockholm,,Sweden,5.31,1.43,53.1,19.61,72.71,USD
+Espoo,,Finland,6.61,1.72,48.52,23.81,72.33,USD
+York,,United Kingdom,3.7,2.11,46.22,24.8,71.02,USD
+Amsterdam,,Netherlands,3.31,2.43,41.45,27.61,69.06,USD
+Bournemouth,,United Kingdom,5.72,2.48,38.51,30.52,69.03,USD
+Leiden,,Netherlands,6.16,2.21,40.12,28.26,68.38,USD
+Florence,,Italy,4.62,1.58,47.89,20.42,68.31,USD
+Granada,,Spain,3.36,1.96,44.86,22.96,67.82,USD
+Boise,ID,United States,2,1.83,47.5,20.3,67.8,USD
+Odense,,Denmark,5.26,1.14,50.15,16.66,66.81,USD
+Aberdeen,,United Kingdom,4.78,2.51,35.82,29.88,65.7,USD
+Dusseldorf,,Germany,5.92,2.03,39.44,26.22,65.66,USD
+Luxembourg,,Luxembourg,2.8,2.91,33.62,31.9,65.52,USD
+Kansas City,MO,United States,2.9,1.24,50,15.3,65.3,USD
+Fresno,CA,United States,3.4,1.52,46.5,18.6,65.1,USD
+Washington,DC,United States,3.25,3.57,25,38.95,63.95,USD
+Lyon,,France,2.8,2.24,38.74,25.2,63.94,USD
+Innsbruck,,Austria,7.73,2.24,33.62,30.13,63.75,USD
+Uppsala,,Sweden,7.08,1.24,43.27,19.48,62.75,USD
+Pittsburgh,PA,United States,3.43,3.18,27.5,35.23,62.73,USD
+Derby,,United Kingdom,2.85,2.87,30.81,31.55,62.36,USD
+Sydney,,Australia,2.57,1.78,41.59,20.37,61.96,USD
+Oulu,,Finland,8.4,1.99,33.62,28.3,61.92,USD
+Plymouth,,United Kingdom,6.01,0.96,46.22,15.61,61.83,USD
+Spokane,WA,United States,10,1.68,35,26.8,61.8,USD
+Antwerp,,Belgium,6.2,2.14,33.81,27.6,61.41,USD
+Austin,TX,United States,4,1.24,45,16.4,61.4,USD
+Coventry,,United Kingdom,4.39,2.39,32.74,28.29,61.03,USD
+Nottingham,,United Kingdom,4.62,2.54,30.81,30.02,60.83,USD
+Gold Coast,,Australia,2.5,2,38.31,22.5,60.81,USD
+Colorado Springs,CO,United States,2.5,3.42,24,36.7,60.7,USD
+Yokohama,,Japan,6.02,2.52,29.46,31.22,60.68,USD
+Hamburg,,Germany,3.59,2.24,33.65,25.99,59.64,USD
+Christchurch,,New Zealand,1.92,1.92,38.49,21.12,59.61,USD
+Heidelberg,,Germany,3.59,2.8,28.01,31.59,59.6,USD
+Nagoya,,Japan,4.95,3,24.33,34.95,59.28,USD
+Cologne,,Germany,3.64,1.62,39.22,19.84,59.06,USD
+Toulouse,,France,3.36,2.19,33.62,25.26,58.88,USD
+Augsburg,,Germany,8.4,2.24,28.01,30.8,58.81,USD
+Exeter,,United Kingdom,4.54,1.73,36.97,21.84,58.81,USD
+Brussels,,Belgium,3.35,2.13,33.62,24.65,58.27,USD
+Bellingham,WA,United States,2.75,1.55,40,18.25,58.25,USD
+Wellington,,New Zealand,2.23,1.72,38.28,19.43,57.71,USD
+Verona,,Italy,4.48,2.24,30.82,26.88,57.7,USD
+Modena,,Italy,3.92,1.68,36.98,20.72,57.7,USD
+Turin,,Italy,3.94,1.69,36.85,20.84,57.69,USD
+Treviso,,Italy,4.48,1.7,35.86,21.48,57.34,USD
+Venice,,Italy,11.21,1.96,26.33,30.81,57.14,USD
+Freiburg Im Breisgau,,Germany,3.19,2.24,31.38,25.59,56.97,USD
+Anchorage,AK,United States,2.62,1.27,41.5,15.32,56.82,USD
+Canberra,,Australia,3.57,1.61,37.1,19.67,56.77,USD
+Groningen,,Netherlands,4.31,2.43,28.01,28.61,56.62,USD
+Maastricht,,Netherlands,6.16,2.24,28.01,28.56,56.57,USD
+Hamilton,,Bermuda,5,1.4,37.5,19,56.5,USD
+Reading,,United Kingdom,3.62,2.2,30.81,25.62,56.43,USD
+Houston,TX,United States,4,2.49,27.5,28.9,56.4,USD
+Southampton,,United Kingdom,3.93,2.16,30.81,25.53,56.34,USD
+Brisbane,,Australia,2.82,1.78,35.65,20.62,56.27,USD
+Arlington,VA,United States,3.25,2.74,25,30.65,55.65,USD
+Indianapolis,IN,United States,3,1.24,40,15.4,55.4,USD
+Charlotte,NC,United States,2.5,2.28,30,25.3,55.3,USD
+Utrecht,,Netherlands,7.84,2.3,24.2,30.84,55.04,USD
+Munich,,Germany,3.47,1.96,31.94,23.07,55.01,USD
+Leeds,,United Kingdom,4.01,2.78,23.11,31.81,54.92,USD
+San Francisco,CA,United States,3.5,1.79,33,21.4,54.4,USD
+Vicenza,,Italy,9.52,2.24,22.41,31.92,54.33,USD
+Brighton,,United Kingdom,4.62,1.72,32.35,21.82,54.17,USD
+Cleveland,OH,United States,3,1.86,32.5,21.6,54.1,USD
+Hamilton,,Canada,2.51,1.37,37.77,16.21,53.98,USD
+Leipzig,,Germany,3.92,2.19,28.01,25.82,53.83,USD
+Salzburg,,Austria,4.48,2.24,26.89,26.88,53.77,USD
+Frankfurt,,Germany,3.92,2.07,29.13,24.62,53.75,USD
+Sioux Falls,SD,United States,3.5,1.49,35,18.4,53.4,USD
+Paris,,France,3.14,1.43,35.89,17.44,53.33,USD
+Allentown,PA,United States,3.25,1,40,13.25,53.25,USD
+Montpellier,,France,5.6,1.96,28.01,25.2,53.21,USD
+Athens,GA,United States,3.5,0.45,45,8,53,USD
+Orlando,FL,United States,2.4,1.75,33,19.9,52.9,USD
+Milwaukee,WI,United States,2.88,2,30,22.88,52.88,USD
+Omaha,NE,United States,2.85,2,30,22.85,52.85,USD
+Cairns,,Australia,3.14,1.59,33.81,19.04,52.85,USD
+Perth,,Australia,3.57,1.43,34.96,17.87,52.83,USD
+Brooklyn,NY,United States,2.5,2.02,30,22.7,52.7,USD
+Irvine,CA,United States,3,1.86,31,21.6,52.6,USD
+Bordeaux,,France,4.51,1.41,33.81,18.61,52.42,USD
+Tokyo,,Japan,6.02,2.14,24.87,27.42,52.29,USD
+Manchester,,United Kingdom,3.85,1.91,29.26,22.95,52.21,USD
+Berlin,,Germany,3.83,2.02,28.17,24.03,52.2,USD
+San Jose,CA,United States,3.5,1.86,30,22.1,52.1,USD
+Stuttgart,,Germany,3.75,1.79,30.26,21.65,51.91,USD
+Tallahassee,FL,United States,2.5,0.93,40,11.8,51.8,USD
+Edmonton,,Canada,2.72,1.11,37.77,13.82,51.59,USD
+Tulsa,OK,United States,1,1.55,35,16.5,51.5,USD
+Detroit,MI,United States,2.5,0.99,39,12.4,51.4,USD
+Vienna,,Austria,4.26,1.59,31.15,20.16,51.31,USD
+Kelowna,,Canada,2.64,1.7,31.63,19.64,51.27,USD
+Buffalo,NY,United States,2.53,1.86,30,21.13,51.13,USD
+Aachen,,Germany,3.92,1.79,29.13,21.82,50.95,USD
+Strasbourg,,France,5.6,1.73,28.01,22.9,50.91,USD
+Milton Keynes,,United Kingdom,4.62,1.54,30.81,20.02,50.83,USD
+Auckland,,New Zealand,1.92,1.68,32.07,18.72,50.79,USD
+Cambridge,,United Kingdom,4.93,1.81,27.73,23.03,50.76,USD
+Al-khubar,,Saudi Arabia,4,4,6.67,44,50.67,USD
+Mannheim,,Germany,3.64,1.79,29.13,21.54,50.67,USD
+Marseille,,France,2.25,1.8,30.31,20.25,50.56,USD
+Las Vegas,NV,United States,3.45,1.68,30,20.25,50.25,USD
+Kyoto,,Japan,5.36,1.98,24.99,25.16,50.15,USD
+Darwin,,Australia,2.92,1.04,36.69,13.32,50.01,USD
+Barrie,,Canada,2.64,2.45,22.64,27.14,49.78,USD
+San Diego,CA,United States,3,1.86,28,21.6,49.6,USD
+Rehovot,,Israel,3.82,2.54,20.35,29.22,49.57,USD
+Rochester,NY,United States,3,2.64,20,29.4,49.4,USD
+Dunedin,,New Zealand,1.92,1.54,32.07,17.32,49.39,USD
+Reno,NV,United States,3,2.11,25,24.1,49.1,USD
+Eindhoven,,Netherlands,3.14,2.33,22.64,26.44,49.08,USD
+Bergamo,,Italy,9.58,0,39.44,9.58,49.02,USD
+Newcastle,,Australia,1.69,1.28,34.48,14.49,48.97,USD
+The Hague,,Netherlands,3.14,2.29,22.86,26.04,48.9,USD
+Padova,,Italy,6.31,1.27,29.86,19.01,48.87,USD
+Milan,,Italy,5.63,1.18,31.28,17.43,48.71,USD
+Boston,MA,United States,2.6,1.8,28,20.6,48.6,USD
+Nanaimo,BC,Canada,2.42,1.65,29.52,18.92,48.44,USD
+St.Catharines,,Canada,2.83,1.68,28.79,19.63,48.42,USD
+Bristol,,United Kingdom,4.16,1.63,27.73,20.46,48.19,USD
+Abbotsford,,Canada,2.42,1.44,31.3,16.82,48.12,USD
+Baltimore,MD,United States,1.88,1.87,27.5,20.58,48.08,USD
+Rome,,Italy,4.37,1.23,31.38,16.67,48.05,USD
+Graz,,Austria,4.37,1.34,30.26,17.77,48.03,USD
+Portland,OR,United States,2.5,1.55,30,18,48,USD
+New York,NY,United States,2.5,1.55,30,18,48,USD
+Victoria,,Canada,2.7,1.43,30.82,17,47.82,USD
+Haifa,,Israel,3.45,0.98,34.34,13.25,47.59,USD
+Nuremberg,,Germany,3.81,1.68,26.89,20.61,47.5,USD
+Tucson,AZ,United States,2.88,1.46,30,17.48,47.48,USD
+Osaka,,Japan,5.36,2.06,21.44,25.96,47.4,USD
+Fort Worth,TX,United States,5,1.24,30,17.4,47.4,USD
+Buenos Aires,,Argentina,2,2,25,22,47,USD
+Eugene,OR,United States,3,1.4,30,17,47,USD
+Lund,,Sweden,3.42,1.18,31.74,15.22,46.96,USD
+Red Deer,,Canada,2.42,1.28,31.73,15.22,46.95,USD
+Saskatoon,,Canada,2.59,0.91,35.13,11.69,46.82,USD
+Nantes,,France,4.31,1.41,28.4,18.41,46.81,USD
+Minneapolis,MN,United States,3,1.57,28,18.7,46.7,USD
+Phoenix,AZ,United States,2.95,1.37,30,16.65,46.65,USD
+Sacramento,CA,United States,4.5,1.71,25,21.6,46.6,USD
+Dresden,,Germany,4.99,2.24,19.05,27.39,46.44,USD
+Jerusalem,,Israel,3.14,1.27,30.59,15.84,46.43,USD
+Syracuse,NY,United States,9.5,2.17,15,31.2,46.2,USD
+Memphis,TN,United States,3.07,1.31,30,16.17,46.17,USD
+Glasgow,,United Kingdom,4.32,1.63,25.44,20.62,46.06,USD
+Genoa,,Italy,5.61,1.01,30.28,15.71,45.99,USD
+Karlsruhe,,Germany,2.24,1.68,26.92,19.04,45.96,USD
+Adelaide,,Australia,3.21,1.55,27.24,18.71,45.95,USD
+Leicester,,United Kingdom,6.16,0.89,30.81,15.06,45.87,USD
+Alicante,,Spain,2.52,2.13,21.96,23.82,45.78,USD
+West Palm Beach,FL,United States,2.5,1.81,25,20.6,45.6,USD
+Birmingham,,United Kingdom,5.4,1.54,24.66,20.8,45.46,USD
+Melbourne,,Australia,2.5,1.25,30.12,15,45.12,USD
+Bilbao,,Spain,4.49,2.09,19.63,25.39,45.02,USD
+Jersey City,NJ,United States,2.5,1.24,30,14.9,44.9,USD
+Corfu,,Greece,2.63,1.96,22.41,22.23,44.64,USD
+Dublin,,Ireland,4.96,1.24,27.27,17.36,44.63,USD
+Los Angeles,CA,United States,3.42,1.61,25,19.52,44.52,USD
+Concepcion,,Chile,0.43,2.89,15.17,29.33,44.5,USD
+Jacksonville,FL,United States,2,2.25,20,24.5,44.5,USD
+Akron,OH,United States,2.75,1.4,27.5,16.75,44.25,USD
+Roanoke,VA,United States,3.2,1.09,30,14.1,44.1,USD
+Liverpool,,United Kingdom,3.93,1.92,20.8,23.13,43.93,USD
+Montreal,,Canada,2.6,1.28,28.53,15.4,43.93,USD
+Greenville,SC,United States,3,2.3,17.5,26,43.5,USD
+Lille,,France,4.82,1.55,23.08,20.32,43.4,USD
+London,,Canada,2.67,1.44,26.15,17.07,43.22,USD
+Sevilla,,Spain,3.14,1.2,28.04,15.14,43.18,USD
+Limassol,,Cyprus,3.92,1.12,28.01,15.12,43.13,USD
+Albuquerque,NM,United States,2.9,1.62,24,19.1,43.1,USD
+Sherbrooke,,Canada,2.61,1.25,27.95,15.11,43.06,USD
+Guelph,,Canada,2.27,1.81,22.66,20.37,43.03,USD
+Hobart,,Australia,2.5,1.31,27.29,15.6,42.89,USD
+Bologna,,Italy,3.36,1.26,26.89,15.96,42.85,USD
+Coimbra,,Portugal,3.53,0.56,33.62,9.13,42.75,USD
+Vancouver,,Canada,2.64,1.51,24.82,17.74,42.56,USD
+Des Moines,IA,United States,2,1.24,28,14.4,42.4,USD
+Waterloo,,Canada,3.02,1.58,23.55,18.82,42.37,USD
+Santo Domingo,,Dominican Republic,3.44,3.33,5.55,36.74,42.29,USD
+Northampton,,United Kingdom,2.77,1.63,23.11,19.07,42.18,USD
+Quebec City,,Canada,2.64,1.28,26.72,15.44,42.16,USD
+Saint Louis,MO,United States,3,1.71,22,20.1,42.1,USD
+Fort Lauderdale,FL,United States,2.5,1.55,24,18,42,USD
+Malmo,,Sweden,6.96,1.13,23.59,18.26,41.85,USD
+Kitchener,,Canada,2.64,1.55,23.57,18.14,41.71,USD
+Calgary,,Canada,2.87,1.51,23.64,17.97,41.61,USD
+Galway,,Ireland,4.26,1.15,25.55,15.76,41.31,USD
+Busan,,South Korea,2.37,1.77,21.13,20.07,41.2,USD
+New Orleans,LA,United States,3.5,1.57,22,19.2,41.2,USD
+Birmingham,AL,United States,4.75,1.24,24,17.15,41.15,USD
+Cincinnati,OH,United States,3.75,1.24,25,16.15,41.15,USD
+Surrey,,Canada,2.42,1.39,24.82,16.32,41.14,USD
+Cork,,Ireland,4.59,1.23,24.2,16.89,41.09,USD
+Mississauga,,Canada,3.21,1.51,22.64,18.31,40.95,USD
+Maribor,,Slovenia,1.12,1.18,27.99,12.92,40.91,USD
+Gainesville,FL,United States,3,1.37,24,16.7,40.7,USD
+Limerick,,Ireland,4.96,1.15,24.2,16.46,40.66,USD
+St. John's,NL,Canada,2.83,1.51,22.66,17.93,40.59,USD
+Regina,,Canada,3.23,1.47,22.66,17.93,40.59,USD
+Malaga,,Spain,2.69,1.19,25.87,14.59,40.46,USD
+Fort Myers,FL,United States,4.05,1.24,24,16.45,40.45,USD
+Windsor,,Canada,2.64,1.51,22.66,17.74,40.4,USD
+San Antonio,TX,United States,3,1.24,25,15.4,40.4,USD
+Louisville,KY,United States,4.7,1.4,21.6,18.7,40.3,USD
+San Salvador,,El Salvador,5,2.5,10,30,40,USD
+Salt Lake City,UT,United States,2.5,0.75,30,10,40,USD
+Saint John,,Canada,3.87,1.13,24.53,15.17,39.7,USD
+Beirut,,Lebanon,6.31,2,13.26,26.31,39.57,USD
+Valencia,,Spain,5.04,1.21,22.41,17.14,39.55,USD
+Jeddah (Jiddah),,Saudi Arabia,2.67,2.67,10.13,29.37,39.5,USD
+Stamford,CT,United States,3.12,1.24,23.6,15.52,39.12,USD
+Toronto,,Canada,3.21,1.32,22.64,16.41,39.05,USD
+Belfast,,United Kingdom,3.85,1.2,23.11,15.85,38.96,USD
+Luanda,,Angola,1.75,2.5,12,26.75,38.75,USD
+Hartford,CT,United States,3.62,2.24,12.5,26.02,38.52,USD
+Barcelona,,Spain,2.82,1.13,23.92,14.12,38.04,USD
+Asheville,NC,United States,2.5,1.55,20,18,38,USD
+Moncton,,Canada,2.42,1.28,22.66,15.22,37.88,USD
+Madrid,,Spain,3.03,1.18,22.99,14.83,37.82,USD
+Corunna,,Spain,4.48,1.09,22.41,15.38,37.79,USD
+Newcastle Upon Tyne,,United Kingdom,3.85,1.54,18.49,19.25,37.74,USD
+Miami,FL,United States,2.82,1.49,20,17.72,37.72,USD
+Little Rock,AR,United States,3,1.24,22,15.4,37.4,USD
+Fairfax,VA,United States,3.38,1.3,21,16.38,37.38,USD
+Halifax,,Canada,2.46,1.13,23.34,13.76,37.1,USD
+Rijeka,,Croatia,2.97,0.74,26.69,10.37,37.06,USD
+Philadelphia,PA,United States,2.88,1.4,20,16.88,36.88,USD
+Chicago,IL,United States,3.12,1.12,22.5,14.32,36.82,USD
+Kingston,,Jamaica,2.76,2.98,4.25,32.56,36.81,USD
+Ann Arbor,MI,United States,3.5,1.35,19.8,17,36.8,USD
+Palma De Mallorca,,Spain,4.48,1.12,21.07,15.68,36.75,USD
+Lusaka,,Zambia,2.44,2.33,11,25.74,36.74,USD
+Tel Aviv-yafo,,Israel,3.13,0.97,23.91,12.83,36.74,USD
+Aveiro,,Portugal,3.78,1.38,19.05,17.58,36.63,USD
+Baghdad,,Iraq,3.29,1.72,16.11,20.49,36.6,USD
+Paphos,,Cyprus,7.23,1.57,13.26,22.93,36.19,USD
+Cagliari,,Italy,4.48,1.82,13.45,22.68,36.13,USD
+Fredericton,,Canada,3.97,0.76,24.55,11.57,36.12,USD
+Ramat Gan,,Israel,3.05,1.27,20.35,15.75,36.1,USD
+Oshawa,,Canada,2.83,1.25,20.77,15.33,36.1,USD
+San Juan,,Puerto Rico,1.95,1.4,20,15.95,35.95,USD
+Sliema,,Malta,8.96,1.01,16.81,19.06,35.87,USD
+Huntsville,AL,United States,3.25,1.24,20,15.65,35.65,USD
+Tripoli,,Libya,2.91,2.18,10.91,24.71,35.62,USD
+Grand Rapids,MI,United States,3.3,1.12,21,14.5,35.5,USD
+Denver,CO,United States,2.52,2,12.5,22.52,35.02,USD
+Atlanta,GA,United States,3,1.4,18,17,35,USD
+Bath,,United Kingdom,4,1.37,16.94,17.7,34.64,USD
+Harrisburg,PA,United States,2.2,1.74,15,19.6,34.6,USD
+Brampton,,Canada,3.4,0.85,22.66,11.9,34.56,USD
+Panama City,,Panama,2,1.25,20,14.5,34.5,USD
+Irbil,,Iraq,4,1.74,12.91,21.4,34.31,USD
+Winnipeg,,Canada,2.66,1.06,20.8,13.26,34.06,USD
+Bari,,Italy,3.36,1.09,19.61,14.26,33.87,USD
+Naples,,Italy,3.92,0.94,20.17,13.32,33.49,USD
+Heraklion,,Greece,3.36,1.91,10.65,22.46,33.11,USD
+Accra,,Ghana,1.8,2.59,5.28,27.7,32.98,USD
+Raleigh,NC,United States,2.45,1.55,15,17.95,32.95,USD
+Pretoria,,South Africa,2.58,1.16,18.72,14.18,32.9,USD
+Kingston,,Canada,2.26,0.94,20.9,11.66,32.56,USD
+Porto,,Portugal,3.93,0.84,19.52,12.33,31.85,USD
+Tampa,FL,United States,2.74,1,19,12.74,31.74,USD
+Ottawa,,Canada,2.64,1.46,14.34,17.24,31.58,USD
+Oklahoma City,OK,United States,2.75,1.24,16,15.15,31.15,USD
+Ad Dammam,,Saudi Arabia,2.67,2,8,22.67,30.67,USD
+Tirana,,Albania,2.24,1.81,10.09,20.34,30.43,USD
+Lagos,,Nigeria,2.51,2.01,7.54,22.61,30.15,USD
+Port Moresby,,Papua New Guinea,2.07,1.69,10.85,18.97,29.82,USD
+Patras,,Greece,3.81,1.36,11.21,17.41,28.62,USD
+Cancun,,Mexico,1.49,1.49,11.9,16.39,28.29,USD
+Nicosia,,Cyprus,5.6,0,22.41,5.6,28.01,USD
+Ljubljana,,Slovenia,1.12,1,16.81,11.12,27.93,USD
+Santiago,,Chile,0.43,1.58,11.21,16.23,27.44,USD
+Split,,Croatia,2.97,1.48,9.64,17.77,27.41,USD
+Nashville,TN,United States,3,1.24,12,15.4,27.4,USD
+Taichung,,Taiwan,2.61,0.61,18.44,8.71,27.15,USD
+Prague,,Czech Republic,1.67,1.04,15.01,12.07,27.08,USD
+Macao,,Macao,1.88,1.55,9.68,17.38,27.06,USD
+Brno,,Czech Republic,1.67,1.1,14.38,12.67,27.05,USD
+Nairobi,,Kenya,2.89,1.92,4.81,22.09,26.9,USD
+Charleston,SC,United States,4,1.09,12,14.9,26.9,USD
+Budapest,,Hungary,1.61,1,15.07,11.61,26.68,USD
+Lisbon,,Portugal,3.65,0.59,16.66,9.55,26.21,USD
+Braga,,Portugal,4.34,0.5,16.81,9.34,26.15,USD
+Caracas,,Venezuela,10,1.5,1,25,26,USD
+Kigali,,Rwanda,4.8,2.06,0.55,25.4,25.95,USD
+Columbus,OH,United States,3.18,1.24,10,15.58,25.58,USD
+Hong Kong,,Hong Kong,2.84,1.03,12.39,13.14,25.53,USD
+Tallinn,,Estonia,2.86,0.67,15.69,9.56,25.25,USD
+Kuwait City,,Kuwait,3.31,1.65,5.38,19.81,25.19,USD
+Natal,,Brazil,1.25,1.39,10.04,15.15,25.19,USD
+Phuket,,Thailand,5.58,0.56,13.96,11.18,25.14,USD
+Addis Ababa,,Ethiopia,1.61,0.85,15,10.11,25.11,USD
+Dar Es Salaam,,Tanzania,3.05,1.43,7.72,17.35,25.07,USD
+Montevideo,,Uruguay,1.33,1.05,12.64,11.83,24.47,USD
+Male,,Maldives,1.63,1.63,6.52,17.93,24.45,USD
+Cuenca,,Ecuador,1.5,1.54,7.5,16.9,24.4,USD
+Santa Cruz De Tenerife,,Spain,2.63,0.67,14.68,9.33,24.01,USD
+Manama,,Bahrain,3.98,0.66,13.25,10.58,23.83,USD
+Tartu,,Estonia,2.91,0.67,14.18,9.61,23.79,USD
+Havana,,Cuba,1,1,12.5,11,23.5,USD
+Athens,,Greece,3.38,0.77,12.23,11.08,23.31,USD
+Lima,,Peru,1.55,1.55,6.2,17.05,23.25,USD
+Yangon,,Myanmar,1.27,1.56,6,16.87,22.87,USD
+Moscow,,Russia,4.43,0.37,14.66,8.13,22.79,USD
+Chania,,Greece,3.36,0.72,12.16,10.56,22.72,USD
+Jubail,,Saudi Arabia,2.67,1.33,6.66,15.97,22.63,USD
+Thessaloniki,,Greece,3.59,0.76,11.42,11.19,22.61,USD
+San Jose,,Costa Rica,1.2,1.2,9.39,13.2,22.59,USD
+Cali,,Colombia,1.37,1.63,4.88,17.67,22.55,USD
+Las Palmas,,Spain,1.94,0.71,13.45,9.04,22.49,USD
+Bandar Seri Begawan,,Brunei,2.12,0.55,14.87,7.62,22.49,USD
+Playa del Carmen,,Mexico,1.64,1.19,8.92,13.54,22.46,USD
+Bratislava,,Slovakia,3.36,0.56,13.45,8.96,22.41,USD
+Ostrava,,Czech Republic,1.14,0.87,12.44,9.84,22.28,USD
+Ramallah,,Palestinian Territory,2.54,0.95,10.18,12.04,22.22,USD
+Seoul,,South Korea,2.54,0.93,10.15,11.84,21.99,USD
+Gdansk,,Poland,1.86,0.66,13.26,8.46,21.72,USD
+Campinas,,Brazil,1.26,0.82,12,9.46,21.46,USD
+Harare,,Zimbabwe,5,1,6,15,21,USD
+Muscat,,Oman,2.6,0.52,12.98,7.8,20.78,USD
+Larnaca,,Cyprus,3.36,1.18,5.6,15.16,20.76,USD
+Kampala,,Uganda,2.73,1.36,4.09,16.33,20.42,USD
+Ribeirao Preto,,Brazil,1.12,0.81,11.16,9.22,20.38,USD
+Durban,,South Africa,0.75,1.05,8.99,11.25,20.24,USD
+Kosice,,Slovakia,2.24,0.67,11.21,8.94,20.15,USD
+Plzen,,Czech Republic,1.77,1,8.34,11.77,20.11,USD
+Rhodes,,Greece,1.27,0.7,11.67,8.27,19.94,USD
+Izmir,,Turkey,1.03,0.86,10.27,9.63,19.9,USD
+Singapore,,Singapore,2.41,0.39,12.71,6.31,19.02,USD
+Saint Petersburg,,Russia,4.7,0.61,8.07,10.8,18.87,USD
+Warsaw,,Poland,2.13,0.59,10.64,8.03,18.67,USD
+Angeles,,Philippines,0.99,1.12,6.41,12.19,18.6,USD
+Ajman,,United Arab Emirates,0.82,1.16,6.13,12.42,18.55,USD
+Riga,,Latvia,2.25,0.72,9.02,9.45,18.47,USD
+Ankara,,Turkey,1.03,0.92,8.21,10.23,18.44,USD
+Gdynia,,Poland,1.99,0.58,10.6,7.79,18.39,USD
+Bursa,,Turkey,1.03,0.86,8.56,9.63,18.19,USD
+Zadar,,Croatia,3.34,0.74,7.41,10.74,18.15,USD
+Sao Paulo,,Brazil,1.24,0.76,9.09,8.84,17.93,USD
+Osijek,,Croatia,2.97,0.74,7.41,10.37,17.78,USD
+Antalya,,Turkey,1.2,0.62,10.27,7.4,17.67,USD
+Vilnius,,Lithuania,0.73,0.7,9.74,7.73,17.47,USD
+Guadalajara,,Mexico,1.01,0.45,11.9,5.51,17.41,USD
+Lodz,,Poland,1.59,0.61,9.54,7.69,17.23,USD
+Bahrain,,Bahrain,4.64,0.99,2.65,14.54,17.19,USD
+Kaohsiung,,Taiwan,2.61,0.61,8.45,8.71,17.16,USD
+Brasilia,,Brazil,1.17,0.75,8.37,8.67,17.04,USD
+Abuja,,Nigeria,2.01,1,5.02,12.01,17.03,USD
+Puebla,,Mexico,2.08,0.59,8.92,7.98,16.9,USD
+Riyadh,,Saudi Arabia,1.33,0.49,10.66,6.23,16.89,USD
+Banja Luka,,Bosnia And Herzegovina,1.15,0.69,8.59,8.05,16.64,USD
+Port Elizabeth,,South Africa,1.5,0.75,7.49,9,16.49,USD
+Guatemala City,,Guatemala,3.26,0.65,6.51,9.76,16.27,USD
+Asuncion,,Paraguay,0.93,0.69,8.38,7.83,16.21,USD
+Krakow (Cracow),,Poland,1.6,0.53,9.31,6.9,16.21,USD
+Katowice,,Poland,1.59,0.66,7.95,8.19,16.14,USD
+Tijuana,,Mexico,1.19,0.59,8.92,7.09,16.01,USD
+Merida,,Mexico,1.19,0.59,8.92,7.09,16.01,USD
+Lublin,,Poland,1.46,0.49,9.28,6.36,15.64,USD
+Dubai,,United Arab Emirates,2.04,0.54,8.17,7.44,15.61,USD
+Zagreb,,Croatia,2.23,0.74,5.94,9.63,15.57,USD
+Doha,,Qatar,2.75,0.44,8.24,7.15,15.39,USD
+Guayaquil,,Ecuador,1.5,0.38,10,5.3,15.3,USD
+Istanbul,,Turkey,1.1,0.69,7.21,8,15.21,USD
+Curitiba,,Brazil,1.37,0.7,6.7,8.37,15.07,USD
+Belgrade,,Serbia,1.58,0.65,6.99,8.08,15.07,USD
+Johannesburg,,South Africa,1.88,0.9,4.13,10.88,15.01,USD
+Goiania,,Brazil,1.19,0.82,5.58,9.39,14.97,USD
+Penang,,Malaysia,2.38,0.64,5.96,8.78,14.74,USD
+Poznan,,Poland,1.42,0.53,7.95,6.72,14.67,USD
+Szczecin,,Poland,0.8,0.53,8.22,6.1,14.32,USD
+Rio De Janeiro,,Brazil,1.39,0.57,7.21,7.09,14.3,USD
+Wroclaw,,Poland,1.59,0.67,5.97,8.29,14.26,USD
+Amman,,Jordan,0.42,0.67,7.06,7.12,14.18,USD
+Novosibirsk,,Russia,2.63,0.36,7.91,6.23,14.14,USD
+Kota Kinabalu,,Malaysia,2.38,0.48,6.92,7.18,14.1,USD
+Minsk,,Belarus,2.9,0.5,6,7.9,13.9,USD
+Belo Horizonte,,Brazil,1.21,0.66,6.06,7.81,13.87,USD
+Taipei,,Taiwan,2.15,0.61,5.53,8.25,13.78,USD
+Abu Dhabi,,United Arab Emirates,0.98,0.46,8.17,5.58,13.75,USD
+Shenzhen,,China,2.04,0.39,7.53,5.94,13.47,USD
+Rabat,,Morocco,0.88,0.72,5.15,8.08,13.23,USD
+Bogota,,Colombia,1.27,0.54,6.5,6.67,13.17,USD
+Salvador,,Brazil,1.13,0.56,6.42,6.73,13.15,USD
+Ulaanbaatar,,Mongolia,0.6,0.45,8,5.1,13.1,USD
+Monterrey,,Mexico,0.59,0.36,8.9,4.19,13.09,USD
+Baku,,Azerbaijan,0.95,0.67,5.24,7.65,12.89,USD
+Klaipeda,,Lithuania,0.65,0.41,8.11,4.75,12.86,USD
+Vitoria,,Brazil,1.06,0.68,4.81,7.86,12.67,USD
+Sofia,,Bulgaria,0.46,0.46,7.61,5.06,12.67,USD
+Florianopolis,,Brazil,1.1,0.72,4.23,8.3,12.53,USD
+Medellin,,Colombia,1.09,0.35,7.8,4.59,12.39,USD
+Podgorica,,Montenegro,1.12,0.45,6.72,5.62,12.34,USD
+Fortaleza,,Brazil,1.12,0.56,5.58,6.72,12.3,USD
+Sarajevo,,Bosnia And Herzegovina,0.86,0.57,5.73,6.56,12.29,USD
+Alexandria,,Egypt,0.64,0.64,5.11,7.04,12.15,USD
+Varna,,Bulgaria,0.57,0.46,6.87,5.17,12.04,USD
+Tianjin,,China,1.33,0.27,7.95,4.03,11.98,USD
+Cluj-napoca,,Romania,0.57,0.57,5.69,6.27,11.96,USD
+Kaunas,,Lithuania,0.81,0.65,4.59,7.31,11.9,USD
+Cape Town,,South Africa,0.75,0.75,3.62,8.25,11.87,USD
+Kharkiv,,Ukraine,1.39,0.17,8.76,3.09,11.85,USD
+Pristina,,Kosovo (Disputed Territory),1.68,0.56,4.48,7.28,11.76,USD
+Shanghai,,China,2.2,0.47,4.8,6.9,11.7,USD
+Puerto Vallarta,,Mexico,2.68,0.3,5.95,5.68,11.63,USD
+Ashgabat,,Turkmenistan,0,0.46,7,4.6,11.6,USD
+Timisoara,,Romania,0.55,0.55,5.54,6.05,11.59,USD
+Porto Alegre,,Brazil,1.25,0.62,4.13,7.45,11.58,USD
+Tunis,,Tunisia,0.23,0.36,7.68,3.83,11.51,USD
+Islamabad,,Pakistan,0.96,0.86,1.92,9.56,11.48,USD
+Almaty,,Kazakhstan,1.23,0.41,6.13,5.33,11.46,USD
+Beijing,,China,2.04,0.36,5.8,5.64,11.44,USD
+Yekaterinburg,,Russia,2.68,0.4,4.66,6.68,11.34,USD
+Plovdiv,,Bulgaria,0.52,0.37,6.87,4.22,11.09,USD
+Recife,,Brazil,1.21,0.59,3.96,7.11,11.07,USD
+Algiers,,Algeria,0.24,0.28,8.03,3.04,11.07,USD
+Casablanca,,Morocco,0.72,0.72,3.09,7.92,11.01,USD
+Skopje,,Macedonia,0.73,0.46,5.47,5.33,10.8,USD
+Beersheba,,Israel,5.72,0,5,5.72,10.72,USD
+Iasi,,Romania,0.51,0.51,5.09,5.61,10.7,USD
+Guangzhou,,China,1.57,0.41,4.89,5.67,10.56,USD
+Sibiu,,Romania,0.5,0.5,4.9,5.5,10.4,USD
+Tehran,,Iran,0.4,0.5,5,5.4,10.4,USD
+Phnom Penh,,Cambodia,1.12,0.72,2,8.32,10.32,USD
+Windhoek,,Namibia,0.75,0.75,2.06,8.25,10.31,USD
+Queretaro,,Mexico,2.38,0.3,4.76,5.38,10.14,USD
+Dnipropetrovsk,,Ukraine,1.6,0.29,5.59,4.5,10.09,USD
+Petaling Jaya,,Malaysia,0.72,0.21,7.15,2.82,9.97,USD
+Quezon City,,Philippines,0.85,0.52,3.85,6.05,9.9,USD
+Nanjing,,China,1.65,0.38,4.45,5.45,9.9,USD
+Novi Sad,,Serbia,0.75,0.53,3.68,6.05,9.73,USD
+Dhaka,,Bangladesh,1.05,0.57,2.87,6.75,9.62,USD
+Kuala Lumpur,,Malaysia,0.72,0.29,5.97,3.62,9.59,USD
+Mexico City,,Mexico,0.54,0.3,5.95,3.54,9.49,USD
+Constanta,,Romania,0.46,0.45,4.42,4.96,9.38,USD
+Chiang Mai,,Thailand,0.98,0.28,5.58,3.78,9.36,USD
+Cebu,,Philippines,0.85,0.36,4.27,4.45,8.72,USD
+Makati,,Philippines,0.85,0.21,5.77,2.95,8.72,USD
+Nis,,Serbia,0.75,0.51,2.8,5.85,8.65,USD
+Tashkent,,Uzbekistan,1.25,0.35,3.8,4.75,8.55,USD
+Dumaguete,,Philippines,2.14,0.21,4.27,4.24,8.51,USD
+Damascus,,Syria,0.33,0.3,5,3.33,8.33,USD
+Kathmandu,,Nepal,1.41,0.47,2.12,6.11,8.23,USD
+Odesa,,Ukraine,1.52,0.22,4.5,3.72,8.22,USD
+Johor Baharu,,Malaysia,0.72,0.3,4.29,3.72,8.01,USD
+Bali,,Indonesia,0.5,0.44,2.84,4.9,7.74,USD
+Brasov,,Romania,0.39,0.39,3.41,4.29,7.7,USD
+Ho Chi Minh City,,Vietnam,0.53,0.62,0.8,6.73,7.53,USD
+Davao,,Philippines,0.85,0.27,3.85,3.55,7.4,USD
+Craiova,,Romania,0.35,0.35,3.54,3.85,7.39,USD
+Bucharest,,Romania,0.35,0.35,3.54,3.85,7.39,USD
+Pattaya,,Thailand,0.98,0.14,5,2.38,7.38,USD
+Quito,,Ecuador,0.48,0.3,3.8,3.48,7.28,USD
+Lahore,,Pakistan,1.92,0.34,1.92,5.32,7.24,USD
+Xi'an,,China,1.02,0.24,3.76,3.42,7.18,USD
+Tbilisi,,Georgia,1.28,0.23,3.4,3.58,6.98,USD
+Kiev,,Ukraine,1.67,0.23,2.94,3.97,6.91,USD
+Hanoi,,Vietnam,0.44,0.49,1.47,5.34,6.81,USD
+Jakarta,,Indonesia,0.53,0.28,3.42,3.33,6.75,USD
+Rawalpindi,,Pakistan,0.48,0.43,1.92,4.78,6.7,USD
+Manila,,Philippines,0.86,0.26,2.69,3.46,6.15,USD
+Vijayawada,,India,2.26,0.23,1.51,4.56,6.07,USD
+Bangkok,,Thailand,0.98,0.17,3.35,2.68,6.03,USD
+Jalandhar,,India,0.27,0.38,1.88,4.07,5.95,USD
+Lviv,,Ukraine,1.23,0.25,2.14,3.73,5.87,USD
+Chisinau,,Moldova,1.31,0.16,2.89,2.91,5.8,USD
+Lucknow (Lakhnau),,India,1.51,0.27,1.58,4.21,5.79,USD
+Surabaya,,Indonesia,0.43,0.28,2.56,3.23,5.79,USD
+Surat,,India,0.56,0.22,3.01,2.76,5.77,USD
+Gurgaon,,India,0.75,0.35,1.51,4.25,5.76,USD
+Goa,,India,0.41,0.38,1.51,4.21,5.72,USD
+Bandung,,Indonesia,0.5,0.28,2.38,3.3,5.68,USD
+Kochi,,India,2.26,0.19,1.51,4.16,5.67,USD
+Yerevan,,Armenia,1.24,0.21,2.27,3.34,5.61,USD
+Valenzuela,,Philippines,0.85,0.1,3.74,1.85,5.59,USD
+Karachi,,Pakistan,0.96,0.26,1.92,3.56,5.48,USD
+Visakhapatnam,,India,0.84,0.2,2.63,2.84,5.47,USD
+Ludhiana,,India,0.83,0.23,2.26,3.13,5.39,USD
+Chennai,,India,1.51,0.23,1.51,3.81,5.32,USD
+Siem Reap,,Cambodia,1.5,0.26,1,4.1,5.1,USD
+Mumbai,,India,0.32,0.3,1.51,3.32,4.83,USD
+Guwahati,,India,0.45,0.27,1.66,3.15,4.81,USD
+Bhubaneswar,,India,1.51,0.23,0.98,3.81,4.79,USD
+Kolkata,,India,0.38,0.3,1.36,3.38,4.74,USD
+Bangalore,,India,0.86,0.23,1.51,3.16,4.67,USD
+Thiruvananthapuram,,India,0.45,0.27,1.51,3.15,4.66,USD
+Jaipur,,India,0.75,0.23,1.51,3.05,4.56,USD
+Navi Mumbai,,India,0.3,0.3,1.2,3.3,4.5,USD
+Colombo,,Sri Lanka,0.37,0.33,0.74,3.67,4.41,USD
+Hyderabad,,India,0.6,0.23,1.51,2.9,4.41,USD
+Thane,,India,0.38,0.3,0.9,3.38,4.28,USD
+Delhi,,India,0.45,0.23,1.51,2.75,4.26,USD
+Tiruchirapalli (Trichy),,India,1.13,0.23,0.75,3.43,4.18,USD
+Medan,,Indonesia,0.43,0.25,1.25,2.93,4.18,USD
+Pune,,India,0.3,0.23,1.51,2.6,4.11,USD
+Cairo,,Egypt,0.38,0.18,1.92,2.18,4.1,USD
+Nagpur,,India,0.98,0.22,0.9,3.18,4.08,USD
+Ahmedabad,,India,0.26,0.23,1.51,2.56,4.07,USD
+Guntur,,India,0.83,0.23,0.9,3.13,4.03,USD
+Madurai,,India,0.75,0.2,1.2,2.75,3.95,USD
+Chandigarh,,India,0.41,0.26,0.9,3.01,3.91,USD
+Mangalore,,India,0.38,0.2,1.51,2.38,3.89,USD
+Bhopal,,India,0.26,0.23,1.2,2.56,3.76,USD
+Coimbatore,,India,0.75,0.21,0.9,2.85,3.75,USD
+Indore,,India,0.38,0.23,0.75,2.68,3.43,USD
+Nasik,,India,0.26,0.23,0.75,2.56,3.31,USD
+Vadodara,,India,0.3,0.19,0.9,2.2,3.1,USD
+Noida,,India,0.3,0.2,0.75,2.3,3.05,USD
+Patna,,India,0.23,0.15,1.13,1.73,2.86,USD
