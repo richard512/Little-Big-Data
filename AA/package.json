@@ -1,0 +1,15 @@
+{
+  "name": "aa-data",
+  "version": "1.0.0",
+  "description": "aa meetups in the usa",
+  "main": "aa.js",
+  "dependencies": {
+    "json2csv": "^3.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}

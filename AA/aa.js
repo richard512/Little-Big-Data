@@ -4,9 +4,6 @@ var json2csv = require('json2csv');
 aadata = fs.readFileSync('aa-usa.json');
 fields = ['city', 'state']
 
-console.log('Loaded JSON')
-
-
 eval('aadata = '+aadata)
 
 for (i in aadata) {
@@ -27,5 +24,3 @@ json2csv({ data: aadata, fields: fields }, function(err, csv) {
   console.log(csv);
 });
 */
-
-console.log('done')
