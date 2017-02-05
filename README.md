@@ -9,3 +9,7 @@ a random collection of interesting data
   mongoimport --db DBNAME --collection COLNAME --type json --jsonArray --file FILENAME.json
   
   mysqlimport --columns='head -n 1 FILENAME.csv' --ignore-lines=1 -uUSERNAME -p TABLENAME FILENAME.csv
+
+
+## Maps
+  USA Housing Prices: batchgeo.com/map/735612ed6e3358eff9889878fa99c91c
