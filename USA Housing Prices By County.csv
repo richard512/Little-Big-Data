@@ -1,4 +1,4 @@
-avgListPrice,city,state,statecode,medianPrice,popularity,latitude,longitude
+avgListPrice,county,state,statecode,medianPrice,popularity,latitude,longitude
 5000000,ORANGE,California,CA,,,33.7877944,-117.8531119
 3919716,New York,New York,NY,1199000,5,40.7127837,-74.0059413
 3880872,Pitkin,Colorado,CO,613750,11,38.6091612,-106.5166957
