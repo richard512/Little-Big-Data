@@ -1,6 +1,6 @@
 # USA AA Locations and Times (Partial)
 
-![](http://i.imgur.com/GkwrwH4.png | width=100x100)
+[![https://www.batchgeo.com/map/a29a8bd487cee5263417a916fac1d249](http://i.imgur.com/GkwrwH4.png | width=100x100)
 
 #### Map: batchgeo.com/map/a29a8bd487cee5263417a916fac1d249
 
