@@ -13,4 +13,5 @@ a random collection of interesting data
 
 ## Maps
   USA Housing Prices: batchgeo.com/map/735612ed6e3358eff9889878fa99c91c
+  
   World Taxi Prices: batchgeo.com/map/ee59b6b9b63a038dce5d67761e88b529
