@@ -1,7 +1,4 @@
 Location,State,CountryCode,CountryName
-Montgomery County,MD,US,United States
-Albany,NY,US,United States
-Boerne,TX,US,United States
 Anchorage,AK,US,United States
 Juneau,AK,US,United States
 Fairbanks,AK,US,United States
@@ -1432,6 +1429,7 @@ College Park,Maryland,US,United States
 Boston,Mass,US,United States
 Boston,Massachusetts,US,United States
 Cambridge,Massachusetts,US,United States
+Montgomery County,MD,US,United States
 Bethesda,MD,US,United States
 Ft. Meade,MD,USA,United States
 Clarksburg,MD,US,United States
@@ -2111,6 +2109,7 @@ Fallon,NV,US,United States
 Alamo,NV,US,United States
 Lovelock,NV,US,United States
 Las Vegas,NV USA,US,United States
+Albany,NY,US,United States
 New York,NY,US,United States
 Buffalo,NY,US,United States
 Syracuse,NY,US,United States
@@ -2765,6 +2764,7 @@ Dayton,TN,US,United States
 Nashville,TN,USA,United States
 Clarksville,TN.,US,United States
 Mountain View,Tokyo,Ylivieska,Beijing... it depends :P
+Boerne,TX,US,United States
 San Antonio,TX,US,United States
 Dallas,TX,US,United States
 Fort Worth,TX,US,United States
@@ -3157,8 +3157,6 @@ Newport News,VA,USA.,United States
 Newport News,VA,US,United States
 Alexandria,VA,US,United States
 Chesapeake,VA,US,United States
-Burlington,VT,US,United States
-Burlington,VT,US,United States
 Richmond,VA,United States,United States
 Newport News,VA,US,United States
 Blacksburg,VA,USA,United States
@@ -3168,6 +3166,8 @@ Richmond,VA,US,United States
 Fairfax,VA,US,United States
 Falls Church,VA,US,United States
 Petersburg,VA,US,United States
+Burlington,VT,US,United States
+Burlington,VT,US,United States
 Burlington,VT,US,United States
 Randolph,VT,US,United States
 Brattleboro,VT,US,United States
