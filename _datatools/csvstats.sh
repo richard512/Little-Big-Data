@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# example usage: ./csvstats.sh _ALL.csv | more
+
+if [ -z "$1" ]; then
+	echo "example usage: ./csvstats.sh _ALL.csv | more"
+	exit
+fi
+
 csvfile=$1
 colcount=$(head -1 $csvfile | sed 's/[^,]//g' | wc -c)
 for i in $(seq 1 $colcount);
