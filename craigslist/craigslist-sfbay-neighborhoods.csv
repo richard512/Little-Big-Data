@@ -1,0 +1,134 @@
+subdomain,subarea,subareaid,neighborhood,neighborhoodid,state,country,latitude,longitude
+sfbay,peninsula,pen,atherton,70,CA,US,37.4613272,-122.197743
+sfbay,peninsula,pen,belmont,71,CA,US,37.5202145,-122.2758008
+sfbay,peninsula,pen,brisbane,73,CA,US,37.6807661,-122.3999715
+sfbay,peninsula,pen,burlingame,74,CA,US,37.5778696,-122.34809
+sfbay,peninsula,pen,coastside/pescadero,115,CA,US,37.1196843,-122.306799
+sfbay,peninsula,pen,daly city,75,CA,US,37.6879241,-122.4702079
+sfbay,peninsula,pen,east palo alto,76,CA,US,37.4688273,-122.1410751
+sfbay,peninsula,pen,foster city,77,CA,US,37.5585465,-122.2710788
+sfbay,peninsula,pen,half moon bay,161,CA,US,37.4635519,-122.4285862
+sfbay,peninsula,pen,los altos,78,CA,US,37.3852183,-122.1141298
+sfbay,peninsula,pen,menlo park,79,CA,US,37.4529598,-122.1817252
+sfbay,peninsula,pen,millbrae,80,CA,US,37.5985468,-122.3871942
+sfbay,peninsula,pen,mountain view,81,CA,US,37.3860517,-122.0838511
+sfbay,peninsula,pen,pacifica,82,CA,US,37.6138253,-122.4869194
+sfbay,peninsula,pen,palo alto,83,CA,US,37.4418834,-122.1430195
+sfbay,peninsula,pen,portola valley,163,CA,US,37.3841066,-122.2352443
+sfbay,peninsula,pen,redwood city,84,CA,US,37.4852152,-122.2363548
+sfbay,peninsula,pen,redwood shores,85,CA,US,37.5364134,-122.2455364
+sfbay,peninsula,pen,san bruno,86,CA,US,37.6304904,-122.4110835
+sfbay,peninsula,pen,san carlos,87,CA,US,37.5071591,-122.2605222
+sfbay,peninsula,pen,san mateo,88,CA,US,37.5629917,-122.3255254
+sfbay,peninsula,pen,south san francisco,89,CA,US,37.654656,-122.4077498
+sfbay,peninsula,pen,woodside,162,CA,US,37.4299388,-122.2538557
+sfbay,san francisco,sfc,alamo square / nopa,149,CA,US,37.7749009,-122.4375083
+sfbay,san francisco,sfc,bayview,110,CA,US,37.7276095,-122.3702611
+sfbay,san francisco,sfc,bernal heights,3,CA,US,37.7411622,-122.4178378
+sfbay,san francisco,sfc,castro / upper market,4,CA,US,37.7214966,-122.479805
+sfbay,san francisco,sfc,cole valley / ashbury hts,5,CA,US,37.7650406,-122.4502301
+sfbay,san francisco,sfc,downtown / civic / van ness,6,CA,US,37.7775837,-122.4234988
+sfbay,san francisco,sfc,excelsior / outer mission,7,CA,US,37.7270972,-122.4331518
+sfbay,san francisco,sfc,financial district,8,CA,US,37.7945742,-122.3999445
+sfbay,san francisco,sfc,glen park,9,CA,US,37.7377715,-122.4321041
+sfbay,san francisco,sfc,haight ashbury,11,CA,US,37.7692204,-122.4481393
+sfbay,san francisco,sfc,hayes valley,12,CA,US,37.7759073,-122.4245247
+sfbay,san francisco,sfc,ingleside / SFSU / CCSF,13,CA,US,37.721897,-122.4782094
+sfbay,san francisco,sfc,inner richmond,14,CA,US,37.7798704,-122.4647458
+sfbay,san francisco,sfc,inner sunset / UCSF,15,CA,US,37.7607369,-122.4679536
+sfbay,san francisco,sfc,laurel hts / presidio,16,CA,US,37.787396,-122.44669
+sfbay,san francisco,sfc,lower haight,10,CA,US,37.7720656,-122.4311526
+sfbay,san francisco,sfc,lower nob hill,20,CA,US,37.7889945,-122.4109272
+sfbay,san francisco,sfc,lower pac hts,24,CA,US,37.786997,-122.4368151
+sfbay,san francisco,sfc,marina / cow hollow,17,CA,US,37.79992,-122.437463
+sfbay,san francisco,sfc,mission district,18,CA,US,37.7598648,-122.4147977
+sfbay,san francisco,sfc,nob hill,19,CA,US,37.793014,-122.416113
+sfbay,san francisco,sfc,noe valley,21,CA,US,37.7502378,-122.4337029
+sfbay,san francisco,sfc,north beach / telegraph hill,22,CA,US,37.8013407,-122.4056674
+sfbay,san francisco,sfc,pacific heights,23,CA,US,37.7925153,-122.4382307
+sfbay,san francisco,sfc,portola district,164,CA,US,37.7297408,-122.4099154
+sfbay,san francisco,sfc,potrero hill,25,CA,US,37.7604929,-122.400869
+sfbay,san francisco,sfc,richmond / seacliff,26,CA,US,37.9112002,-122.3756084
+sfbay,san francisco,sfc,russian hill,27,CA,US,37.8010963,-122.4195558
+sfbay,san francisco,sfc,SOMA / south beach,1,CA,US,37.7835826,-122.3899066
+sfbay,san francisco,sfc,sunset / parkside,28,CA,US,37.7401657,-122.4943973
+sfbay,san francisco,sfc,tenderloin,156,CA,US,37.7846598,-122.4145058
+sfbay,san francisco,sfc,treasure island,157,CA,US,37.8235515,-122.370648
+sfbay,san francisco,sfc,twin peaks / diamond hts,29,CA,US,37.7214966,-122.479805
+sfbay,san francisco,sfc,USF / panhandle,2,CA,US,37.7766466,-122.450683
+sfbay,san francisco,sfc,visitacion valley,118,CA,US,37.7171754,-122.4042514
+sfbay,san francisco,sfc,west portal / forest hill,114,CA,US,37.7214966,-122.479805
+sfbay,san francisco,sfc,western addition,30,CA,US,37.7822112,-122.4341781
+sfbay,santa cruz,scz,aptos,144,CA,US,36.9771729,-121.8994016
+sfbay,santa cruz,scz,boulder creek,148,CA,US,37.1260578,-122.1221869
+sfbay,santa cruz,scz,capitola,145,CA,US,36.9752283,-121.953293
+sfbay,santa cruz,scz,santa cruz,42,CA,US,36.9741171,-122.0307963
+sfbay,santa cruz,scz,scotts valley,146,CA,US,37.0510595,-122.0146841
+sfbay,santa cruz,scz,soquel,151,CA,US,36.9880057,-121.9566267
+sfbay,santa cruz,scz,watsonville,147,CA,US,36.910231,-121.7568946
+sfbay,south bay,sby,campbell,31,CA,US,37.2871651,-121.9499568
+sfbay,south bay,sby,cupertino,32,CA,US,37.3229978,-122.0321823
+sfbay,south bay,sby,gilroy,33,CA,US,37.0057816,-121.5682751
+sfbay,south bay,sby,hollister,158,CA,US,36.8524545,-121.4016021
+sfbay,south bay,sby,los gatos,34,CA,US,37.2358078,-121.9623751
+sfbay,south bay,sby,milpitas,109,CA,US,37.4323341,-121.8995741
+sfbay,south bay,sby,morgan hill,119,CA,US,37.1305012,-121.6543901
+sfbay,south bay,sby,mountain view,35,CA,US,37.3860517,-122.0838511
+sfbay,south bay,sby,san jose downtown,36,CA,US,37.3350932,-121.8928807
+sfbay,south bay,sby,san jose east,37,CA,US,37.3262122,-121.8202035
+sfbay,south bay,sby,san jose north,38,CA,US,37.3382082,-121.8863286
+sfbay,south bay,sby,san jose south,39,CA,US,37.2802362,-121.8362479
+sfbay,south bay,sby,san jose west,40,CA,US,37.3019909,-121.9969808
+sfbay,south bay,sby,santa clara,41,CA,US,37.3541079,-121.9552356
+sfbay,south bay,sby,saratoga,43,CA,US,37.2638324,-122.0230146
+sfbay,south bay,sby,sunnyvale,44,CA,US,37.36883,-122.0363496
+sfbay,south bay,sby,willow glen / cambrian,45,CA,US,37.3035989,-121.8974064
+sfbay,east bay,eby,alameda,46,CA,US,37.7652065,-122.2416355
+sfbay,east bay,eby,albany / el cerrito,47,CA,US,37.894647,-122.308785
+sfbay,east bay,eby,berkeley,48,CA,US,37.8718992,-122.2585399
+sfbay,east bay,eby,berkeley north / hills,49,CA,US,37.8829811,-122.2385795
+sfbay,east bay,eby,brentwood / oakley,142,CA,US,37.9309801,-121.6954253
+sfbay,east bay,eby,concord / pleasant hill / martinez,51,CA,US,37.957038,-122.0918052
+sfbay,east bay,eby,danville / san ramon,52,CA,US,37.8029196,-121.9897311
+sfbay,east bay,eby,dublin / pleasanton / livermore,53,CA,US,37.7016504,-121.8991813
+sfbay,east bay,eby,emeryville,112,CA,US,37.831316,-122.2852473
+sfbay,east bay,eby,fairfield / vacaville,154,CA,US,38.370336,-121.952352
+sfbay,east bay,eby,fremont / union city / newark,54,CA,US,37.5516347,-122.0508134
+sfbay,east bay,eby,hayward / castro valley,55,CA,US,37.684498,-122.072135
+sfbay,east bay,eby,"hercules, pinole, san pablo, el sob",56,CA,US,37.919445,-122.3141681
+sfbay,east bay,eby,lafayette / orinda / moraga,57,CA,US,37.886873,-122.159721
+sfbay,east bay,eby,oakland downtown,58,CA,US,37.8032973,-122.2710602
+sfbay,east bay,eby,oakland east,59,CA,US,37.7383181,-122.1653805
+sfbay,east bay,eby,oakland hills / mills,60,CA,US,37.7826845,-122.1878385
+sfbay,east bay,eby,oakland lake merritt / grand,61,CA,US,37.8165509,-122.2454369
+sfbay,east bay,eby,oakland north / temescal,62,CA,US,37.8337424,-122.261135
+sfbay,east bay,eby,oakland piedmont / montclair,63,CA,US,37.8271037,-122.2097768
+sfbay,east bay,eby,oakland rockridge / claremont,66,CA,US,37.8467889,-122.2517408
+sfbay,east bay,eby,oakland west,64,CA,US,37.8139097,-122.2909078
+sfbay,east bay,eby,pittsburg / antioch,113,CA,US,38.0177806,-121.8162263
+sfbay,east bay,eby,richmond / point / annex,65,CA,US,37.925952,-122.386269
+sfbay,east bay,eby,san leandro,67,CA,US,37.7249296,-122.1560768
+sfbay,east bay,eby,vallejo / benicia,68,CA,US,38.0921692,-122.2186866
+sfbay,east bay,eby,walnut creek,69,CA,US,37.9100783,-122.0651819
+sfbay,north bay,nby,corte madera,91,CA,US,37.9254806,-122.5274755
+sfbay,north bay,nby,fairfax,92,CA,US,37.9871454,-122.5888686
+sfbay,north bay,nby,greenbrae,93,CA,US,37.9476326,-122.5252604
+sfbay,north bay,nby,healdsburg / windsor,155,CA,US,38.5544779,-122.8171958
+sfbay,north bay,nby,kentfield / ross,94,CA,US,37.9521465,-122.5571997
+sfbay,north bay,nby,lake county,152,CA,US,39.0839644,-122.8084496
+sfbay,north bay,nby,larkspur,95,CA,US,37.9340915,-122.5352539
+sfbay,north bay,nby,mendocino county,153,CA,US,39.5500194,-123.438353
+sfbay,north bay,nby,mill valley,96,CA,US,37.9060368,-122.5449763
+sfbay,north bay,nby,napa county,97,CA,US,38.5024689,-122.2653887
+sfbay,north bay,nby,novato,98,CA,US,38.1074198,-122.5697032
+sfbay,north bay,nby,petaluma,99,CA,US,38.232417,-122.6366524
+sfbay,north bay,nby,rohnert pk / cotati,117,CA,US,38.3373005,-122.7068429
+sfbay,north bay,nby,russian river,143,CA,US,38.441804,-122.711642
+sfbay,north bay,nby,san anselmo,101,CA,US,37.9746458,-122.5616448
+sfbay,north bay,nby,san rafael,102,CA,US,37.9735346,-122.5310874
+sfbay,north bay,nby,santa rosa,103,CA,US,38.440429,-122.7140548
+sfbay,north bay,nby,sausalito,104,CA,US,37.8590937,-122.4852507
+sfbay,north bay,nby,sebastopol,105,CA,US,38.4021359,-122.8238806
+sfbay,north bay,nby,sonoma,106,CA,US,38.291859,-122.4580356
+sfbay,north bay,nby,tiburon / belvedere,108,CA,US,37.8727044,-122.4644171
+sfbay,north bay,nby,west marin,107,CA,US,38.0705417,-122.8032445
