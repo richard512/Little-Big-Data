@@ -1,0 +1,5682 @@
+[
+  {
+    "country": "US",
+    "lat": "37.500000",
+    "region": "CA",
+    "name": "SF bay area",
+    "lon": "-122.250000",
+    "hostname": "sfbay"
+  },
+  {
+    "country": "US",
+    "lat": "47.606400",
+    "region": "WA",
+    "name": "seattle",
+    "lon": "-122.331001",
+    "hostname": "seattle"
+  },
+  {
+    "country": "US",
+    "lat": "40.714199",
+    "region": "NY",
+    "name": "new york",
+    "lon": "-74.006401",
+    "hostname": "newyork"
+  },
+  {
+    "country": "US",
+    "lat": "42.358299",
+    "region": "MA",
+    "name": "boston",
+    "lon": "-71.060303",
+    "hostname": "boston"
+  },
+  {
+    "country": "US",
+    "lat": "34.052200",
+    "region": "CA",
+    "name": "los angeles",
+    "lon": "-118.242996",
+    "hostname": "losangeles"
+  },
+  {
+    "country": "US",
+    "lat": "32.715302",
+    "region": "CA",
+    "name": "san diego",
+    "lon": "-117.155998",
+    "hostname": "sandiego"
+  },
+  {
+    "country": "US",
+    "lat": "45.523602",
+    "region": "OR",
+    "name": "portland",
+    "lon": "-122.675003",
+    "hostname": "portland"
+  },
+  {
+    "country": "US",
+    "lat": "38.889999",
+    "region": "DC",
+    "name": "washington, DC",
+    "lon": "-77.029999",
+    "hostname": "washingtondc"
+  },
+  {
+    "country": "US",
+    "lat": "41.849998",
+    "region": "IL",
+    "name": "chicago",
+    "lon": "-87.650002",
+    "hostname": "chicago"
+  },
+  {
+    "country": "US",
+    "lat": "38.581699",
+    "region": "CA",
+    "name": "sacramento",
+    "lon": "-121.492996",
+    "hostname": "sacramento"
+  },
+  {
+    "country": "US",
+    "lat": "39.739201",
+    "region": "CO",
+    "name": "denver",
+    "lon": "-104.984001",
+    "hostname": "denver"
+  },
+  {
+    "country": "US",
+    "lat": "33.748901",
+    "region": "GA",
+    "name": "atlanta",
+    "lon": "-84.388100",
+    "hostname": "atlanta"
+  },
+  {
+    "country": "US",
+    "lat": "30.266899",
+    "region": "TX",
+    "name": "austin",
+    "lon": "-97.742798",
+    "hostname": "austin"
+  },
+  {
+    "country": "CA",
+    "lat": "49.250500",
+    "region": "BC",
+    "name": "vancouver, BC",
+    "lon": "-123.112000",
+    "hostname": "vancouver"
+  },
+  {
+    "country": "US",
+    "lat": "39.952202",
+    "region": "PA",
+    "name": "philadelphia",
+    "lon": "-75.164200",
+    "hostname": "philadelphia"
+  },
+  {
+    "country": "US",
+    "lat": "33.448299",
+    "region": "AZ",
+    "name": "phoenix",
+    "lon": "-112.072998",
+    "hostname": "phoenix"
+  },
+  {
+    "country": "US",
+    "lat": "44.980000",
+    "region": "MN",
+    "name": "minneapolis",
+    "lon": "-93.263603",
+    "hostname": "minneapolis"
+  },
+  {
+    "country": "US",
+    "lat": "25.773899",
+    "region": "FL",
+    "name": "south florida",
+    "lon": "-80.193901",
+    "hostname": "miami"
+  },
+  {
+    "country": "US",
+    "lat": "32.783298",
+    "region": "TX",
+    "name": "dallas",
+    "lon": "-96.800003",
+    "hostname": "dallas"
+  },
+  {
+    "country": "US",
+    "lat": "42.331402",
+    "region": "MI",
+    "name": "detroit metro",
+    "lon": "-83.045799",
+    "hostname": "detroit"
+  },
+  {
+    "country": "US",
+    "lat": "29.763100",
+    "region": "TX",
+    "name": "houston",
+    "lon": "-95.363098",
+    "hostname": "houston"
+  },
+  {
+    "country": "GB",
+    "lat": "51.517101",
+    "region": "",
+    "name": "london",
+    "lon": "-0.106196",
+    "hostname": "london"
+  },
+  {
+    "country": "CA",
+    "lat": "43.648102",
+    "region": "ON",
+    "name": "toronto",
+    "lon": "-79.404198",
+    "hostname": "toronto"
+  },
+  {
+    "country": "US",
+    "lat": "36.174999",
+    "region": "NV",
+    "name": "las vegas",
+    "lon": "-115.136002",
+    "hostname": "lasvegas"
+  },
+  {
+    "country": "US",
+    "lat": "41.499401",
+    "region": "OH",
+    "name": "cleveland",
+    "lon": "-81.695602",
+    "hostname": "cleveland"
+  },
+  {
+    "country": "US",
+    "lat": "21.311399",
+    "region": "HI",
+    "name": "hawaii",
+    "lon": "-157.796005",
+    "hostname": "honolulu"
+  },
+  {
+    "country": "US",
+    "lat": "38.627701",
+    "region": "MO",
+    "name": "st louis",
+    "lon": "-90.242798",
+    "hostname": "stlouis"
+  },
+  {
+    "country": "US",
+    "lat": "39.099701",
+    "region": "MO",
+    "name": "kansas city",
+    "lon": "-94.578300",
+    "hostname": "kansascity"
+  },
+  {
+    "country": "US",
+    "lat": "29.972799",
+    "region": "LA",
+    "name": "new orleans",
+    "lon": "-90.058998",
+    "hostname": "neworleans"
+  },
+  {
+    "country": "US",
+    "lat": "36.165798",
+    "region": "TN",
+    "name": "nashville",
+    "lon": "-86.784401",
+    "hostname": "nashville"
+  },
+  {
+    "country": "US",
+    "lat": "40.440601",
+    "region": "PA",
+    "name": "pittsburgh",
+    "lon": "-79.996101",
+    "hostname": "pittsburgh"
+  },
+  {
+    "country": "US",
+    "lat": "39.307999",
+    "region": "MD",
+    "name": "baltimore",
+    "lon": "-76.616997",
+    "hostname": "baltimore"
+  },
+  {
+    "country": "US",
+    "lat": "39.161900",
+    "region": "OH",
+    "name": "cincinnati",
+    "lon": "-84.456902",
+    "hostname": "cincinnati"
+  },
+  {
+    "country": "US",
+    "lat": "35.771900",
+    "region": "NC",
+    "name": "raleigh",
+    "lon": "-78.638901",
+    "hostname": "raleigh"
+  },
+  {
+    "country": "US",
+    "lat": "28.000000",
+    "region": "FL",
+    "name": "tampa bay",
+    "lon": "-82.449997",
+    "hostname": "tampa"
+  },
+  {
+    "country": "US",
+    "lat": "41.830200",
+    "region": "RI",
+    "name": "rhode island",
+    "lon": "-71.409103",
+    "hostname": "providence"
+  },
+  {
+    "country": "US",
+    "lat": "28.538099",
+    "region": "FL",
+    "name": "orlando",
+    "lon": "-81.379402",
+    "hostname": "orlando"
+  },
+  {
+    "country": "US",
+    "lat": "42.886398",
+    "region": "NY",
+    "name": "buffalo",
+    "lon": "-78.878601",
+    "hostname": "buffalo"
+  },
+  {
+    "country": "US",
+    "lat": "35.226898",
+    "region": "NC",
+    "name": "charlotte",
+    "lon": "-80.843300",
+    "hostname": "charlotte"
+  },
+  {
+    "country": "US",
+    "lat": "39.961102",
+    "region": "OH",
+    "name": "columbus",
+    "lon": "-82.998901",
+    "hostname": "columbus"
+  },
+  {
+    "country": "US",
+    "lat": "36.747799",
+    "region": "CA",
+    "name": "fresno",
+    "lon": "-119.771004",
+    "hostname": "fresno"
+  },
+  {
+    "country": "US",
+    "lat": "41.763599",
+    "region": "CT",
+    "name": "hartford",
+    "lon": "-72.685600",
+    "hostname": "hartford"
+  },
+  {
+    "country": "US",
+    "lat": "39.768299",
+    "region": "IN",
+    "name": "indianapolis",
+    "lon": "-86.158096",
+    "hostname": "indianapolis"
+  },
+  {
+    "country": "US",
+    "lat": "35.149399",
+    "region": "TN",
+    "name": "memphis",
+    "lon": "-90.048897",
+    "hostname": "memphis"
+  },
+  {
+    "country": "US",
+    "lat": "43.038898",
+    "region": "WI",
+    "name": "milwaukee",
+    "lon": "-87.906403",
+    "hostname": "milwaukee"
+  },
+  {
+    "country": "US",
+    "lat": "36.840000",
+    "region": "VA",
+    "name": "norfolk",
+    "lon": "-76.269997",
+    "hostname": "norfolk"
+  },
+  {
+    "country": "CA",
+    "lat": "45.508099",
+    "region": "QC",
+    "name": "montreal",
+    "lon": "-73.555000",
+    "hostname": "montreal"
+  },
+  {
+    "country": "US",
+    "lat": "35.084400",
+    "region": "NM",
+    "name": "albuquerque",
+    "lon": "-106.651001",
+    "hostname": "albuquerque"
+  },
+  {
+    "country": "US",
+    "lat": "61.196201",
+    "region": "AK",
+    "name": "anchorage",
+    "lon": "-149.886002",
+    "hostname": "anchorage"
+  },
+  {
+    "country": "US",
+    "lat": "43.613602",
+    "region": "ID",
+    "name": "boise",
+    "lon": "-116.202003",
+    "hostname": "boise"
+  },
+  {
+    "country": "US",
+    "lat": "29.423901",
+    "region": "TX",
+    "name": "san antonio",
+    "lon": "-98.493301",
+    "hostname": "sanantonio"
+  },
+  {
+    "country": "US",
+    "lat": "35.467499",
+    "region": "OK",
+    "name": "oklahoma city",
+    "lon": "-97.516098",
+    "hostname": "oklahomacity"
+  },
+  {
+    "country": "US",
+    "lat": "41.258598",
+    "region": "NE",
+    "name": "omaha",
+    "lon": "-95.937500",
+    "hostname": "omaha"
+  },
+  {
+    "country": "US",
+    "lat": "40.760799",
+    "region": "UT",
+    "name": "salt lake",
+    "lon": "-111.889999",
+    "hostname": "saltlakecity"
+  },
+  {
+    "country": "US",
+    "lat": "32.221699",
+    "region": "AZ",
+    "name": "tucson",
+    "lon": "-110.926003",
+    "hostname": "tucson"
+  },
+  {
+    "country": "US",
+    "lat": "38.254200",
+    "region": "KY",
+    "name": "louisville",
+    "lon": "-85.759399",
+    "hostname": "louisville"
+  },
+  {
+    "country": "US",
+    "lat": "42.652500",
+    "region": "NY",
+    "name": "albany",
+    "lon": "-73.756699",
+    "hostname": "albany"
+  },
+  {
+    "country": "US",
+    "lat": "37.538300",
+    "region": "VA",
+    "name": "richmond",
+    "lon": "-77.461502",
+    "hostname": "richmond"
+  },
+  {
+    "country": "US",
+    "lat": "36.072498",
+    "region": "NC",
+    "name": "greensboro",
+    "lon": "-79.792198",
+    "hostname": "greensboro"
+  },
+  {
+    "country": "US",
+    "lat": "34.420799",
+    "region": "CA",
+    "name": "santa barbara",
+    "lon": "-119.696999",
+    "hostname": "santabarbara"
+  },
+  {
+    "country": "US",
+    "lat": "35.373299",
+    "region": "CA",
+    "name": "bakersfield",
+    "lon": "-119.017998",
+    "hostname": "bakersfield"
+  },
+  {
+    "country": "AU",
+    "lat": "-33.868301",
+    "region": "NSW",
+    "name": "sydney",
+    "lon": "151.209000",
+    "hostname": "sydney"
+  },
+  {
+    "country": "AU",
+    "lat": "-37.783298",
+    "region": "VIC",
+    "name": "melbourne",
+    "lon": "144.966995",
+    "hostname": "melbourne"
+  },
+  {
+    "country": "AU",
+    "lat": "-27.466700",
+    "region": "QLD",
+    "name": "brisbane",
+    "lon": "153.033005",
+    "hostname": "brisbane"
+  },
+  {
+    "country": "AU",
+    "lat": "-31.955400",
+    "region": "WA",
+    "name": "perth",
+    "lon": "115.859001",
+    "hostname": "perth"
+  },
+  {
+    "country": "AU",
+    "lat": "-34.933300",
+    "region": "SA",
+    "name": "adelaide",
+    "lon": "138.582993",
+    "hostname": "adelaide"
+  },
+  {
+    "country": "NZ",
+    "lat": "-36.853001",
+    "region": "",
+    "name": "auckland",
+    "lon": "174.764999",
+    "hostname": "auckland"
+  },
+  {
+    "country": "US",
+    "lat": "36.153900",
+    "region": "OK",
+    "name": "tulsa",
+    "lon": "-95.992500",
+    "hostname": "tulsa"
+  },
+  {
+    "country": "GB",
+    "lat": "53.480000",
+    "region": "",
+    "name": "manchester",
+    "lon": "-2.240000",
+    "hostname": "manchester"
+  },
+  {
+    "country": "GB",
+    "lat": "52.480000",
+    "region": "",
+    "name": "birmingham, UK",
+    "lon": "-1.910000",
+    "hostname": "birmingham"
+  },
+  {
+    "country": "GB",
+    "lat": "55.869999",
+    "region": "",
+    "name": "glasgow",
+    "lon": "-4.270000",
+    "hostname": "glasgow"
+  },
+  {
+    "country": "IE",
+    "lat": "53.342800",
+    "region": "",
+    "name": "dublin",
+    "lon": "-6.266100",
+    "hostname": "dublin"
+  },
+  {
+    "country": "GB",
+    "lat": "55.950001",
+    "region": "",
+    "name": "edinburgh",
+    "lon": "-3.220000",
+    "hostname": "edinburgh"
+  },
+  {
+    "country": "CA",
+    "lat": "45.421398",
+    "region": "ON",
+    "name": "ottawa",
+    "lon": "-75.691902",
+    "hostname": "ottawa"
+  },
+  {
+    "country": "CA",
+    "lat": "51.054401",
+    "region": "AB",
+    "name": "calgary",
+    "lon": "-114.067001",
+    "hostname": "calgary"
+  },
+  {
+    "country": "CA",
+    "lat": "53.547199",
+    "region": "AB",
+    "name": "edmonton",
+    "lon": "-113.500999",
+    "hostname": "edmonton"
+  },
+  {
+    "country": "CA",
+    "lat": "49.883301",
+    "region": "MB",
+    "name": "winnipeg",
+    "lon": "-97.150002",
+    "hostname": "winnipeg"
+  },
+  {
+    "country": "US",
+    "lat": "30.331900",
+    "region": "FL",
+    "name": "jacksonville",
+    "lon": "-81.655800",
+    "hostname": "jacksonville"
+  },
+  {
+    "country": "FR",
+    "lat": "48.874199",
+    "region": "",
+    "name": "paris",
+    "lon": "2.346950",
+    "hostname": "paris"
+  },
+  {
+    "country": "NL",
+    "lat": "52.369999",
+    "region": "",
+    "name": "amsterdam",
+    "lon": "4.890000",
+    "hostname": "amsterdam"
+  },
+  {
+    "country": "ES",
+    "lat": "41.385700",
+    "region": "",
+    "name": "barcelona",
+    "lon": "2.169940",
+    "hostname": "barcelona"
+  },
+  {
+    "country": "IN",
+    "lat": "12.983300",
+    "region": "",
+    "name": "bangalore",
+    "lon": "77.583298",
+    "hostname": "bangalore"
+  },
+  {
+    "country": "IN",
+    "lat": "18.964701",
+    "region": "",
+    "name": "mumbai",
+    "lon": "72.825798",
+    "hostname": "mumbai"
+  },
+  {
+    "country": "IN",
+    "lat": "28.654400",
+    "region": "",
+    "name": "delhi",
+    "lon": "77.225601",
+    "hostname": "delhi"
+  },
+  {
+    "country": "HK",
+    "lat": "22.299999",
+    "region": "",
+    "name": "hong kong",
+    "lon": "114.167000",
+    "hostname": "hongkong"
+  },
+  {
+    "country": "JP",
+    "lat": "35.683300",
+    "region": "",
+    "name": "tokyo",
+    "lon": "139.766998",
+    "hostname": "tokyo"
+  },
+  {
+    "country": "SG",
+    "lat": "1.296280",
+    "region": "",
+    "name": "singapore",
+    "lon": "103.843002",
+    "hostname": "singapore"
+  },
+  {
+    "country": "PH",
+    "lat": "14.592200",
+    "region": "",
+    "name": "manila",
+    "lon": "121.001999",
+    "hostname": "manila"
+  },
+  {
+    "country": "MX",
+    "lat": "19.433333",
+    "region": "",
+    "name": "mexico city",
+    "lon": "-99.133333",
+    "hostname": "mexicocity"
+  },
+  {
+    "country": "US",
+    "lat": "39.529701",
+    "region": "NV",
+    "name": "reno",
+    "lon": "-119.813004",
+    "hostname": "reno"
+  },
+  {
+    "country": "US",
+    "lat": "44.461201",
+    "region": "VT",
+    "name": "vermont",
+    "lon": "-73.193703",
+    "hostname": "burlington"
+  },
+  {
+    "country": "US",
+    "lat": "44.052200",
+    "region": "OR",
+    "name": "eugene",
+    "lon": "-123.085999",
+    "hostname": "eugene"
+  },
+  {
+    "country": "US",
+    "lat": "47.658901",
+    "region": "WA",
+    "name": "spokane",
+    "lon": "-117.425003",
+    "hostname": "spokane"
+  },
+  {
+    "country": "US",
+    "lat": "37.639198",
+    "region": "CA",
+    "name": "modesto",
+    "lon": "-120.996002",
+    "hostname": "modesto"
+  },
+  {
+    "country": "US",
+    "lat": "37.957802",
+    "region": "CA",
+    "name": "stockton",
+    "lon": "-121.290001",
+    "hostname": "stockton"
+  },
+  {
+    "country": "US",
+    "lat": "41.600601",
+    "region": "IA",
+    "name": "des moines",
+    "lon": "-93.608902",
+    "hostname": "desmoines"
+  },
+  {
+    "country": "US",
+    "lat": "37.692200",
+    "region": "KS",
+    "name": "wichita",
+    "lon": "-97.337196",
+    "hostname": "wichita"
+  },
+  {
+    "country": "US",
+    "lat": "34.746399",
+    "region": "AR",
+    "name": "little rock",
+    "lon": "-92.289398",
+    "hostname": "littlerock"
+  },
+  {
+    "country": "US",
+    "lat": "34.000599",
+    "region": "SC",
+    "name": "columbia",
+    "lon": "-81.035004",
+    "hostname": "columbia"
+  },
+  {
+    "country": "US",
+    "lat": "36.600300",
+    "region": "CA",
+    "name": "monterey",
+    "lon": "-121.893997",
+    "hostname": "monterey"
+  },
+  {
+    "country": "US",
+    "lat": "33.731499",
+    "region": "CA",
+    "name": "orange co",
+    "lon": "-117.862000",
+    "hostname": "orangecounty"
+  },
+  {
+    "country": "US",
+    "lat": "34.052799",
+    "region": "CA",
+    "name": "inland empire",
+    "lon": "-117.627998",
+    "hostname": "inlandempire"
+  },
+  {
+    "country": "NO",
+    "lat": "59.919399",
+    "region": "",
+    "name": "norway",
+    "lon": "10.745700",
+    "hostname": "oslo"
+  },
+  {
+    "country": "SE",
+    "lat": "59.337399",
+    "region": "",
+    "name": "sweden",
+    "lon": "18.060200",
+    "hostname": "stockholm"
+  },
+  {
+    "country": "DK",
+    "lat": "55.674999",
+    "region": "",
+    "name": "copenhagen",
+    "lon": "12.568700",
+    "hostname": "copenhagen"
+  },
+  {
+    "country": "DE",
+    "lat": "52.523300",
+    "region": "",
+    "name": "berlin",
+    "lon": "13.412700",
+    "hostname": "berlin"
+  },
+  {
+    "country": "BE",
+    "lat": "50.850000",
+    "region": "",
+    "name": "belgium",
+    "lon": "4.350000",
+    "hostname": "brussels"
+  },
+  {
+    "country": "ES",
+    "lat": "40.400002",
+    "region": "",
+    "name": "madrid",
+    "lon": "-3.683300",
+    "hostname": "madrid"
+  },
+  {
+    "country": "IT",
+    "lat": "45.464001",
+    "region": "",
+    "name": "milan",
+    "lon": "9.191570",
+    "hostname": "milan"
+  },
+  {
+    "country": "CH",
+    "lat": "47.366699",
+    "region": "",
+    "name": "zurich",
+    "lon": "8.550000",
+    "hostname": "zurich"
+  },
+  {
+    "country": "BR",
+    "lat": "-23.566999",
+    "region": "",
+    "name": "sao paulo",
+    "lon": "-46.632999",
+    "hostname": "saopaulo"
+  },
+  {
+    "country": "AR",
+    "lat": "-34.603600",
+    "region": "",
+    "name": "buenos aires",
+    "lon": "-58.381699",
+    "hostname": "buenosaires"
+  },
+  {
+    "country": "GB",
+    "lat": "54.599998",
+    "region": "",
+    "name": "belfast",
+    "lon": "-5.916670",
+    "hostname": "belfast"
+  },
+  {
+    "country": "GB",
+    "lat": "51.478001",
+    "region": "",
+    "name": "cardiff",
+    "lon": "-3.177100",
+    "hostname": "cardiff"
+  },
+  {
+    "country": "GB",
+    "lat": "51.459999",
+    "region": "",
+    "name": "bristol",
+    "lon": "-2.600000",
+    "hostname": "bristol"
+  },
+  {
+    "country": "GB",
+    "lat": "53.416698",
+    "region": "",
+    "name": "liverpool",
+    "lon": "-3.000000",
+    "hostname": "liverpool"
+  },
+  {
+    "country": "KR",
+    "lat": "37.583302",
+    "region": "",
+    "name": "seoul",
+    "lon": "127.000000",
+    "hostname": "seoul"
+  },
+  {
+    "country": "JP",
+    "lat": "34.660301",
+    "region": "",
+    "name": "osaka",
+    "lon": "135.522995",
+    "hostname": "osaka"
+  },
+  {
+    "country": "IT",
+    "lat": "41.900002",
+    "region": "",
+    "name": "rome",
+    "lon": "12.500000",
+    "hostname": "rome"
+  },
+  {
+    "country": "AT",
+    "lat": "48.211899",
+    "region": "",
+    "name": "vienna",
+    "lon": "16.359301",
+    "hostname": "vienna"
+  },
+  {
+    "country": "GB",
+    "lat": "53.810001",
+    "region": "",
+    "name": "leeds",
+    "lon": "-1.550000",
+    "hostname": "leeds"
+  },
+  {
+    "country": "US",
+    "lat": "26.715000",
+    "region": "FL",
+    "name": "west palm bch",
+    "lon": "-80.053596",
+    "hostname": "westpalmbeach"
+  },
+  {
+    "country": "US",
+    "lat": "26.629999",
+    "region": "FL",
+    "name": "fort myers",
+    "lon": "-81.849998",
+    "hostname": "fortmyers"
+  },
+  {
+    "country": "US",
+    "lat": "43.154701",
+    "region": "NY",
+    "name": "rochester, NY",
+    "lon": "-77.615799",
+    "hostname": "rochester"
+  },
+  {
+    "country": "US",
+    "lat": "33.520599",
+    "region": "AL",
+    "name": "birmingham, AL",
+    "lon": "-86.802498",
+    "hostname": "bham"
+  },
+  {
+    "country": "US",
+    "lat": "32.776402",
+    "region": "SC",
+    "name": "charleston",
+    "lon": "-79.931099",
+    "hostname": "charleston"
+  },
+  {
+    "country": "US",
+    "lat": "42.963299",
+    "region": "MI",
+    "name": "grand rapids",
+    "lon": "-85.668098",
+    "hostname": "grandrapids"
+  },
+  {
+    "country": "US",
+    "lat": "43.048100",
+    "region": "NY",
+    "name": "syracuse",
+    "lon": "-76.147797",
+    "hostname": "syracuse"
+  },
+  {
+    "country": "US",
+    "lat": "39.758900",
+    "region": "OH",
+    "name": "dayton",
+    "lon": "-84.191704",
+    "hostname": "dayton"
+  },
+  {
+    "country": "US",
+    "lat": "31.758600",
+    "region": "TX",
+    "name": "el paso",
+    "lon": "-106.486000",
+    "hostname": "elpaso"
+  },
+  {
+    "country": "US",
+    "lat": "37.988701",
+    "region": "KY",
+    "name": "lexington",
+    "lon": "-84.477699",
+    "hostname": "lexington"
+  },
+  {
+    "country": "US",
+    "lat": "32.298599",
+    "region": "MS",
+    "name": "jackson, MS",
+    "lon": "-90.184700",
+    "hostname": "jackson"
+  },
+  {
+    "country": "CN",
+    "lat": "31.233299",
+    "region": "",
+    "name": "shanghai",
+    "lon": "121.467003",
+    "hostname": "shanghai"
+  },
+  {
+    "country": "ZA",
+    "lat": "-33.976700",
+    "region": "",
+    "name": "cape town",
+    "lon": "18.424400",
+    "hostname": "capetown"
+  },
+  {
+    "country": "RU",
+    "lat": "55.750000",
+    "region": "",
+    "name": "moscow",
+    "lon": "37.583302",
+    "hostname": "moscow"
+  },
+  {
+    "country": "CZ",
+    "lat": "50.078300",
+    "region": "",
+    "name": "prague",
+    "lon": "14.414100",
+    "hostname": "prague"
+  },
+  {
+    "country": "BR",
+    "lat": "-22.908300",
+    "region": "",
+    "name": "rio de janeiro",
+    "lon": "-43.243599",
+    "hostname": "rio"
+  },
+  {
+    "country": "DE",
+    "lat": "53.568600",
+    "region": "",
+    "name": "hamburg",
+    "lon": "10.038600",
+    "hostname": "hamburg"
+  },
+  {
+    "country": "DE",
+    "lat": "50.116699",
+    "region": "",
+    "name": "frankfurt",
+    "lon": "8.683330",
+    "hostname": "frankfurt"
+  },
+  {
+    "country": "DE",
+    "lat": "48.133301",
+    "region": "",
+    "name": "munich",
+    "lon": "11.566700",
+    "hostname": "munich"
+  },
+  {
+    "country": "RU",
+    "lat": "59.922001",
+    "region": "",
+    "name": "st petersburg",
+    "lon": "30.322300",
+    "hostname": "stpetersburg"
+  },
+  {
+    "country": "GR",
+    "lat": "37.980999",
+    "region": "",
+    "name": "greece",
+    "lon": "23.716900",
+    "hostname": "athens"
+  },
+  {
+    "country": "FI",
+    "lat": "60.182499",
+    "region": "",
+    "name": "finland",
+    "lon": "24.947201",
+    "hostname": "helsinki"
+  },
+  {
+    "country": "CH",
+    "lat": "46.200001",
+    "region": "",
+    "name": "geneva",
+    "lon": "6.150000",
+    "hostname": "geneva"
+  },
+  {
+    "country": "PL",
+    "lat": "52.232399",
+    "region": "",
+    "name": "poland",
+    "lon": "21.001699",
+    "hostname": "warsaw"
+  },
+  {
+    "country": "TR",
+    "lat": "41.042099",
+    "region": "",
+    "name": "turkey",
+    "lon": "29.009399",
+    "hostname": "istanbul"
+  },
+  {
+    "country": "FR",
+    "lat": "43.297501",
+    "region": "",
+    "name": "marseille",
+    "lon": "5.377200",
+    "hostname": "marseilles"
+  },
+  {
+    "country": "FR",
+    "lat": "45.766899",
+    "region": "",
+    "name": "lyon",
+    "lon": "4.834200",
+    "hostname": "lyon"
+  },
+  {
+    "country": "IT",
+    "lat": "40.846001",
+    "region": "",
+    "name": "napoli",
+    "lon": "14.251000",
+    "hostname": "naples"
+  },
+  {
+    "country": "IT",
+    "lat": "43.771702",
+    "region": "",
+    "name": "florence",
+    "lon": "11.253600",
+    "hostname": "florence"
+  },
+  {
+    "country": "HU",
+    "lat": "47.500000",
+    "region": "",
+    "name": "budapest",
+    "lon": "19.049999",
+    "hostname": "budapest"
+  },
+  {
+    "country": "CN",
+    "lat": "39.901299",
+    "region": "",
+    "name": "beijing",
+    "lon": "116.389000",
+    "hostname": "beijing"
+  },
+  {
+    "country": "TW",
+    "lat": "23.766701",
+    "region": "",
+    "name": "taiwan",
+    "lon": "121.000000",
+    "hostname": "taipei"
+  },
+  {
+    "country": "TH",
+    "lat": "13.920200",
+    "region": "",
+    "name": "thailand",
+    "lon": "101.016998",
+    "hostname": "bangkok"
+  },
+  {
+    "country": "ID",
+    "lat": "-6.267000",
+    "region": "",
+    "name": "indonesia",
+    "lon": "106.800003",
+    "hostname": "jakarta"
+  },
+  {
+    "country": "CL",
+    "lat": "-33.462399",
+    "region": "",
+    "name": "chile",
+    "lon": "-70.640701",
+    "hostname": "santiago"
+  },
+  {
+    "country": "PE",
+    "lat": "-12.103800",
+    "region": "",
+    "name": "peru",
+    "lon": "-77.058098",
+    "hostname": "lima"
+  },
+  {
+    "country": "IL",
+    "lat": "32.083302",
+    "region": "",
+    "name": "tel aviv",
+    "lon": "34.799999",
+    "hostname": "telaviv"
+  },
+  {
+    "country": "IL",
+    "lat": "31.787100",
+    "region": "",
+    "name": "jerusalem",
+    "lon": "35.204800",
+    "hostname": "jerusalem"
+  },
+  {
+    "country": "EG",
+    "lat": "30.066700",
+    "region": "",
+    "name": "egypt",
+    "lon": "31.247900",
+    "hostname": "cairo"
+  },
+  {
+    "country": "GB",
+    "lat": "54.977600",
+    "region": "",
+    "name": "newcastle, UK",
+    "lon": "-1.613620",
+    "hostname": "newcastle"
+  },
+  {
+    "country": "US",
+    "lat": "43.073101",
+    "region": "WI",
+    "name": "madison",
+    "lon": "-89.401100",
+    "hostname": "madison"
+  },
+  {
+    "country": "US",
+    "lat": "40.273602",
+    "region": "PA",
+    "name": "harrisburg",
+    "lon": "-76.884697",
+    "hostname": "harrisburg"
+  },
+  {
+    "country": "US",
+    "lat": "40.599998",
+    "region": "PA",
+    "name": "allentown",
+    "lon": "-75.500000",
+    "hostname": "allentown"
+  },
+  {
+    "country": "US",
+    "lat": "41.308102",
+    "region": "CT",
+    "name": "new haven",
+    "lon": "-72.928596",
+    "hostname": "newhaven"
+  },
+  {
+    "country": "US",
+    "lat": "44.693199",
+    "region": "ME",
+    "name": "maine",
+    "lon": "-69.334602",
+    "hostname": "maine"
+  },
+  {
+    "country": "US",
+    "lat": "40.910000",
+    "region": "NJ",
+    "name": "north jersey",
+    "lon": "-74.172997",
+    "hostname": "newjersey"
+  },
+  {
+    "country": "US",
+    "lat": "35.600800",
+    "region": "NC",
+    "name": "asheville",
+    "lon": "-82.554199",
+    "hostname": "asheville"
+  },
+  {
+    "country": "US",
+    "lat": "42.270802",
+    "region": "MI",
+    "name": "ann arbor",
+    "lon": "-83.726402",
+    "hostname": "annarbor"
+  },
+  {
+    "country": "US",
+    "lat": "42.349998",
+    "region": "MA",
+    "name": "western mass",
+    "lon": "-73.000000",
+    "hostname": "westernmass"
+  },
+  {
+    "country": "CA",
+    "lat": "44.637390",
+    "region": "NS",
+    "name": "halifax",
+    "lon": "-63.588867",
+    "hostname": "halifax"
+  },
+  {
+    "country": "CA",
+    "lat": "46.890202",
+    "region": "QC",
+    "name": "quebec",
+    "lon": "-71.218903",
+    "hostname": "quebec"
+  },
+  {
+    "country": "CA",
+    "lat": "52.136902",
+    "region": "SK",
+    "name": "saskatoon",
+    "lon": "-106.641998",
+    "hostname": "saskatoon"
+  },
+  {
+    "country": "CA",
+    "lat": "48.432800",
+    "region": "BC",
+    "name": "victoria",
+    "lon": "-123.334999",
+    "hostname": "victoria"
+  },
+  {
+    "country": "VE",
+    "lat": "10.412200",
+    "region": "",
+    "name": "venezuela",
+    "lon": "-66.882004",
+    "hostname": "caracas"
+  },
+  {
+    "country": "CR",
+    "lat": "9.924700",
+    "region": "",
+    "name": "costa rica",
+    "lon": "-84.078003",
+    "hostname": "costarica"
+  },
+  {
+    "country": "PR",
+    "lat": "18.261299",
+    "region": "PR",
+    "name": "puerto rico",
+    "lon": "-66.435997",
+    "hostname": "puertorico"
+  },
+  {
+    "country": "MX",
+    "lat": "32.530800",
+    "region": "",
+    "name": "tijuana",
+    "lon": "-117.019997",
+    "hostname": "tijuana"
+  },
+  {
+    "country": "IN",
+    "lat": "13.081000",
+    "region": "",
+    "name": "chennai",
+    "lon": "80.274002",
+    "hostname": "chennai"
+  },
+  {
+    "country": "IN",
+    "lat": "17.366699",
+    "region": "",
+    "name": "hyderabad",
+    "lon": "78.466698",
+    "hostname": "hyderabad"
+  },
+  {
+    "country": "IN",
+    "lat": "22.569700",
+    "region": "",
+    "name": "kolkata",
+    "lon": "88.369698",
+    "hostname": "kolkata"
+  },
+  {
+    "country": "ZA",
+    "lat": "-26.194901",
+    "region": "",
+    "name": "johannesburg",
+    "lon": "28.037100",
+    "hostname": "johannesburg"
+  },
+  {
+    "country": "US",
+    "lat": "30.438101",
+    "region": "FL",
+    "name": "tallahassee",
+    "lon": "-84.280800",
+    "hostname": "tallahassee"
+  },
+  {
+    "country": "US",
+    "lat": "39.728600",
+    "region": "CA",
+    "name": "chico",
+    "lon": "-121.835999",
+    "hostname": "chico"
+  },
+  {
+    "country": "US",
+    "lat": "40.586700",
+    "region": "CA",
+    "name": "redding",
+    "lon": "-122.390999",
+    "hostname": "redding"
+  },
+  {
+    "country": "US",
+    "lat": "40.747398",
+    "region": "CA",
+    "name": "humboldt",
+    "lon": "-123.987999",
+    "hostname": "humboldt"
+  },
+  {
+    "country": "US",
+    "lat": "40.110001",
+    "region": "IL",
+    "name": "chambana",
+    "lon": "-88.250000",
+    "hostname": "chambana"
+  },
+  {
+    "country": "US",
+    "lat": "35.282799",
+    "region": "CA",
+    "name": "san luis obispo",
+    "lon": "-120.658997",
+    "hostname": "slo"
+  },
+  {
+    "country": "US",
+    "lat": "47.100000",
+    "region": "MT",
+    "name": "eastern montana",
+    "lon": "-104.700000",
+    "hostname": "montana"
+  },
+  {
+    "country": "US",
+    "lat": "39.145699",
+    "region": "DE",
+    "name": "delaware",
+    "lon": "-75.483498",
+    "hostname": "delaware"
+  },
+  {
+    "country": "US",
+    "lat": "38.709999",
+    "region": "WV",
+    "name": "west virginia",
+    "lon": "-80.660004",
+    "hostname": "wv"
+  },
+  {
+    "country": "US",
+    "lat": "44.296101",
+    "region": "SD",
+    "name": "south dakota",
+    "lon": "-99.236702",
+    "hostname": "sd"
+  },
+  {
+    "country": "US",
+    "lat": "47.500000",
+    "region": "ND",
+    "name": "north dakota",
+    "lon": "-100.500000",
+    "hostname": "nd"
+  },
+  {
+    "country": "US",
+    "lat": "43.004002",
+    "region": "WY",
+    "name": "wyoming",
+    "lon": "-108.153999",
+    "hostname": "wyoming"
+  },
+  {
+    "country": "US",
+    "lat": "43.654099",
+    "region": "NH",
+    "name": "new hampshire",
+    "lon": "-71.564201",
+    "hostname": "nh"
+  },
+  {
+    "country": "US",
+    "lat": "30.458099",
+    "region": "LA",
+    "name": "baton rouge",
+    "lon": "-91.140198",
+    "hostname": "batonrouge"
+  },
+  {
+    "country": "US",
+    "lat": "30.694201",
+    "region": "AL",
+    "name": "mobile",
+    "lon": "-88.043098",
+    "hostname": "mobile"
+  },
+  {
+    "country": "US",
+    "lat": "42.440601",
+    "region": "NY",
+    "name": "ithaca",
+    "lon": "-76.496902",
+    "hostname": "ithaca"
+  },
+  {
+    "country": "US",
+    "lat": "35.960602",
+    "region": "TN",
+    "name": "knoxville",
+    "lon": "-83.920799",
+    "hostname": "knoxville"
+  },
+  {
+    "country": "US",
+    "lat": "30.421101",
+    "region": "FL",
+    "name": "pensacola",
+    "lon": "-87.216904",
+    "hostname": "pensacola"
+  },
+  {
+    "country": "US",
+    "lat": "41.663898",
+    "region": "OH",
+    "name": "toledo",
+    "lon": "-83.555298",
+    "hostname": "toledo"
+  },
+  {
+    "country": "US",
+    "lat": "32.050701",
+    "region": "GA",
+    "name": "savannah",
+    "lon": "-81.103798",
+    "hostname": "savannah"
+  },
+  {
+    "country": "US",
+    "lat": "32.468102",
+    "region": "LA",
+    "name": "shreveport",
+    "lon": "-93.771103",
+    "hostname": "shreveport"
+  },
+  {
+    "country": "US",
+    "lat": "32.366699",
+    "region": "AL",
+    "name": "montgomery",
+    "lon": "-86.300003",
+    "hostname": "montgomery"
+  },
+  {
+    "country": "US",
+    "lat": "34.277000",
+    "region": "CA",
+    "name": "ventura",
+    "lon": "-119.044998",
+    "hostname": "ventura"
+  },
+  {
+    "country": "US",
+    "lat": "33.830299",
+    "region": "CA",
+    "name": "palm springs",
+    "lon": "-116.543999",
+    "hostname": "palmsprings"
+  },
+  {
+    "country": "US",
+    "lat": "38.833900",
+    "region": "CO",
+    "name": "colo springs",
+    "lon": "-104.820999",
+    "hostname": "cosprings"
+  },
+  {
+    "country": "GB",
+    "lat": "51.751099",
+    "region": "",
+    "name": "oxford",
+    "lon": "-1.255830",
+    "hostname": "oxford"
+  },
+  {
+    "country": "US",
+    "lat": "42.732498",
+    "region": "MI",
+    "name": "lansing",
+    "lon": "-84.555603",
+    "hostname": "lansing"
+  },
+  {
+    "country": "CA",
+    "lat": "43.243999",
+    "region": "ON",
+    "name": "hamilton",
+    "lon": "-79.869003",
+    "hostname": "hamilton"
+  },
+  {
+    "country": "CA",
+    "lat": "43.452801",
+    "region": "ON",
+    "name": "kitchener",
+    "lon": "-80.490799",
+    "hostname": "kitchener"
+  },
+  {
+    "country": "AE",
+    "lat": "25.269699",
+    "region": "",
+    "name": "emirates",
+    "lon": "55.309502",
+    "hostname": "dubai"
+  },
+  {
+    "country": "US",
+    "lat": "42.326698",
+    "region": "OR",
+    "name": "medford",
+    "lon": "-122.874001",
+    "hostname": "medford"
+  },
+  {
+    "country": "US",
+    "lat": "48.759701",
+    "region": "WA",
+    "name": "bellingham",
+    "lon": "-122.487000",
+    "hostname": "bellingham"
+  },
+  {
+    "country": "US",
+    "lat": "35.686901",
+    "region": "NM",
+    "name": "santa fe",
+    "lon": "-105.936996",
+    "hostname": "santafe"
+  },
+  {
+    "country": "US",
+    "lat": "29.651400",
+    "region": "FL",
+    "name": "gainesville",
+    "lon": "-82.324997",
+    "hostname": "gainesville"
+  },
+  {
+    "country": "US",
+    "lat": "35.045601",
+    "region": "TN",
+    "name": "chattanooga",
+    "lon": "-85.309700",
+    "hostname": "chattanooga"
+  },
+  {
+    "country": "US",
+    "lat": "37.215302",
+    "region": "MO",
+    "name": "springfield",
+    "lon": "-93.298103",
+    "hostname": "springfield"
+  },
+  {
+    "country": "US",
+    "lat": "38.951698",
+    "region": "MO",
+    "name": "columbia, MO",
+    "lon": "-92.333900",
+    "hostname": "columbiamo"
+  },
+  {
+    "country": "US",
+    "lat": "42.271099",
+    "region": "IL",
+    "name": "rockford",
+    "lon": "-89.093903",
+    "hostname": "rockford"
+  },
+  {
+    "country": "US",
+    "lat": "40.693600",
+    "region": "IL",
+    "name": "peoria",
+    "lon": "-89.588898",
+    "hostname": "peoria"
+  },
+  {
+    "country": "US",
+    "lat": "39.801701",
+    "region": "IL",
+    "name": "springfield, IL",
+    "lon": "-89.643600",
+    "hostname": "springfieldil"
+  },
+  {
+    "country": "US",
+    "lat": "41.130600",
+    "region": "IN",
+    "name": "fort wayne",
+    "lon": "-85.128899",
+    "hostname": "fortwayne"
+  },
+  {
+    "country": "US",
+    "lat": "37.974701",
+    "region": "IN",
+    "name": "evansville",
+    "lon": "-87.555801",
+    "hostname": "evansville"
+  },
+  {
+    "country": "US",
+    "lat": "41.683300",
+    "region": "IN",
+    "name": "south bend",
+    "lon": "-86.250000",
+    "hostname": "southbend"
+  },
+  {
+    "country": "US",
+    "lat": "39.165298",
+    "region": "IN",
+    "name": "bloomington, IN",
+    "lon": "-86.526398",
+    "hostname": "bloomington"
+  },
+  {
+    "country": "US",
+    "lat": "30.367201",
+    "region": "MS",
+    "name": "gulfport",
+    "lon": "-89.092796",
+    "hostname": "gulfport"
+  },
+  {
+    "country": "US",
+    "lat": "34.730301",
+    "region": "AL",
+    "name": "huntsville",
+    "lon": "-86.586098",
+    "hostname": "huntsville"
+  },
+  {
+    "country": "US",
+    "lat": "44.943100",
+    "region": "OR",
+    "name": "salem",
+    "lon": "-123.033997",
+    "hostname": "salem"
+  },
+  {
+    "country": "US",
+    "lat": "44.058300",
+    "region": "OR",
+    "name": "bend",
+    "lon": "-121.314003",
+    "hostname": "bend"
+  },
+  {
+    "country": "CA",
+    "lat": "43.033298",
+    "region": "ON",
+    "name": "london, ON",
+    "lon": "-81.150002",
+    "hostname": "londonon"
+  },
+  {
+    "country": "CA",
+    "lat": "42.287498",
+    "region": "ON",
+    "name": "windsor",
+    "lon": "-83.005798",
+    "hostname": "windsor"
+  },
+  {
+    "country": "US",
+    "lat": "26.121901",
+    "region": "FL",
+    "name": "ft lauderdale",
+    "lon": "-80.143600",
+    "hostname": "fortlauderdale"
+  },
+  {
+    "country": "US",
+    "lat": "27.336100",
+    "region": "FL",
+    "name": "sarasota",
+    "lon": "-82.530800",
+    "hostname": "sarasota"
+  },
+  {
+    "country": "US",
+    "lat": "29.210600",
+    "region": "FL",
+    "name": "daytona beach",
+    "lon": "-81.023102",
+    "hostname": "daytona"
+  },
+  {
+    "country": "US",
+    "lat": "41.688900",
+    "region": "MA",
+    "name": "cape cod",
+    "lon": "-70.296898",
+    "hostname": "capecod"
+  },
+  {
+    "country": "US",
+    "lat": "42.262501",
+    "region": "MA",
+    "name": "worcester",
+    "lon": "-71.802803",
+    "hostname": "worcester"
+  },
+  {
+    "country": "US",
+    "lat": "44.519199",
+    "region": "WI",
+    "name": "green bay",
+    "lon": "-88.019699",
+    "hostname": "greenbay"
+  },
+  {
+    "country": "US",
+    "lat": "44.811401",
+    "region": "WI",
+    "name": "eau claire",
+    "lon": "-91.498299",
+    "hostname": "eauclaire"
+  },
+  {
+    "country": "US",
+    "lat": "44.261902",
+    "region": "WI",
+    "name": "appleton",
+    "lon": "-88.415298",
+    "hostname": "appleton"
+  },
+  {
+    "country": "US",
+    "lat": "35.198101",
+    "region": "AZ",
+    "name": "flagstaff",
+    "lon": "-111.651001",
+    "hostname": "flagstaff"
+  },
+  {
+    "country": "GU",
+    "lat": "13.450000",
+    "region": "",
+    "name": "micronesia",
+    "lon": "144.783005",
+    "hostname": "micronesia"
+  },
+  {
+    "country": "US",
+    "lat": "46.602200",
+    "region": "WA",
+    "name": "yakima",
+    "lon": "-120.504997",
+    "hostname": "yakima"
+  },
+  {
+    "country": "US",
+    "lat": "43.100800",
+    "region": "NY",
+    "name": "utica",
+    "lon": "-75.233101",
+    "hostname": "utica"
+  },
+  {
+    "country": "US",
+    "lat": "42.098598",
+    "region": "NY",
+    "name": "binghamton",
+    "lon": "-75.918297",
+    "hostname": "binghamton"
+  },
+  {
+    "country": "US",
+    "lat": "41.576698",
+    "region": "NY",
+    "name": "hudson valley",
+    "lon": "-73.803398",
+    "hostname": "hudsonvalley"
+  },
+  {
+    "country": "US",
+    "lat": "40.822102",
+    "region": "NY",
+    "name": "long island",
+    "lon": "-73.149696",
+    "hostname": "longisland"
+  },
+  {
+    "country": "US",
+    "lat": "41.081402",
+    "region": "OH",
+    "name": "akron-canton",
+    "lon": "-81.519203",
+    "hostname": "akroncanton"
+  },
+  {
+    "country": "US",
+    "lat": "41.099701",
+    "region": "OH",
+    "name": "youngstown",
+    "lon": "-80.649696",
+    "hostname": "youngstown"
+  },
+  {
+    "country": "US",
+    "lat": "34.852501",
+    "region": "SC",
+    "name": "greenville",
+    "lon": "-82.394203",
+    "hostname": "greenville"
+  },
+  {
+    "country": "US",
+    "lat": "33.688900",
+    "region": "SC",
+    "name": "myrtle beach",
+    "lon": "-78.886902",
+    "hostname": "myrtlebeach"
+  },
+  {
+    "country": "US",
+    "lat": "46.783298",
+    "region": "MN",
+    "name": "duluth",
+    "lon": "-92.106400",
+    "hostname": "duluth"
+  },
+  {
+    "country": "US",
+    "lat": "33.470798",
+    "region": "GA",
+    "name": "augusta",
+    "lon": "-81.974998",
+    "hostname": "augusta"
+  },
+  {
+    "country": "US",
+    "lat": "32.840599",
+    "region": "GA",
+    "name": "macon",
+    "lon": "-83.632500",
+    "hostname": "macon"
+  },
+  {
+    "country": "US",
+    "lat": "33.960800",
+    "region": "GA",
+    "name": "athens, GA",
+    "lon": "-83.378098",
+    "hostname": "athensga"
+  },
+  {
+    "country": "US",
+    "lat": "43.012501",
+    "region": "MI",
+    "name": "flint",
+    "lon": "-83.687500",
+    "hostname": "flint"
+  },
+  {
+    "country": "US",
+    "lat": "43.419399",
+    "region": "MI",
+    "name": "saginaw",
+    "lon": "-83.950798",
+    "hostname": "saginaw"
+  },
+  {
+    "country": "US",
+    "lat": "42.291698",
+    "region": "MI",
+    "name": "kalamazoo",
+    "lon": "-85.587196",
+    "hostname": "kalamazoo"
+  },
+  {
+    "country": "US",
+    "lat": "46.550098",
+    "region": "MI",
+    "name": "yoopers",
+    "lon": "-87.408302",
+    "hostname": "up"
+  },
+  {
+    "country": "US",
+    "lat": "26.203100",
+    "region": "TX",
+    "name": "mcallen",
+    "lon": "-98.229698",
+    "hostname": "mcallen"
+  },
+  {
+    "country": "US",
+    "lat": "30.076200",
+    "region": "TX",
+    "name": "beaumont",
+    "lon": "-94.112999",
+    "hostname": "beaumont"
+  },
+  {
+    "country": "US",
+    "lat": "27.800301",
+    "region": "TX",
+    "name": "corpus christi",
+    "lon": "-97.396103",
+    "hostname": "corpuschristi"
+  },
+  {
+    "country": "US",
+    "lat": "25.901400",
+    "region": "TX",
+    "name": "brownsville",
+    "lon": "-97.497200",
+    "hostname": "brownsville"
+  },
+  {
+    "country": "US",
+    "lat": "33.577801",
+    "region": "TX",
+    "name": "lubbock",
+    "lon": "-101.855003",
+    "hostname": "lubbock"
+  },
+  {
+    "country": "US",
+    "lat": "31.845600",
+    "region": "TX",
+    "name": "odessa",
+    "lon": "-102.366997",
+    "hostname": "odessa"
+  },
+  {
+    "country": "US",
+    "lat": "35.221901",
+    "region": "TX",
+    "name": "amarillo",
+    "lon": "-101.831001",
+    "hostname": "amarillo"
+  },
+  {
+    "country": "US",
+    "lat": "31.549200",
+    "region": "TX",
+    "name": "waco",
+    "lon": "-97.146400",
+    "hostname": "waco"
+  },
+  {
+    "country": "US",
+    "lat": "27.506100",
+    "region": "TX",
+    "name": "laredo",
+    "lon": "-99.507202",
+    "hostname": "laredo"
+  },
+  {
+    "country": "US",
+    "lat": "36.099701",
+    "region": "NC",
+    "name": "winston-salem",
+    "lon": "-80.244400",
+    "hostname": "winstonsalem"
+  },
+  {
+    "country": "US",
+    "lat": "35.052502",
+    "region": "NC",
+    "name": "fayetteville",
+    "lon": "-78.878601",
+    "hostname": "fayetteville"
+  },
+  {
+    "country": "US",
+    "lat": "34.225601",
+    "region": "NC",
+    "name": "wilmington, NC",
+    "lon": "-77.945000",
+    "hostname": "wilmington"
+  },
+  {
+    "country": "US",
+    "lat": "42.129200",
+    "region": "PA",
+    "name": "erie, PA",
+    "lon": "-80.085297",
+    "hostname": "erie"
+  },
+  {
+    "country": "US",
+    "lat": "41.408901",
+    "region": "PA",
+    "name": "scranton",
+    "lon": "-75.662804",
+    "hostname": "scranton"
+  },
+  {
+    "country": "US",
+    "lat": "40.793301",
+    "region": "PA",
+    "name": "state college",
+    "lon": "-77.860298",
+    "hostname": "pennstate"
+  },
+  {
+    "country": "US",
+    "lat": "40.335602",
+    "region": "PA",
+    "name": "reading",
+    "lon": "-75.927200",
+    "hostname": "reading"
+  },
+  {
+    "country": "US",
+    "lat": "40.037800",
+    "region": "PA",
+    "name": "lancaster, PA",
+    "lon": "-76.305801",
+    "hostname": "lancaster"
+  },
+  {
+    "country": "US",
+    "lat": "39.048302",
+    "region": "KS",
+    "name": "topeka",
+    "lon": "-95.677803",
+    "hostname": "topeka"
+  },
+  {
+    "country": "US",
+    "lat": "41.344101",
+    "region": "CT",
+    "name": "eastern CT",
+    "lon": "-72.103600",
+    "hostname": "newlondon"
+  },
+  {
+    "country": "US",
+    "lat": "40.799999",
+    "region": "NE",
+    "name": "lincoln",
+    "lon": "-96.666702",
+    "hostname": "lincoln"
+  },
+  {
+    "country": "US",
+    "lat": "30.213900",
+    "region": "LA",
+    "name": "lafayette",
+    "lon": "-92.029404",
+    "hostname": "lafayette"
+  },
+  {
+    "country": "US",
+    "lat": "30.214701",
+    "region": "LA",
+    "name": "lake charles",
+    "lon": "-93.208603",
+    "hostname": "lakecharles"
+  },
+  {
+    "country": "US",
+    "lat": "37.302200",
+    "region": "CA",
+    "name": "merced",
+    "lon": "-120.482002",
+    "hostname": "merced"
+  },
+  {
+    "country": "US",
+    "lat": "39.480301",
+    "region": "NJ",
+    "name": "south jersey",
+    "lon": "-75.013901",
+    "hostname": "southjersey"
+  },
+  {
+    "country": "US",
+    "lat": "40.585300",
+    "region": "CO",
+    "name": "fort collins",
+    "lon": "-105.084000",
+    "hostname": "fortcollins"
+  },
+  {
+    "country": "US",
+    "lat": "39.191700",
+    "region": "CO",
+    "name": "high rockies",
+    "lon": "-106.824699",
+    "hostname": "rockies"
+  },
+  {
+    "country": "US",
+    "lat": "37.274101",
+    "region": "VA",
+    "name": "roanoke",
+    "lon": "-79.942001",
+    "hostname": "roanoke"
+  },
+  {
+    "country": "US",
+    "lat": "38.034500",
+    "region": "VA",
+    "name": "charlottesville",
+    "lon": "-78.486504",
+    "hostname": "charlottesville"
+  },
+  {
+    "country": "US",
+    "lat": "37.229401",
+    "region": "VA",
+    "name": "blacksburg",
+    "lon": "-80.414200",
+    "hostname": "blacksburg"
+  },
+  {
+    "country": "US",
+    "lat": "40.233898",
+    "region": "UT",
+    "name": "provo",
+    "lon": "-111.657997",
+    "hostname": "provo"
+  },
+  {
+    "country": "US",
+    "lat": "36.062500",
+    "region": "AR",
+    "name": "fayetteville, AR",
+    "lon": "-94.157204",
+    "hostname": "fayar"
+  },
+  {
+    "country": "PK",
+    "lat": "32.016201",
+    "region": "",
+    "name": "pakistan",
+    "lon": "71.692596",
+    "hostname": "pakistan"
+  },
+  {
+    "country": "BD",
+    "lat": "23.851101",
+    "region": "",
+    "name": "bangladesh",
+    "lon": "89.925003",
+    "hostname": "bangladesh"
+  },
+  {
+    "country": "LB",
+    "lat": "33.883301",
+    "region": "",
+    "name": "beirut",
+    "lon": "35.500000",
+    "hostname": "beirut"
+  },
+  {
+    "country": "MY",
+    "lat": "3.570990",
+    "region": "",
+    "name": "malaysia",
+    "lon": "101.991997",
+    "hostname": "malaysia"
+  },
+  {
+    "country": "PA",
+    "lat": "8.751540",
+    "region": "",
+    "name": "panama",
+    "lon": "-79.877197",
+    "hostname": "panama"
+  },
+  {
+    "country": "",
+    "lat": "19.093300",
+    "region": "",
+    "name": "caribbean",
+    "lon": "-74.619102",
+    "hostname": "caribbean"
+  },
+  {
+    "country": "PT",
+    "lat": "38.716702",
+    "region": "",
+    "name": "portugal",
+    "lon": "-9.133330",
+    "hostname": "portugal"
+  },
+  {
+    "country": "NZ",
+    "lat": "-43.500000",
+    "region": "",
+    "name": "christchurch",
+    "lon": "172.600006",
+    "hostname": "christchurch"
+  },
+  {
+    "country": "NZ",
+    "lat": "-41.288898",
+    "region": "",
+    "name": "wellington",
+    "lon": "174.776993",
+    "hostname": "wellington"
+  },
+  {
+    "country": "ZA",
+    "lat": "-29.843000",
+    "region": "",
+    "name": "durban",
+    "lon": "30.955400",
+    "hostname": "durban"
+  },
+  {
+    "country": "CA",
+    "lat": "46.333302",
+    "region": "PE",
+    "name": "PEI",
+    "lon": "-63.500000",
+    "hostname": "pei"
+  },
+  {
+    "country": "CA",
+    "lat": "47.567500",
+    "region": "NL",
+    "name": "st john's, NL",
+    "lon": "-52.707222",
+    "hostname": "newfoundland"
+  },
+  {
+    "country": "FR",
+    "lat": "43.702801",
+    "region": "",
+    "name": "cote d'azur",
+    "lon": "7.269170",
+    "hostname": "cotedazur"
+  },
+  {
+    "country": "US",
+    "lat": "41.511299",
+    "region": "IA",
+    "name": "quad cities",
+    "lon": "-90.594398",
+    "hostname": "quadcities"
+  },
+  {
+    "country": "US",
+    "lat": "32.351101",
+    "region": "TX",
+    "name": "east TX",
+    "lon": "-95.300797",
+    "hostname": "easttexas"
+  },
+  {
+    "country": "US",
+    "lat": "44.459301",
+    "region": "MI",
+    "name": "northern MI",
+    "lon": "-84.814499",
+    "hostname": "nmi"
+  },
+  {
+    "country": "IT",
+    "lat": "45.433300",
+    "region": "",
+    "name": "venice",
+    "lon": "12.316700",
+    "hostname": "venice"
+  },
+  {
+    "country": "IT",
+    "lat": "37.553299",
+    "region": "",
+    "name": "sicilia",
+    "lon": "14.153100",
+    "hostname": "sicily"
+  },
+  {
+    "country": "GB",
+    "lat": "52.209999",
+    "region": "",
+    "name": "cambridge",
+    "lon": "0.130000",
+    "hostname": "cambridge"
+  },
+  {
+    "country": "DE",
+    "lat": "50.936401",
+    "region": "",
+    "name": "cologne",
+    "lon": "6.959500",
+    "hostname": "cologne"
+  },
+  {
+    "country": "VN",
+    "lat": "13.994400",
+    "region": "",
+    "name": "vietnam",
+    "lon": "108.017998",
+    "hostname": "vietnam"
+  },
+  {
+    "country": "US",
+    "lat": "38.254398",
+    "region": "CO",
+    "name": "pueblo",
+    "lon": "-104.609001",
+    "hostname": "pueblo"
+  },
+  {
+    "country": "US",
+    "lat": "44.021702",
+    "region": "MN",
+    "name": "rochester, MN",
+    "lon": "-92.469704",
+    "hostname": "rmn"
+  },
+  {
+    "country": "IN",
+    "lat": "18.523600",
+    "region": "",
+    "name": "pune",
+    "lon": "73.847801",
+    "hostname": "pune"
+  },
+  {
+    "country": "GB",
+    "lat": "57.150002",
+    "region": "",
+    "name": "aberdeen",
+    "lon": "-2.100000",
+    "hostname": "aberdeen"
+  },
+  {
+    "country": "US",
+    "lat": "40.014999",
+    "region": "CO",
+    "name": "boulder",
+    "lon": "-105.269997",
+    "hostname": "boulder"
+  },
+  {
+    "country": "US",
+    "lat": "39.070400",
+    "region": "CO",
+    "name": "western slope",
+    "lon": "-108.552002",
+    "hostname": "westslope"
+  },
+  {
+    "country": "US",
+    "lat": "43.396099",
+    "region": "OR",
+    "name": "oregon coast",
+    "lon": "-124.167000",
+    "hostname": "oregoncoast"
+  },
+  {
+    "country": "US",
+    "lat": "44.756500",
+    "region": "OR",
+    "name": "east oregon",
+    "lon": "-117.853996",
+    "hostname": "eastoregon"
+  },
+  {
+    "country": "US",
+    "lat": "36.417400",
+    "region": "TN",
+    "name": "tri-cities, TN",
+    "lon": "-82.440697",
+    "hostname": "tricities"
+  },
+  {
+    "country": "US",
+    "lat": "46.211399",
+    "region": "WA",
+    "name": "tri-cities, WA",
+    "lon": "-119.136002",
+    "hostname": "kpr"
+  },
+  {
+    "country": "US",
+    "lat": "47.423599",
+    "region": "WA",
+    "name": "wenatchee",
+    "lon": "-120.308998",
+    "hostname": "wenatchee"
+  },
+  {
+    "country": "US",
+    "lat": "30.627800",
+    "region": "TX",
+    "name": "college station",
+    "lon": "-96.334198",
+    "hostname": "collegestation"
+  },
+  {
+    "country": "US",
+    "lat": "31.116899",
+    "region": "TX",
+    "name": "killeen-temple",
+    "lon": "-97.727501",
+    "hostname": "killeen"
+  },
+  {
+    "country": "US",
+    "lat": "38.770100",
+    "region": "MD",
+    "name": "eastern shore",
+    "lon": "-76.072098",
+    "hostname": "easternshore"
+  },
+  {
+    "country": "US",
+    "lat": "39.651699",
+    "region": "MD",
+    "name": "western MD",
+    "lon": "-78.765800",
+    "hostname": "westmd"
+  },
+  {
+    "country": "US",
+    "lat": "24.666901",
+    "region": "FL",
+    "name": "florida keys",
+    "lon": "-81.544197",
+    "hostname": "keys"
+  },
+  {
+    "country": "US",
+    "lat": "28.613501",
+    "region": "FL",
+    "name": "space coast",
+    "lon": "-80.693199",
+    "hostname": "spacecoast"
+  },
+  {
+    "country": "US",
+    "lat": "27.230801",
+    "region": "FL",
+    "name": "treasure coast",
+    "lon": "-80.226303",
+    "hostname": "treasure"
+  },
+  {
+    "country": "US",
+    "lat": "29.186899",
+    "region": "FL",
+    "name": "ocala",
+    "lon": "-82.140297",
+    "hostname": "ocala"
+  },
+  {
+    "country": "US",
+    "lat": "32.319698",
+    "region": "NM",
+    "name": "las cruces",
+    "lon": "-106.764999",
+    "hostname": "lascruces"
+  },
+  {
+    "country": "US",
+    "lat": "35.584999",
+    "region": "NC",
+    "name": "eastern NC",
+    "lon": "-77.372498",
+    "hostname": "eastnc"
+  },
+  {
+    "country": "US",
+    "lat": "36.031898",
+    "region": "NC",
+    "name": "outer banks",
+    "lon": "-75.676598",
+    "hostname": "outerbanks"
+  },
+  {
+    "country": "US",
+    "lat": "43.974701",
+    "region": "NY",
+    "name": "watertown",
+    "lon": "-75.911102",
+    "hostname": "watertown"
+  },
+  {
+    "country": "US",
+    "lat": "44.699402",
+    "region": "NY",
+    "name": "plattsburgh",
+    "lon": "-73.453300",
+    "hostname": "plattsburgh"
+  },
+  {
+    "country": "US",
+    "lat": "41.661098",
+    "region": "IA",
+    "name": "iowa city",
+    "lon": "-91.529999",
+    "hostname": "iowacity"
+  },
+  {
+    "country": "US",
+    "lat": "42.008301",
+    "region": "IA",
+    "name": "cedar rapids",
+    "lon": "-91.643898",
+    "hostname": "cedarrapids"
+  },
+  {
+    "country": "US",
+    "lat": "42.500000",
+    "region": "IA",
+    "name": "sioux city",
+    "lon": "-96.400002",
+    "hostname": "siouxcity"
+  },
+  {
+    "country": "US",
+    "lat": "36.990299",
+    "region": "KY",
+    "name": "bowling green",
+    "lon": "-86.443604",
+    "hostname": "bgky"
+  },
+  {
+    "country": "US",
+    "lat": "32.460800",
+    "region": "GA",
+    "name": "columbus, GA",
+    "lon": "-84.987801",
+    "hostname": "columbusga"
+  },
+  {
+    "country": "US",
+    "lat": "40.484200",
+    "region": "IL",
+    "name": "bloomington, IL",
+    "lon": "-88.993599",
+    "hostname": "bn"
+  },
+  {
+    "country": "US",
+    "lat": "37.727200",
+    "region": "IL",
+    "name": "southern IL",
+    "lon": "-89.216698",
+    "hostname": "carbondale"
+  },
+  {
+    "country": "US",
+    "lat": "36.330299",
+    "region": "CA",
+    "name": "visalia-tulare",
+    "lon": "-119.291000",
+    "hostname": "visalia"
+  },
+  {
+    "country": "US",
+    "lat": "38.971699",
+    "region": "KS",
+    "name": "lawrence",
+    "lon": "-95.235001",
+    "hostname": "lawrence"
+  },
+  {
+    "country": "US",
+    "lat": "39.466702",
+    "region": "IN",
+    "name": "terre haute",
+    "lon": "-87.413902",
+    "hostname": "terrehaute"
+  },
+  {
+    "country": "US",
+    "lat": "40.363098",
+    "region": "NJ",
+    "name": "central NJ",
+    "lon": "-74.661400",
+    "hostname": "cnj"
+  },
+  {
+    "country": "US",
+    "lat": "44.564701",
+    "region": "OR",
+    "name": "corvallis",
+    "lon": "-123.261002",
+    "hostname": "corvallis"
+  },
+  {
+    "country": "US",
+    "lat": "41.223099",
+    "region": "UT",
+    "name": "ogden",
+    "lon": "-111.973000",
+    "hostname": "ogden"
+  },
+  {
+    "country": "US",
+    "lat": "37.095299",
+    "region": "UT",
+    "name": "st george",
+    "lon": "-113.578003",
+    "hostname": "stgeorge"
+  },
+  {
+    "country": "US",
+    "lat": "32.191700",
+    "region": "SC",
+    "name": "hilton head",
+    "lon": "-80.743301",
+    "hostname": "hiltonhead"
+  },
+  {
+    "country": "US",
+    "lat": "41.914501",
+    "region": "CT",
+    "name": "northwest CT",
+    "lon": "-73.276100",
+    "hostname": "nwct"
+  },
+  {
+    "country": "US",
+    "lat": "40.518600",
+    "region": "PA",
+    "name": "altoona",
+    "lon": "-78.394997",
+    "hostname": "altoona"
+  },
+  {
+    "country": "US",
+    "lat": "41.248611",
+    "region": "PA",
+    "name": "poconos",
+    "lon": "-75.248611",
+    "hostname": "poconos"
+  },
+  {
+    "country": "US",
+    "lat": "39.962502",
+    "region": "PA",
+    "name": "york, PA",
+    "lon": "-76.728104",
+    "hostname": "york"
+  },
+  {
+    "country": "US",
+    "lat": "35.385799",
+    "region": "AR",
+    "name": "fort smith",
+    "lon": "-94.398300",
+    "hostname": "fortsmith"
+  },
+  {
+    "country": "US",
+    "lat": "33.424999",
+    "region": "AR",
+    "name": "texarkana",
+    "lon": "-94.047501",
+    "hostname": "texarkana"
+  },
+  {
+    "country": "US",
+    "lat": "40.416698",
+    "region": "IN",
+    "name": "tippecanoe",
+    "lon": "-86.875298",
+    "hostname": "tippecanoe"
+  },
+  {
+    "country": "US",
+    "lat": "40.193298",
+    "region": "IN",
+    "name": "muncie",
+    "lon": "-85.386398",
+    "hostname": "muncie"
+  },
+  {
+    "country": "US",
+    "lat": "42.500599",
+    "region": "IA",
+    "name": "dubuque",
+    "lon": "-90.664398",
+    "hostname": "dubuque"
+  },
+  {
+    "country": "US",
+    "lat": "43.801399",
+    "region": "WI",
+    "name": "la crosse",
+    "lon": "-91.239403",
+    "hostname": "lacrosse"
+  },
+  {
+    "country": "US",
+    "lat": "32.448601",
+    "region": "TX",
+    "name": "abilene",
+    "lon": "-99.732803",
+    "hostname": "abilene"
+  },
+  {
+    "country": "US",
+    "lat": "33.913601",
+    "region": "TX",
+    "name": "wichita falls",
+    "lon": "-98.493103",
+    "hostname": "wichitafalls"
+  },
+  {
+    "country": "US",
+    "lat": "37.403702",
+    "region": "VA",
+    "name": "lynchburg",
+    "lon": "-79.170197",
+    "hostname": "lynchburg"
+  },
+  {
+    "country": "US",
+    "lat": "36.587200",
+    "region": "VA",
+    "name": "danville",
+    "lon": "-79.404404",
+    "hostname": "danville"
+  },
+  {
+    "country": "US",
+    "lat": "46.732498",
+    "region": "WA",
+    "name": "pullman-moscow",
+    "lon": "-117.171997",
+    "hostname": "pullman"
+  },
+  {
+    "country": "US",
+    "lat": "45.560799",
+    "region": "MN",
+    "name": "st cloud",
+    "lon": "-94.162201",
+    "hostname": "stcloud"
+  },
+  {
+    "country": "US",
+    "lat": "32.725300",
+    "region": "AZ",
+    "name": "yuma",
+    "lon": "-114.624001",
+    "hostname": "yuma"
+  },
+  {
+    "country": "US",
+    "lat": "33.209702",
+    "region": "AL",
+    "name": "tuscaloosa",
+    "lon": "-87.569199",
+    "hostname": "tuscaloosa"
+  },
+  {
+    "country": "US",
+    "lat": "32.609699",
+    "region": "AL",
+    "name": "auburn",
+    "lon": "-85.480797",
+    "hostname": "auburn"
+  },
+  {
+    "country": "US",
+    "lat": "38.732498",
+    "region": "CA",
+    "name": "gold country",
+    "lon": "-120.801003",
+    "hostname": "goldcountry"
+  },
+  {
+    "country": "US",
+    "lat": "31.326900",
+    "region": "MS",
+    "name": "hattiesburg",
+    "lon": "-89.290298",
+    "hostname": "hattiesburg"
+  },
+  {
+    "country": "US",
+    "lat": "34.358799",
+    "region": "MS",
+    "name": "north MS",
+    "lon": "-89.526100",
+    "hostname": "northmiss"
+  },
+  {
+    "country": "US",
+    "lat": "28.039200",
+    "region": "FL",
+    "name": "lakeland",
+    "lon": "-81.949997",
+    "hostname": "lakeland"
+  },
+  {
+    "country": "US",
+    "lat": "37.081474",
+    "region": "KY",
+    "name": "western KY",
+    "lon": "-88.077393",
+    "hostname": "westky"
+  },
+  {
+    "country": "US",
+    "lat": "41.638500",
+    "region": "MA",
+    "name": "south coast",
+    "lon": "-71.048599",
+    "hostname": "southcoast"
+  },
+  {
+    "country": "CA",
+    "lat": "46.500000",
+    "region": "NB",
+    "name": "new brunswick",
+    "lon": "-66.750000",
+    "hostname": "newbrunswick"
+  },
+  {
+    "country": "CA",
+    "lat": "49.890202",
+    "region": "BC",
+    "name": "kelowna",
+    "lon": "-119.490997",
+    "hostname": "kelowna"
+  },
+  {
+    "country": "CA",
+    "lat": "50.676701",
+    "region": "BC",
+    "name": "kamloops",
+    "lon": "-120.332001",
+    "hostname": "kamloops"
+  },
+  {
+    "country": "CA",
+    "lat": "49.164700",
+    "region": "BC",
+    "name": "nanaimo",
+    "lon": "-123.938004",
+    "hostname": "nanaimo"
+  },
+  {
+    "country": "CA",
+    "lat": "53.913601",
+    "region": "BC",
+    "name": "prince george",
+    "lon": "-122.750000",
+    "hostname": "princegeorge"
+  },
+  {
+    "country": "CA",
+    "lat": "46.490799",
+    "region": "ON",
+    "name": "sudbury",
+    "lon": "-80.991203",
+    "hostname": "sudbury"
+  },
+  {
+    "country": "CA",
+    "lat": "44.231400",
+    "region": "ON",
+    "name": "kingston, ON",
+    "lon": "-76.484703",
+    "hostname": "kingston"
+  },
+  {
+    "country": "CA",
+    "lat": "43.088902",
+    "region": "ON",
+    "name": "niagara region",
+    "lon": "-79.332298",
+    "hostname": "niagara"
+  },
+  {
+    "country": "CA",
+    "lat": "48.402802",
+    "region": "ON",
+    "name": "thunder bay",
+    "lon": "-89.267998",
+    "hostname": "thunderbay"
+  },
+  {
+    "country": "CA",
+    "lat": "44.308998",
+    "region": "ON",
+    "name": "peterborough",
+    "lon": "-78.313004",
+    "hostname": "peterborough"
+  },
+  {
+    "country": "CA",
+    "lat": "44.394501",
+    "region": "ON",
+    "name": "barrie",
+    "lon": "-79.690399",
+    "hostname": "barrie"
+  },
+  {
+    "country": "CA",
+    "lat": "45.399899",
+    "region": "QC",
+    "name": "sherbrooke",
+    "lon": "-71.919899",
+    "hostname": "sherbrooke"
+  },
+  {
+    "country": "IL",
+    "lat": "32.799999",
+    "region": "",
+    "name": "haifa",
+    "lon": "34.983299",
+    "hostname": "haifa"
+  },
+  {
+    "country": "BR",
+    "lat": "-12.983300",
+    "region": "",
+    "name": "salvador, bahia",
+    "lon": "-38.516701",
+    "hostname": "salvador"
+  },
+  {
+    "country": "CO",
+    "lat": "5.068890",
+    "region": "",
+    "name": "colombia",
+    "lon": "-74.526299",
+    "hostname": "colombia"
+  },
+  {
+    "country": "ES",
+    "lat": "39.476700",
+    "region": "",
+    "name": "valencia",
+    "lon": "-0.374444",
+    "hostname": "valencia"
+  },
+  {
+    "country": "ES",
+    "lat": "37.384300",
+    "region": "",
+    "name": "sevilla",
+    "lon": "-5.979310",
+    "hostname": "sevilla"
+  },
+  {
+    "country": "IT",
+    "lat": "44.500000",
+    "region": "",
+    "name": "bologna",
+    "lon": "11.350000",
+    "hostname": "bologna"
+  },
+  {
+    "country": "IT",
+    "lat": "45.069599",
+    "region": "",
+    "name": "torino",
+    "lon": "7.684940",
+    "hostname": "torino"
+  },
+  {
+    "country": "GB",
+    "lat": "50.830002",
+    "region": "",
+    "name": "brighton",
+    "lon": "-0.155556",
+    "hostname": "brighton"
+  },
+  {
+    "country": "GB",
+    "lat": "50.572800",
+    "region": "",
+    "name": "devon & cornwall",
+    "lon": "-4.498900",
+    "hostname": "devon"
+  },
+  {
+    "country": "GB",
+    "lat": "53.240601",
+    "region": "",
+    "name": "east midlands",
+    "lon": "-0.539703",
+    "hostname": "eastmids"
+  },
+  {
+    "country": "GB",
+    "lat": "53.383301",
+    "region": "",
+    "name": "sheffield",
+    "lon": "-1.466670",
+    "hostname": "sheffield"
+  },
+  {
+    "country": "GB",
+    "lat": "52.633701",
+    "region": "",
+    "name": "east anglia",
+    "lon": "1.292610",
+    "hostname": "norwich"
+  },
+  {
+    "country": "GB",
+    "lat": "51.091202",
+    "region": "",
+    "name": "hampshire",
+    "lon": "-1.218800",
+    "hostname": "hampshire"
+  },
+  {
+    "country": "MX",
+    "lat": "20.666100",
+    "region": "",
+    "name": "guadalajara",
+    "lon": "-103.351997",
+    "hostname": "guadalajara"
+  },
+  {
+    "country": "MX",
+    "lat": "20.645599",
+    "region": "",
+    "name": "yucatan",
+    "lon": "-88.593803",
+    "hostname": "yucatan"
+  },
+  {
+    "country": "MX",
+    "lat": "25.846100",
+    "region": "",
+    "name": "baja sur",
+    "lon": "-111.973000",
+    "hostname": "bajasur"
+  },
+  {
+    "country": "MX",
+    "lat": "20.603100",
+    "region": "",
+    "name": "puerto vallarta",
+    "lon": "-105.234001",
+    "hostname": "pv"
+  },
+  {
+    "country": "MX",
+    "lat": "25.666700",
+    "region": "",
+    "name": "monterrey",
+    "lon": "-100.300003",
+    "hostname": "monterrey"
+  },
+  {
+    "country": "CN",
+    "lat": "23.145399",
+    "region": "",
+    "name": "guangzhou",
+    "lon": "113.334999",
+    "hostname": "guangzhou"
+  },
+  {
+    "country": "IN",
+    "lat": "10.000000",
+    "region": "",
+    "name": "kerala",
+    "lon": "76.500000",
+    "hostname": "kerala"
+  },
+  {
+    "country": "FR",
+    "lat": "43.605301",
+    "region": "",
+    "name": "toulouse",
+    "lon": "1.442800",
+    "hostname": "toulouse"
+  },
+  {
+    "country": "FR",
+    "lat": "44.838600",
+    "region": "",
+    "name": "bordeaux",
+    "lon": "-0.578333",
+    "hostname": "bordeaux"
+  },
+  {
+    "country": "FR",
+    "lat": "50.632500",
+    "region": "",
+    "name": "lille",
+    "lon": "3.058330",
+    "hostname": "lille"
+  },
+  {
+    "country": "FR",
+    "lat": "48.582901",
+    "region": "",
+    "name": "strasbourg",
+    "lon": "7.743750",
+    "hostname": "strasbourg"
+  },
+  {
+    "country": "FR",
+    "lat": "45.986500",
+    "region": "",
+    "name": "loire valley",
+    "lon": "4.025120",
+    "hostname": "loire"
+  },
+  {
+    "country": "DE",
+    "lat": "48.776699",
+    "region": "",
+    "name": "stuttgart",
+    "lon": "9.177500",
+    "hostname": "stuttgart"
+  },
+  {
+    "country": "DE",
+    "lat": "52.368900",
+    "region": "",
+    "name": "hannover",
+    "lon": "9.712600",
+    "hostname": "hannover"
+  },
+  {
+    "country": "DE",
+    "lat": "51.221100",
+    "region": "",
+    "name": "dusseldorf",
+    "lon": "6.779250",
+    "hostname": "dusseldorf"
+  },
+  {
+    "country": "US",
+    "lat": "34.540001",
+    "region": "AZ",
+    "name": "prescott",
+    "lon": "-112.468002",
+    "hostname": "prescott"
+  },
+  {
+    "country": "US",
+    "lat": "33.394199",
+    "region": "NM",
+    "name": "roswell",
+    "lon": "-104.522003",
+    "hostname": "roswell"
+  },
+  {
+    "country": "US",
+    "lat": "44.163601",
+    "region": "MN",
+    "name": "mankato",
+    "lon": "-93.999199",
+    "hostname": "mankato"
+  },
+  {
+    "country": "US",
+    "lat": "34.608601",
+    "region": "OK",
+    "name": "lawton",
+    "lon": "-98.389999",
+    "hostname": "lawton"
+  },
+  {
+    "country": "US",
+    "lat": "37.084202",
+    "region": "MO",
+    "name": "joplin",
+    "lon": "-94.513100",
+    "hostname": "joplin"
+  },
+  {
+    "country": "US",
+    "lat": "43.452900",
+    "region": "ID",
+    "name": "east idaho",
+    "lon": "-112.782997",
+    "hostname": "eastidaho"
+  },
+  {
+    "country": "US",
+    "lat": "35.842201",
+    "region": "AR",
+    "name": "jonesboro",
+    "lon": "-90.704201",
+    "hostname": "jonesboro"
+  },
+  {
+    "country": "US",
+    "lat": "42.245800",
+    "region": "MI",
+    "name": "jackson, MI",
+    "lon": "-84.401398",
+    "hostname": "jxn"
+  },
+  {
+    "country": "US",
+    "lat": "30.832500",
+    "region": "GA",
+    "name": "valdosta",
+    "lon": "-83.278603",
+    "hostname": "valdosta"
+  },
+  {
+    "country": "US",
+    "lat": "39.183601",
+    "region": "KS",
+    "name": "manhattan",
+    "lon": "-96.571404",
+    "hostname": "ksu"
+  },
+  {
+    "country": "JP",
+    "lat": "26.333300",
+    "region": "",
+    "name": "okinawa",
+    "lon": "127.800003",
+    "hostname": "okinawa"
+  },
+  {
+    "country": "IN",
+    "lat": "15.373300",
+    "region": "",
+    "name": "goa",
+    "lon": "73.939201",
+    "hostname": "goa"
+  },
+  {
+    "country": "MX",
+    "lat": "21.012800",
+    "region": "",
+    "name": "guanajuato",
+    "lon": "-101.273003",
+    "hostname": "guanajuato"
+  },
+  {
+    "country": "US",
+    "lat": "40.924999",
+    "region": "NE",
+    "name": "grand island",
+    "lon": "-98.341698",
+    "hostname": "grandisland"
+  },
+  {
+    "country": "US",
+    "lat": "36.115601",
+    "region": "OK",
+    "name": "stillwater",
+    "lon": "-97.058098",
+    "hostname": "stillwater"
+  },
+  {
+    "country": "US",
+    "lat": "43.598000",
+    "region": "MI",
+    "name": "central MI",
+    "lon": "-84.780998",
+    "hostname": "centralmich"
+  },
+  {
+    "country": "US",
+    "lat": "46.877201",
+    "region": "ND",
+    "name": "fargo",
+    "lon": "-96.789398",
+    "hostname": "fargo"
+  },
+  {
+    "country": "US",
+    "lat": "40.758301",
+    "region": "OH",
+    "name": "mansfield",
+    "lon": "-82.515602",
+    "hostname": "mansfield"
+  },
+  {
+    "country": "US",
+    "lat": "40.742500",
+    "region": "OH",
+    "name": "lima-findlay",
+    "lon": "-84.105301",
+    "hostname": "limaohio"
+  },
+  {
+    "country": "US",
+    "lat": "39.329201",
+    "region": "OH",
+    "name": "athens, OH",
+    "lon": "-82.101402",
+    "hostname": "athensohio"
+  },
+  {
+    "country": "US",
+    "lat": "38.349701",
+    "region": "WV",
+    "name": "charleston, WV",
+    "lon": "-81.632797",
+    "hostname": "charlestonwv"
+  },
+  {
+    "country": "US",
+    "lat": "39.629398",
+    "region": "WV",
+    "name": "morgantown",
+    "lon": "-79.956100",
+    "hostname": "morgantown"
+  },
+  {
+    "country": "US",
+    "lat": "39.266701",
+    "region": "WV",
+    "name": "parkersburg",
+    "lon": "-81.561699",
+    "hostname": "parkersburg"
+  },
+  {
+    "country": "US",
+    "lat": "38.419201",
+    "region": "WV",
+    "name": "huntington",
+    "lon": "-82.445297",
+    "hostname": "huntington"
+  },
+  {
+    "country": "US",
+    "lat": "40.063900",
+    "region": "WV",
+    "name": "northern WV",
+    "lon": "-80.721100",
+    "hostname": "wheeling"
+  },
+  {
+    "country": "US",
+    "lat": "39.456100",
+    "region": "WV",
+    "name": "eastern WV",
+    "lon": "-77.964203",
+    "hostname": "martinsburg"
+  },
+  {
+    "country": "US",
+    "lat": "42.034698",
+    "region": "IA",
+    "name": "ames, IA",
+    "lon": "-93.619698",
+    "hostname": "ames"
+  },
+  {
+    "country": "US",
+    "lat": "36.216702",
+    "region": "NC",
+    "name": "boone",
+    "lon": "-81.674698",
+    "hostname": "boone"
+  },
+  {
+    "country": "US",
+    "lat": "38.443298",
+    "region": "VA",
+    "name": "harrisonburg",
+    "lon": "-78.872803",
+    "hostname": "harrisonburg"
+  },
+  {
+    "country": "US",
+    "lat": "41.735600",
+    "region": "UT",
+    "name": "logan",
+    "lon": "-111.834000",
+    "hostname": "logan"
+  },
+  {
+    "country": "US",
+    "lat": "29.883101",
+    "region": "TX",
+    "name": "san marcos",
+    "lon": "-97.941101",
+    "hostname": "sanmarcos"
+  },
+  {
+    "country": "IN",
+    "lat": "23.033300",
+    "region": "",
+    "name": "ahmedabad",
+    "lon": "72.616699",
+    "hostname": "ahmedabad"
+  },
+  {
+    "country": "US",
+    "lat": "42.000000",
+    "region": "NY",
+    "name": "catskills",
+    "lon": "-74.383301",
+    "hostname": "catskills"
+  },
+  {
+    "country": "US",
+    "lat": "42.209702",
+    "region": "NY",
+    "name": "chautauqua",
+    "lon": "-79.466698",
+    "hostname": "chautauqua"
+  },
+  {
+    "country": "US",
+    "lat": "42.089699",
+    "region": "NY",
+    "name": "elmira",
+    "lon": "-76.808098",
+    "hostname": "elmira"
+  },
+  {
+    "country": "US",
+    "lat": "39.363098",
+    "region": "CA",
+    "name": "mendocino co",
+    "lon": "-123.430000",
+    "hostname": "mendocino"
+  },
+  {
+    "country": "US",
+    "lat": "32.963100",
+    "region": "CA",
+    "name": "imperial co",
+    "lon": "-115.487999",
+    "hostname": "imperial"
+  },
+  {
+    "country": "US",
+    "lat": "39.144402",
+    "region": "CA",
+    "name": "yuba-sutter",
+    "lon": "-121.647003",
+    "hostname": "yubasutter"
+  },
+  {
+    "country": "US",
+    "lat": "38.301800",
+    "region": "VA",
+    "name": "fredericksburg",
+    "lon": "-77.470802",
+    "hostname": "fredericksburg"
+  },
+  {
+    "country": "US",
+    "lat": "44.959202",
+    "region": "WI",
+    "name": "wausau",
+    "lon": "-89.629997",
+    "hostname": "wausau"
+  },
+  {
+    "country": "US",
+    "lat": "43.216702",
+    "region": "OR",
+    "name": "roseburg",
+    "lon": "-123.341003",
+    "hostname": "roseburg"
+  },
+  {
+    "country": "US",
+    "lat": "38.978298",
+    "region": "MD",
+    "name": "annapolis",
+    "lon": "-76.492500",
+    "hostname": "annapolis"
+  },
+  {
+    "country": "US",
+    "lat": "48.384499",
+    "region": "WA",
+    "name": "skagit",
+    "lon": "-122.357002",
+    "hostname": "skagit"
+  },
+  {
+    "country": "US",
+    "lat": "35.733101",
+    "region": "NC",
+    "name": "hickory",
+    "lon": "-81.341400",
+    "hostname": "hickory"
+  },
+  {
+    "country": "US",
+    "lat": "41.241100",
+    "region": "PA",
+    "name": "williamsport",
+    "lon": "-77.001404",
+    "hostname": "williamsport"
+  },
+  {
+    "country": "US",
+    "lat": "34.195301",
+    "region": "SC",
+    "name": "florence, SC",
+    "lon": "-79.762802",
+    "hostname": "florencesc"
+  },
+  {
+    "country": "US",
+    "lat": "36.529701",
+    "region": "TN",
+    "name": "clarksville, TN",
+    "lon": "-87.359398",
+    "hostname": "clarksville"
+  },
+  {
+    "country": "US",
+    "lat": "47.798302",
+    "region": "WA",
+    "name": "olympic pen",
+    "lon": "-123.617996",
+    "hostname": "olympic"
+  },
+  {
+    "country": "US",
+    "lat": "31.223101",
+    "region": "AL",
+    "name": "dothan, AL",
+    "lon": "-85.390602",
+    "hostname": "dothan"
+  },
+  {
+    "country": "US",
+    "lat": "31.554399",
+    "region": "AZ",
+    "name": "sierra vista",
+    "lon": "-110.303001",
+    "hostname": "sierravista"
+  },
+  {
+    "country": "US",
+    "lat": "42.563099",
+    "region": "ID",
+    "name": "twin falls",
+    "lon": "-114.459999",
+    "hostname": "twinfalls"
+  },
+  {
+    "country": "US",
+    "lat": "29.281099",
+    "region": "TX",
+    "name": "galveston",
+    "lon": "-94.825798",
+    "hostname": "galveston"
+  },
+  {
+    "country": "CA",
+    "lat": "49.051399",
+    "region": "BC",
+    "name": "fraser valley",
+    "lon": "-122.278999",
+    "hostname": "abbotsford"
+  },
+  {
+    "country": "CA",
+    "lat": "50.124401",
+    "region": "BC",
+    "name": "whistler, BC",
+    "lon": "-122.959999",
+    "hostname": "whistler"
+  },
+  {
+    "country": "CA",
+    "lat": "49.700901",
+    "region": "BC",
+    "name": "comox valley",
+    "lon": "-125.001999",
+    "hostname": "comoxvalley"
+  },
+  {
+    "country": "CA",
+    "lat": "49.511101",
+    "region": "BC",
+    "name": "kootenays",
+    "lon": "-115.766998",
+    "hostname": "cranbrook"
+  },
+  {
+    "country": "CA",
+    "lat": "52.274700",
+    "region": "AB",
+    "name": "red deer",
+    "lon": "-113.815002",
+    "hostname": "reddeer"
+  },
+  {
+    "country": "CA",
+    "lat": "49.696098",
+    "region": "AB",
+    "name": "lethbridge",
+    "lon": "-112.830002",
+    "hostname": "lethbridge"
+  },
+  {
+    "country": "CA",
+    "lat": "56.742199",
+    "region": "AB",
+    "name": "ft mcmurray",
+    "lon": "-111.443001",
+    "hostname": "ftmcmurray"
+  },
+  {
+    "country": "CA",
+    "lat": "50.455299",
+    "region": "SK",
+    "name": "regina",
+    "lon": "-104.610001",
+    "hostname": "regina"
+  },
+  {
+    "country": "CA",
+    "lat": "46.356899",
+    "region": "QC",
+    "name": "trois-rivieres",
+    "lon": "-72.546204",
+    "hostname": "troisrivieres"
+  },
+  {
+    "country": "CA",
+    "lat": "48.410099",
+    "region": "QC",
+    "name": "saguenay",
+    "lon": "-71.063698",
+    "hostname": "saguenay"
+  },
+  {
+    "country": "CA",
+    "lat": "45.029999",
+    "region": "ON",
+    "name": "cornwall, ON",
+    "lon": "-74.739998",
+    "hostname": "cornwall"
+  },
+  {
+    "country": "CA",
+    "lat": "43.544601",
+    "region": "ON",
+    "name": "guelph",
+    "lon": "-80.255096",
+    "hostname": "guelph"
+  },
+  {
+    "country": "CA",
+    "lat": "44.166698",
+    "region": "ON",
+    "name": "belleville, ON",
+    "lon": "-77.383301",
+    "hostname": "belleville"
+  },
+  {
+    "country": "CA",
+    "lat": "42.411289",
+    "region": "ON",
+    "name": "chatham-kent",
+    "lon": "-82.194214",
+    "hostname": "chatham"
+  },
+  {
+    "country": "CA",
+    "lat": "46.519199",
+    "region": "ON",
+    "name": "sault ste marie, ON",
+    "lon": "-84.322098",
+    "hostname": "soo"
+  },
+  {
+    "country": "CA",
+    "lat": "42.966702",
+    "region": "ON",
+    "name": "sarnia",
+    "lon": "-82.400002",
+    "hostname": "sarnia"
+  },
+  {
+    "country": "CA",
+    "lat": "44.574799",
+    "region": "ON",
+    "name": "owen sound",
+    "lon": "-80.952797",
+    "hostname": "owensound"
+  },
+  {
+    "country": "CA",
+    "lat": "62.466599",
+    "region": "NT",
+    "name": "territories",
+    "lon": "-114.445000",
+    "hostname": "territories"
+  },
+  {
+    "country": "AU",
+    "lat": "-35.282799",
+    "region": "NSW",
+    "name": "canberra",
+    "lon": "149.130997",
+    "hostname": "canberra"
+  },
+  {
+    "country": "AU",
+    "lat": "-42.880600",
+    "region": "TAS",
+    "name": "tasmania",
+    "lon": "147.324997",
+    "hostname": "hobart"
+  },
+  {
+    "country": "AU",
+    "lat": "-12.466700",
+    "region": "NT",
+    "name": "darwin",
+    "lon": "130.832993",
+    "hostname": "darwin"
+  },
+  {
+    "country": "GB",
+    "lat": "52.970001",
+    "region": "",
+    "name": "nottingham",
+    "lon": "-1.180000",
+    "hostname": "nottingham"
+  },
+  {
+    "country": "GB",
+    "lat": "51.255001",
+    "region": "",
+    "name": "kent",
+    "lon": "0.863800",
+    "hostname": "kent"
+  },
+  {
+    "country": "GB",
+    "lat": "51.383301",
+    "region": "",
+    "name": "bath",
+    "lon": "-2.366700",
+    "hostname": "bath"
+  },
+  {
+    "country": "GB",
+    "lat": "52.408100",
+    "region": "",
+    "name": "coventry",
+    "lon": "-1.510600",
+    "hostname": "coventry"
+  },
+  {
+    "country": "GB",
+    "lat": "52.921902",
+    "region": "",
+    "name": "derby",
+    "lon": "-1.475800",
+    "hostname": "derby"
+  },
+  {
+    "country": "GB",
+    "lat": "51.783100",
+    "region": "",
+    "name": "essex",
+    "lon": "0.666733",
+    "hostname": "essex"
+  },
+  {
+    "country": "GB",
+    "lat": "56.450001",
+    "region": "",
+    "name": "dundee",
+    "lon": "-2.983330",
+    "hostname": "dundee"
+  },
+  {
+    "country": "CN",
+    "lat": "22.542999",
+    "region": "",
+    "name": "shenzhen",
+    "lon": "114.056999",
+    "hostname": "shenzhen"
+  },
+  {
+    "country": "CN",
+    "lat": "30.273100",
+    "region": "",
+    "name": "hangzhou",
+    "lon": "120.177002",
+    "hostname": "hangzhou"
+  },
+  {
+    "country": "JP",
+    "lat": "35.166698",
+    "region": "",
+    "name": "nagoya",
+    "lon": "136.917007",
+    "hostname": "nagoya"
+  },
+  {
+    "country": "JP",
+    "lat": "43.066700",
+    "region": "",
+    "name": "sapporo",
+    "lon": "141.350006",
+    "hostname": "sapporo"
+  },
+  {
+    "country": "JP",
+    "lat": "33.585800",
+    "region": "",
+    "name": "fukuoka",
+    "lon": "130.403000",
+    "hostname": "fukuoka"
+  },
+  {
+    "country": "JP",
+    "lat": "34.384800",
+    "region": "",
+    "name": "hiroshima",
+    "lon": "132.455002",
+    "hostname": "hiroshima"
+  },
+  {
+    "country": "MX",
+    "lat": "28.500000",
+    "region": "",
+    "name": "chihuahua",
+    "lon": "-106.000000",
+    "hostname": "chihuahua"
+  },
+  {
+    "country": "MX",
+    "lat": "29.083300",
+    "region": "",
+    "name": "hermosillo",
+    "lon": "-110.949997",
+    "hostname": "hermosillo"
+  },
+  {
+    "country": "MX",
+    "lat": "19.187201",
+    "region": "",
+    "name": "veracruz",
+    "lon": "-96.136398",
+    "hostname": "veracruz"
+  },
+  {
+    "country": "MX",
+    "lat": "19.046900",
+    "region": "",
+    "name": "puebla",
+    "lon": "-98.209396",
+    "hostname": "puebla"
+  },
+  {
+    "country": "MX",
+    "lat": "23.233101",
+    "region": "",
+    "name": "mazatlan",
+    "lon": "-106.411003",
+    "hostname": "mazatlan"
+  },
+  {
+    "country": "MX",
+    "lat": "17.083300",
+    "region": "",
+    "name": "oaxaca",
+    "lon": "-96.750000",
+    "hostname": "oaxaca"
+  },
+  {
+    "country": "MX",
+    "lat": "31.737700",
+    "region": "",
+    "name": "ciudad juarez",
+    "lon": "-106.487000",
+    "hostname": "juarez"
+  },
+  {
+    "country": "MX",
+    "lat": "16.851700",
+    "region": "",
+    "name": "acapulco",
+    "lon": "-99.909698",
+    "hostname": "acapulco"
+  },
+  {
+    "country": "BR",
+    "lat": "-19.891701",
+    "region": "",
+    "name": "belo horizonte",
+    "lon": "-43.947800",
+    "hostname": "belohorizonte"
+  },
+  {
+    "country": "BR",
+    "lat": "-15.788300",
+    "region": "",
+    "name": "brasilia",
+    "lon": "-47.926498",
+    "hostname": "brasilia"
+  },
+  {
+    "country": "BR",
+    "lat": "-30.004900",
+    "region": "",
+    "name": "porto alegre",
+    "lon": "-51.185299",
+    "hostname": "portoalegre"
+  },
+  {
+    "country": "BR",
+    "lat": "-8.055560",
+    "region": "",
+    "name": "recife",
+    "lon": "-34.891102",
+    "hostname": "recife"
+  },
+  {
+    "country": "BR",
+    "lat": "-25.468700",
+    "region": "",
+    "name": "curitiba",
+    "lon": "-49.253502",
+    "hostname": "curitiba"
+  },
+  {
+    "country": "BR",
+    "lat": "-3.828630",
+    "region": "",
+    "name": "fortaleza",
+    "lon": "-38.595001",
+    "hostname": "fortaleza"
+  },
+  {
+    "country": "DE",
+    "lat": "49.396702",
+    "region": "",
+    "name": "heidelberg",
+    "lon": "8.679200",
+    "hostname": "heidelberg"
+  },
+  {
+    "country": "DE",
+    "lat": "51.333333",
+    "region": "",
+    "name": "leipzig",
+    "lon": "12.383333",
+    "hostname": "leipzig"
+  },
+  {
+    "country": "DE",
+    "lat": "51.049999",
+    "region": "",
+    "name": "dresden",
+    "lon": "13.733300",
+    "hostname": "dresden"
+  },
+  {
+    "country": "DE",
+    "lat": "53.076900",
+    "region": "",
+    "name": "bremen",
+    "lon": "8.808890",
+    "hostname": "bremen"
+  },
+  {
+    "country": "DE",
+    "lat": "51.466702",
+    "region": "",
+    "name": "essen \/ ruhr",
+    "lon": "4.466670",
+    "hostname": "essen"
+  },
+  {
+    "country": "FR",
+    "lat": "43.611900",
+    "region": "",
+    "name": "montpellier",
+    "lon": "3.877220",
+    "hostname": "montpellier"
+  },
+  {
+    "country": "FR",
+    "lat": "45.189999",
+    "region": "",
+    "name": "grenoble",
+    "lon": "5.720000",
+    "hostname": "grenoble"
+  },
+  {
+    "country": "FR",
+    "lat": "48.106098",
+    "region": "",
+    "name": "brittany",
+    "lon": "-1.671300",
+    "hostname": "rennes"
+  },
+  {
+    "country": "FR",
+    "lat": "49.436901",
+    "region": "",
+    "name": "normandy",
+    "lon": "1.087650",
+    "hostname": "rouen"
+  },
+  {
+    "country": "CH",
+    "lat": "47.566002",
+    "region": "",
+    "name": "basel",
+    "lon": "7.600000",
+    "hostname": "basel"
+  },
+  {
+    "country": "CH",
+    "lat": "46.953999",
+    "region": "",
+    "name": "bern",
+    "lon": "7.447360",
+    "hostname": "bern"
+  },
+  {
+    "country": "IT",
+    "lat": "43.116699",
+    "region": "",
+    "name": "perugia",
+    "lon": "12.383300",
+    "hostname": "perugia"
+  },
+  {
+    "country": "IT",
+    "lat": "44.416698",
+    "region": "",
+    "name": "genoa",
+    "lon": "8.923890",
+    "hostname": "genoa"
+  },
+  {
+    "country": "IT",
+    "lat": "40.000000",
+    "region": "",
+    "name": "sardinia",
+    "lon": "9.000000",
+    "hostname": "sardinia"
+  },
+  {
+    "country": "ES",
+    "lat": "38.349998",
+    "region": "",
+    "name": "alicante",
+    "lon": "-0.480000",
+    "hostname": "alicante"
+  },
+  {
+    "country": "ES",
+    "lat": "39.605701",
+    "region": "",
+    "name": "baleares",
+    "lon": "2.966310",
+    "hostname": "baleares"
+  },
+  {
+    "country": "ES",
+    "lat": "43.250000",
+    "region": "",
+    "name": "bilbao",
+    "lon": "-2.966700",
+    "hostname": "bilbao"
+  },
+  {
+    "country": "ES",
+    "lat": "36.532299",
+    "region": "",
+    "name": "cadiz",
+    "lon": "-6.291730",
+    "hostname": "cadiz"
+  },
+  {
+    "country": "ES",
+    "lat": "28.480801",
+    "region": "",
+    "name": "canarias",
+    "lon": "-16.273800",
+    "hostname": "canarias"
+  },
+  {
+    "country": "ES",
+    "lat": "37.174198",
+    "region": "",
+    "name": "granada",
+    "lon": "-3.597500",
+    "hostname": "granada"
+  },
+  {
+    "country": "ES",
+    "lat": "36.711899",
+    "region": "",
+    "name": "malaga",
+    "lon": "-4.435730",
+    "hostname": "malaga"
+  },
+  {
+    "country": "PT",
+    "lat": "38.700001",
+    "region": "",
+    "name": "lisbon",
+    "lon": "-9.183300",
+    "hostname": "lisbon"
+  },
+  {
+    "country": "PT",
+    "lat": "41.166698",
+    "region": "",
+    "name": "porto",
+    "lon": "-8.583330",
+    "hostname": "porto"
+  },
+  {
+    "country": "PT",
+    "lat": "37.020000",
+    "region": "",
+    "name": "faro \/ algarve",
+    "lon": "-7.930000",
+    "hostname": "faro"
+  },
+  {
+    "country": "UY",
+    "lat": "-34.866699",
+    "region": "",
+    "name": "montevideo",
+    "lon": "-56.166698",
+    "hostname": "montevideo"
+  },
+  {
+    "country": "LU",
+    "lat": "49.611698",
+    "region": "",
+    "name": "luxembourg",
+    "lon": "6.130000",
+    "hostname": "luxembourg"
+  },
+  {
+    "country": "EC",
+    "lat": "-0.225219",
+    "region": "",
+    "name": "ecuador",
+    "lon": "-78.519302",
+    "hostname": "quito"
+  },
+  {
+    "country": "HR",
+    "lat": "45.813499",
+    "region": "",
+    "name": "croatia",
+    "lon": "15.985100",
+    "hostname": "zagreb"
+  },
+  {
+    "country": "PH",
+    "lat": "7.078410",
+    "region": "",
+    "name": "davao city",
+    "lon": "125.612000",
+    "hostname": "davaocity"
+  },
+  {
+    "country": "PH",
+    "lat": "10.426400",
+    "region": "",
+    "name": "cebu",
+    "lon": "123.797997",
+    "hostname": "cebu"
+  },
+  {
+    "country": "IN",
+    "lat": "22.723600",
+    "region": "",
+    "name": "indore",
+    "lon": "75.860603",
+    "hostname": "indore"
+  },
+  {
+    "country": "IN",
+    "lat": "26.920000",
+    "region": "",
+    "name": "jaipur",
+    "lon": "75.820000",
+    "hostname": "jaipur"
+  },
+  {
+    "country": "PS",
+    "lat": "31.966700",
+    "region": "",
+    "name": "west bank",
+    "lon": "35.299999",
+    "hostname": "ramallah"
+  },
+  {
+    "country": "US",
+    "lat": "42.584702",
+    "region": "WI",
+    "name": "kenosha-racine",
+    "lon": "-87.821098",
+    "hostname": "racine"
+  },
+  {
+    "country": "US",
+    "lat": "42.682800",
+    "region": "WI",
+    "name": "janesville",
+    "lon": "-89.018600",
+    "hostname": "janesville"
+  },
+  {
+    "country": "US",
+    "lat": "43.234200",
+    "region": "MI",
+    "name": "muskegon",
+    "lon": "-86.248299",
+    "hostname": "muskegon"
+  },
+  {
+    "country": "US",
+    "lat": "42.970798",
+    "region": "MI",
+    "name": "port huron",
+    "lon": "-82.425003",
+    "hostname": "porthuron"
+  },
+  {
+    "country": "US",
+    "lat": "38.534199",
+    "region": "MD",
+    "name": "southern MD",
+    "lon": "-76.783401",
+    "hostname": "smd"
+  },
+  {
+    "country": "US",
+    "lat": "29.894400",
+    "region": "FL",
+    "name": "st augustine",
+    "lon": "-81.314697",
+    "hostname": "staugustine"
+  },
+  {
+    "country": "US",
+    "lat": "35.614399",
+    "region": "TN",
+    "name": "jackson, TN",
+    "lon": "-88.813904",
+    "hostname": "jacksontn"
+  },
+  {
+    "country": "US",
+    "lat": "34.014198",
+    "region": "AL",
+    "name": "gadsden",
+    "lon": "-86.006699",
+    "hostname": "gadsden"
+  },
+  {
+    "country": "US",
+    "lat": "34.799702",
+    "region": "AL",
+    "name": "the shoals",
+    "lon": "-87.677200",
+    "hostname": "shoals"
+  },
+  {
+    "country": "US",
+    "lat": "40.222500",
+    "region": "NJ",
+    "name": "jersey shore",
+    "lon": "-74.012199",
+    "hostname": "jerseyshore"
+  },
+  {
+    "country": "US",
+    "lat": "30.158600",
+    "region": "FL",
+    "name": "panama city, FL",
+    "lon": "-85.660301",
+    "hostname": "panamacity"
+  },
+  {
+    "country": "US",
+    "lat": "32.510300",
+    "region": "LA",
+    "name": "monroe, LA",
+    "lon": "-92.095001",
+    "hostname": "monroe"
+  },
+  {
+    "country": "US",
+    "lat": "28.805000",
+    "region": "TX",
+    "name": "victoria, TX",
+    "lon": "-97.003304",
+    "hostname": "victoriatx"
+  },
+  {
+    "country": "US",
+    "lat": "35.285999",
+    "region": "AZ",
+    "name": "mohave co",
+    "lon": "-114.083000",
+    "hostname": "mohave"
+  },
+  {
+    "country": "US",
+    "lat": "36.879601",
+    "region": "MO",
+    "name": "southeast MO",
+    "lon": "-89.587997",
+    "hostname": "semo"
+  },
+  {
+    "country": "US",
+    "lat": "42.492500",
+    "region": "IA",
+    "name": "waterloo",
+    "lon": "-92.345802",
+    "hostname": "waterloo"
+  },
+  {
+    "country": "US",
+    "lat": "36.728100",
+    "region": "NM",
+    "name": "farmington, NM",
+    "lon": "-108.218002",
+    "hostname": "farmington"
+  },
+  {
+    "country": "US",
+    "lat": "39.840302",
+    "region": "IL",
+    "name": "decatur, IL",
+    "lon": "-88.954697",
+    "hostname": "decatur"
+  },
+  {
+    "country": "US",
+    "lat": "31.149700",
+    "region": "GA",
+    "name": "brunswick, GA",
+    "lon": "-81.491699",
+    "hostname": "brunswick"
+  },
+  {
+    "country": "US",
+    "lat": "43.750801",
+    "region": "WI",
+    "name": "sheboygan, WI",
+    "lon": "-87.714401",
+    "hostname": "sheboygan"
+  },
+  {
+    "country": "US",
+    "lat": "41.984001",
+    "region": "MI",
+    "name": "southwest MI",
+    "lon": "-86.066902",
+    "hostname": "swmi"
+  },
+  {
+    "country": "US",
+    "lat": "41.448898",
+    "region": "OH",
+    "name": "sandusky",
+    "lon": "-82.708099",
+    "hostname": "sandusky"
+  },
+  {
+    "country": "RO",
+    "lat": "44.433300",
+    "region": "",
+    "name": "romania",
+    "lon": "26.100000",
+    "hostname": "bucharest"
+  },
+  {
+    "country": "GH",
+    "lat": "5.550000",
+    "region": "",
+    "name": "ghana",
+    "lon": "-0.216667",
+    "hostname": "accra"
+  },
+  {
+    "country": "ET",
+    "lat": "9.033330",
+    "region": "",
+    "name": "ethiopia",
+    "lon": "38.700001",
+    "hostname": "addisababa"
+  },
+  {
+    "country": "KW",
+    "lat": "29.369699",
+    "region": "",
+    "name": "kuwait",
+    "lon": "47.978298",
+    "hostname": "kuwait"
+  },
+  {
+    "country": "BO",
+    "lat": "-19.043100",
+    "region": "",
+    "name": "bolivia",
+    "lon": "-65.259201",
+    "hostname": "lapaz"
+  },
+  {
+    "country": "IS",
+    "lat": "64.146004",
+    "region": "",
+    "name": "reykjavik",
+    "lon": "-21.942301",
+    "hostname": "reykjavik"
+  },
+  {
+    "country": "MA",
+    "lat": "34.020000",
+    "region": "",
+    "name": "morocco",
+    "lon": "-6.830000",
+    "hostname": "casablanca"
+  },
+  {
+    "country": "TN",
+    "lat": "36.802799",
+    "region": "",
+    "name": "tunisia",
+    "lon": "10.179700",
+    "hostname": "tunis"
+  },
+  {
+    "country": "KE",
+    "lat": "-1.283330",
+    "region": "",
+    "name": "kenya",
+    "lon": "36.816700",
+    "hostname": "kenya"
+  },
+  {
+    "country": "UA",
+    "lat": "50.433300",
+    "region": "",
+    "name": "ukraine",
+    "lon": "30.516701",
+    "hostname": "ukraine"
+  },
+  {
+    "country": "BG",
+    "lat": "42.697498",
+    "region": "",
+    "name": "bulgaria",
+    "lon": "23.324100",
+    "hostname": "bulgaria"
+  },
+  {
+    "country": "GT",
+    "lat": "14.621100",
+    "region": "",
+    "name": "guatemala",
+    "lon": "-90.526901",
+    "hostname": "guatemala"
+  },
+  {
+    "country": "NI",
+    "lat": "12.150800",
+    "region": "",
+    "name": "nicaragua",
+    "lon": "-86.268303",
+    "hostname": "managua"
+  },
+  {
+    "country": "SV",
+    "lat": "13.708600",
+    "region": "",
+    "name": "el salvador",
+    "lon": "-89.203102",
+    "hostname": "elsalvador"
+  },
+  {
+    "country": "IQ",
+    "lat": "33.338600",
+    "region": "",
+    "name": "iraq",
+    "lon": "44.393902",
+    "hostname": "baghdad"
+  },
+  {
+    "country": "IR",
+    "lat": "35.671902",
+    "region": "",
+    "name": "iran",
+    "lon": "51.424400",
+    "hostname": "tehran"
+  },
+  {
+    "country": "AU",
+    "lat": "-28.000000",
+    "region": "QLD",
+    "name": "gold coast",
+    "lon": "153.432999",
+    "hostname": "goldcoast"
+  },
+  {
+    "country": "AU",
+    "lat": "-32.927101",
+    "region": "NSW",
+    "name": "newcastle, NSW",
+    "lon": "151.776001",
+    "hostname": "ntl"
+  },
+  {
+    "country": "AU",
+    "lat": "-16.916700",
+    "region": "QLD",
+    "name": "cairns",
+    "lon": "145.766998",
+    "hostname": "cairns"
+  },
+  {
+    "country": "AU",
+    "lat": "-34.433300",
+    "region": "NSW",
+    "name": "wollongong",
+    "lon": "150.882996",
+    "hostname": "wollongong"
+  },
+  {
+    "country": "NZ",
+    "lat": "-45.891918",
+    "region": "",
+    "name": "dunedin",
+    "lon": "170.506439",
+    "hostname": "dunedin"
+  },
+  {
+    "country": "ZA",
+    "lat": "-25.706900",
+    "region": "",
+    "name": "pretoria",
+    "lon": "28.229401",
+    "hostname": "pretoria"
+  },
+  {
+    "country": "JP",
+    "lat": "38.266667",
+    "region": "",
+    "name": "sendai",
+    "lon": "140.866667",
+    "hostname": "sendai"
+  },
+  {
+    "country": "CN",
+    "lat": "30.591000",
+    "region": "",
+    "name": "wuhan",
+    "lon": "114.305000",
+    "hostname": "wuhan"
+  },
+  {
+    "country": "CN",
+    "lat": "41.803800",
+    "region": "",
+    "name": "shenyang",
+    "lon": "123.434100",
+    "hostname": "shenyang"
+  },
+  {
+    "country": "CN",
+    "lat": "32.050000",
+    "region": "",
+    "name": "nanjing",
+    "lon": "118.766667",
+    "hostname": "nanjing"
+  },
+  {
+    "country": "CN",
+    "lat": "38.912201",
+    "region": "",
+    "name": "dalian",
+    "lon": "121.601997",
+    "hostname": "dalian"
+  },
+  {
+    "country": "CN",
+    "lat": "29.558333",
+    "region": "",
+    "name": "chongqing",
+    "lon": "106.566667",
+    "hostname": "chongqing"
+  },
+  {
+    "country": "CN",
+    "lat": "30.666700",
+    "region": "",
+    "name": "chengdu",
+    "lon": "104.067001",
+    "hostname": "chengdu"
+  },
+  {
+    "country": "CN",
+    "lat": "34.266667",
+    "region": "",
+    "name": "xi'an",
+    "lon": "108.900000",
+    "hostname": "xian"
+  },
+  {
+    "country": "PH",
+    "lat": "8.482220",
+    "region": "",
+    "name": "cagayan de oro",
+    "lon": "124.647003",
+    "hostname": "cdo"
+  },
+  {
+    "country": "PH",
+    "lat": "10.696900",
+    "region": "",
+    "name": "iloilo",
+    "lon": "122.564003",
+    "hostname": "iloilo"
+  },
+  {
+    "country": "PH",
+    "lat": "10.631100",
+    "region": "",
+    "name": "bacolod",
+    "lon": "122.978996",
+    "hostname": "bacolod"
+  },
+  {
+    "country": "PH",
+    "lat": "6.910280",
+    "region": "",
+    "name": "zamboanga",
+    "lon": "122.073997",
+    "hostname": "zamboanga"
+  },
+  {
+    "country": "PH",
+    "lat": "15.223300",
+    "region": "",
+    "name": "pampanga",
+    "lon": "120.579002",
+    "hostname": "pampanga"
+  },
+  {
+    "country": "PH",
+    "lat": "13.500000",
+    "region": "",
+    "name": "bicol region",
+    "lon": "123.500000",
+    "hostname": "naga"
+  },
+  {
+    "country": "IN",
+    "lat": "30.737200",
+    "region": "",
+    "name": "chandigarh",
+    "lon": "76.787201",
+    "hostname": "chandigarh"
+  },
+  {
+    "country": "IN",
+    "lat": "26.847000",
+    "region": "",
+    "name": "lucknow",
+    "lon": "80.947000",
+    "hostname": "lucknow"
+  },
+  {
+    "country": "IN",
+    "lat": "20.270000",
+    "region": "",
+    "name": "bhubaneswar",
+    "lon": "85.840000",
+    "hostname": "bhubaneswar"
+  },
+  {
+    "country": "IN",
+    "lat": "21.166700",
+    "region": "",
+    "name": "surat surat",
+    "lon": "72.833298",
+    "hostname": "surat"
+  },
+  {
+    "country": "DE",
+    "lat": "49.447800",
+    "region": "",
+    "name": "nuremberg",
+    "lon": "11.068300",
+    "hostname": "nuremberg"
+  },
+  {
+    "country": "CH",
+    "lat": "46.518902",
+    "region": "",
+    "name": "lausanne",
+    "lon": "6.676360",
+    "hostname": "lausanne"
+  },
+  {
+    "country": "VI",
+    "lat": "18.341900",
+    "region": "",
+    "name": "virgin islands",
+    "lon": "-64.930702",
+    "hostname": "virgin"
+  },
+  {
+    "country": "DO",
+    "lat": "18.466700",
+    "region": "",
+    "name": "dominican",
+    "lon": "-69.900002",
+    "hostname": "santodomingo"
+  },
+  {
+    "country": "DE",
+    "lat": "49.450001",
+    "region": "",
+    "name": "kaiserslautern",
+    "lon": "7.750000",
+    "hostname": "kaiserslautern"
+  },
+  {
+    "country": "CA",
+    "lat": "50.050098",
+    "region": "AB",
+    "name": "medicine hat",
+    "lon": "-110.667999",
+    "hostname": "hat"
+  },
+  {
+    "country": "CA",
+    "lat": "56.250099",
+    "region": "AB",
+    "name": "peace country",
+    "lon": "-117.286003",
+    "hostname": "peace"
+  },
+  {
+    "country": "CA",
+    "lat": "53.169827",
+    "region": "BC",
+    "name": "cariboo",
+    "lon": "-122.527771",
+    "hostname": "cariboo"
+  },
+  {
+    "country": "CA",
+    "lat": "49.998901",
+    "region": "BC",
+    "name": "sunshine coast",
+    "lon": "-123.753998",
+    "hostname": "sunshine"
+  },
+  {
+    "country": "CA",
+    "lat": "54.232800",
+    "region": "BC",
+    "name": "skeena-bulkley",
+    "lon": "-129.837006",
+    "hostname": "skeena"
+  },
+  {
+    "country": "CA",
+    "lat": "62.456001",
+    "region": "NT",
+    "name": "yellowknife",
+    "lon": "-114.352997",
+    "hostname": "yellowknife"
+  },
+  {
+    "country": "CA",
+    "lat": "60.716099",
+    "region": "YK",
+    "name": "whitehorse",
+    "lon": "-135.054001",
+    "hostname": "whitehorse"
+  },
+  {
+    "country": "CA",
+    "lat": "43.133400",
+    "region": "ON",
+    "name": "brantford",
+    "lon": "-80.266403",
+    "hostname": "brantford"
+  },
+  {
+    "country": "US",
+    "lat": "43.417019",
+    "region": "MI",
+    "name": "the thumb",
+    "lon": "-83.092346",
+    "hostname": "thumb"
+  },
+  {
+    "country": "US",
+    "lat": "42.321201",
+    "region": "MI",
+    "name": "battle creek",
+    "lon": "-85.179703",
+    "hostname": "battlecreek"
+  },
+  {
+    "country": "US",
+    "lat": "41.916000",
+    "region": "MI",
+    "name": "monroe",
+    "lon": "-83.397697",
+    "hostname": "monroemi"
+  },
+  {
+    "country": "US",
+    "lat": "42.787498",
+    "region": "MI",
+    "name": "holland",
+    "lon": "-86.108902",
+    "hostname": "holland"
+  },
+  {
+    "country": "US",
+    "lat": "45.638901",
+    "region": "WI",
+    "name": "northern WI",
+    "lon": "-89.412498",
+    "hostname": "northernwi"
+  },
+  {
+    "country": "US",
+    "lat": "37.779499",
+    "region": "WV",
+    "name": "southern WV",
+    "lon": "-81.183296",
+    "hostname": "swv"
+  },
+  {
+    "country": "US",
+    "lat": "39.414299",
+    "region": "MD",
+    "name": "frederick",
+    "lon": "-77.410500",
+    "hostname": "frederick"
+  },
+  {
+    "country": "US",
+    "lat": "34.758801",
+    "region": "NC",
+    "name": "jacksonville, NC",
+    "lon": "-77.424400",
+    "hostname": "onslow"
+  },
+  {
+    "country": "US",
+    "lat": "32.448799",
+    "region": "GA",
+    "name": "statesboro",
+    "lon": "-81.783203",
+    "hostname": "statesboro"
+  },
+  {
+    "country": "US",
+    "lat": "34.500000",
+    "region": "GA",
+    "name": "northwest GA",
+    "lon": "-84.942001",
+    "hostname": "nwga"
+  },
+  {
+    "country": "US",
+    "lat": "31.575026",
+    "region": "GA",
+    "name": "albany, GA",
+    "lon": "-84.159393",
+    "hostname": "albanyga"
+  },
+  {
+    "country": "US",
+    "lat": "30.189199",
+    "region": "FL",
+    "name": "lake city",
+    "lon": "-82.639503",
+    "hostname": "lakecity"
+  },
+  {
+    "country": "US",
+    "lat": "27.539200",
+    "region": "FL",
+    "name": "heartland FL",
+    "lon": "-81.509903",
+    "hostname": "cfl"
+  },
+  {
+    "country": "US",
+    "lat": "30.762100",
+    "region": "FL",
+    "name": "okaloosa",
+    "lon": "-86.570503",
+    "hostname": "okaloosa"
+  },
+  {
+    "country": "US",
+    "lat": "32.364300",
+    "region": "MS",
+    "name": "meridian",
+    "lon": "-88.703697",
+    "hostname": "meridian"
+  },
+  {
+    "country": "US",
+    "lat": "31.554199",
+    "region": "MS",
+    "name": "southwest MS",
+    "lon": "-91.387497",
+    "hostname": "natchez"
+  },
+  {
+    "country": "US",
+    "lat": "29.595800",
+    "region": "LA",
+    "name": "houma",
+    "lon": "-90.719498",
+    "hostname": "houma"
+  },
+  {
+    "country": "US",
+    "lat": "31.297327",
+    "region": "LA",
+    "name": "central LA",
+    "lon": "-92.469177",
+    "hostname": "cenla"
+  },
+  {
+    "country": "US",
+    "lat": "31.604271",
+    "region": "TX",
+    "name": "deep east TX",
+    "lon": "-94.654083",
+    "hostname": "nacogdoches"
+  },
+  {
+    "country": "US",
+    "lat": "31.452999",
+    "region": "TX",
+    "name": "san angelo",
+    "lon": "-100.452499",
+    "hostname": "sanangelo"
+  },
+  {
+    "country": "US",
+    "lat": "29.372601",
+    "region": "TX",
+    "name": "del rio",
+    "lon": "-100.898438",
+    "hostname": "delrio"
+  },
+  {
+    "country": "US",
+    "lat": "29.200123",
+    "region": "TX",
+    "name": "southwest TX",
+    "lon": "-103.293457",
+    "hostname": "bigbend"
+  },
+  {
+    "country": "US",
+    "lat": "33.832001",
+    "region": "TX",
+    "name": "texoma",
+    "lon": "-96.571098",
+    "hostname": "texoma"
+  },
+  {
+    "country": "US",
+    "lat": "36.431702",
+    "region": "OK",
+    "name": "northwest OK",
+    "lon": "-97.895302",
+    "hostname": "enid"
+  },
+  {
+    "country": "US",
+    "lat": "34.254200",
+    "region": "AZ",
+    "name": "show low",
+    "lon": "-110.029999",
+    "hostname": "showlow"
+  },
+  {
+    "country": "US",
+    "lat": "40.832401",
+    "region": "NV",
+    "name": "elko",
+    "lon": "-115.763000",
+    "hostname": "elko"
+  },
+  {
+    "country": "US",
+    "lat": "34.406910",
+    "region": "NM",
+    "name": "clovis-portales",
+    "lon": "-103.200073",
+    "hostname": "clovis"
+  },
+  {
+    "country": "US",
+    "lat": "46.392399",
+    "region": "ID",
+    "name": "lewiston",
+    "lon": "-116.992996",
+    "hostname": "lewiston"
+  },
+  {
+    "country": "US",
+    "lat": "47.130100",
+    "region": "WA",
+    "name": "moses lake",
+    "lon": "-119.278000",
+    "hostname": "moseslake"
+  },
+  {
+    "country": "US",
+    "lat": "46.872101",
+    "region": "MT",
+    "name": "missoula",
+    "lon": "-113.994003",
+    "hostname": "missoula"
+  },
+  {
+    "country": "US",
+    "lat": "45.783298",
+    "region": "MT",
+    "name": "billings",
+    "lon": "-108.500999",
+    "hostname": "billings"
+  },
+  {
+    "country": "US",
+    "lat": "45.679699",
+    "region": "MT",
+    "name": "bozeman",
+    "lon": "-111.039001",
+    "hostname": "bozeman"
+  },
+  {
+    "country": "US",
+    "lat": "46.592842",
+    "region": "MT",
+    "name": "helena",
+    "lon": "-112.022095",
+    "hostname": "helena"
+  },
+  {
+    "country": "US",
+    "lat": "47.500198",
+    "region": "MT",
+    "name": "great falls",
+    "lon": "-111.301003",
+    "hostname": "greatfalls"
+  },
+  {
+    "country": "US",
+    "lat": "46.004593",
+    "region": "MT",
+    "name": "butte",
+    "lon": "-112.543945",
+    "hostname": "butte"
+  },
+  {
+    "country": "US",
+    "lat": "48.195801",
+    "region": "MT",
+    "name": "kalispell",
+    "lon": "-114.313004",
+    "hostname": "kalispell"
+  },
+  {
+    "country": "US",
+    "lat": "47.473598",
+    "region": "MN",
+    "name": "bemidji",
+    "lon": "-94.880302",
+    "hostname": "bemidji"
+  },
+  {
+    "country": "US",
+    "lat": "46.354511",
+    "region": "MN",
+    "name": "brainerd",
+    "lon": "-94.196777",
+    "hostname": "brainerd"
+  },
+  {
+    "country": "US",
+    "lat": "44.447201",
+    "region": "MN",
+    "name": "southwest MN",
+    "lon": "-95.787804",
+    "hostname": "marshall"
+  },
+  {
+    "country": "US",
+    "lat": "46.807579",
+    "region": "ND",
+    "name": "bismarck",
+    "lon": "-100.777588",
+    "hostname": "bismarck"
+  },
+  {
+    "country": "US",
+    "lat": "47.925301",
+    "region": "ND",
+    "name": "grand forks",
+    "lon": "-97.032898",
+    "hostname": "grandforks"
+  },
+  {
+    "country": "US",
+    "lat": "41.123901",
+    "region": "NE",
+    "name": "north platte",
+    "lon": "-100.764999",
+    "hostname": "northplatte"
+  },
+  {
+    "country": "US",
+    "lat": "41.866600",
+    "region": "NE",
+    "name": "scottsbluff",
+    "lon": "-103.667000",
+    "hostname": "scottsbluff"
+  },
+  {
+    "country": "US",
+    "lat": "36.162800",
+    "region": "TN",
+    "name": "cookeville",
+    "lon": "-85.501602",
+    "hostname": "cookeville"
+  },
+  {
+    "country": "US",
+    "lat": "39.829632",
+    "region": "IN",
+    "name": "richmond, IN",
+    "lon": "-84.890671",
+    "hostname": "richmondin"
+  },
+  {
+    "country": "US",
+    "lat": "40.486401",
+    "region": "IN",
+    "name": "kokomo",
+    "lon": "-86.133598",
+    "hostname": "kokomo"
+  },
+  {
+    "country": "US",
+    "lat": "37.774200",
+    "region": "KY",
+    "name": "owensboro",
+    "lon": "-87.113297",
+    "hostname": "owensboro"
+  },
+  {
+    "country": "US",
+    "lat": "37.516998",
+    "region": "KY",
+    "name": "eastern KY",
+    "lon": "-82.806000",
+    "hostname": "eastky"
+  },
+  {
+    "country": "US",
+    "lat": "42.224899",
+    "region": "OR",
+    "name": "klamath falls",
+    "lon": "-121.781998",
+    "hostname": "klamath"
+  },
+  {
+    "country": "US",
+    "lat": "58.355629",
+    "region": "AK",
+    "name": "southeast AK",
+    "lon": "-134.571533",
+    "hostname": "juneau"
+  },
+  {
+    "country": "US",
+    "lat": "64.837799",
+    "region": "AK",
+    "name": "fairbanks",
+    "lon": "-147.716003",
+    "hostname": "fairbanks"
+  },
+  {
+    "country": "US",
+    "lat": "60.554401",
+    "region": "AK",
+    "name": "kenai",
+    "lon": "-151.257996",
+    "hostname": "kenai"
+  },
+  {
+    "country": "US",
+    "lat": "43.549999",
+    "region": "SD",
+    "name": "sioux falls",
+    "lon": "-96.700302",
+    "hostname": "siouxfalls"
+  },
+  {
+    "country": "US",
+    "lat": "44.080502",
+    "region": "SD",
+    "name": "rapid city",
+    "lon": "-103.231003",
+    "hostname": "rapidcity"
+  },
+  {
+    "country": "US",
+    "lat": "44.551334",
+    "region": "SD",
+    "name": "central SD",
+    "lon": "-100.579834",
+    "hostname": "csd"
+  },
+  {
+    "country": "US",
+    "lat": "45.336700",
+    "region": "SD",
+    "name": "northeast SD",
+    "lon": "-97.646484",
+    "hostname": "nesd"
+  },
+  {
+    "country": "US",
+    "lat": "44.668652",
+    "region": "NY",
+    "name": "potsdam-massena",
+    "lon": "-74.998169",
+    "hostname": "potsdam"
+  },
+  {
+    "country": "US",
+    "lat": "42.447781",
+    "region": "NY",
+    "name": "oneonta",
+    "lon": "-75.069580",
+    "hostname": "oneonta"
+  },
+  {
+    "country": "US",
+    "lat": "42.516651",
+    "region": "NY",
+    "name": "finger lakes",
+    "lon": "-76.816406",
+    "hostname": "fingerlakes"
+  },
+  {
+    "country": "US",
+    "lat": "43.309502",
+    "region": "NY",
+    "name": "glens falls",
+    "lon": "-73.643997",
+    "hostname": "glensfalls"
+  },
+  {
+    "country": "US",
+    "lat": "37.046410",
+    "region": "KS",
+    "name": "southwest KS",
+    "lon": "-100.931396",
+    "hostname": "swks"
+  },
+  {
+    "country": "US",
+    "lat": "39.095963",
+    "region": "KS",
+    "name": "northwest KS",
+    "lon": "-100.502930",
+    "hostname": "nwks"
+  },
+  {
+    "country": "US",
+    "lat": "37.230328",
+    "region": "KS",
+    "name": "southeast KS",
+    "lon": "-95.718384",
+    "hostname": "seks"
+  },
+  {
+    "country": "US",
+    "lat": "38.825001",
+    "region": "KS",
+    "name": "salina",
+    "lon": "-97.607498",
+    "hostname": "salina"
+  },
+  {
+    "country": "US",
+    "lat": "41.007500",
+    "region": "IA",
+    "name": "southeast IA",
+    "lon": "-92.408798",
+    "hostname": "ottumwa"
+  },
+  {
+    "country": "US",
+    "lat": "43.153599",
+    "region": "IA",
+    "name": "mason city",
+    "lon": "-93.200996",
+    "hostname": "masoncity"
+  },
+  {
+    "country": "US",
+    "lat": "42.497501",
+    "region": "IA",
+    "name": "fort dodge",
+    "lon": "-94.167999",
+    "hostname": "fortdodge"
+  },
+  {
+    "country": "US",
+    "lat": "39.768600",
+    "region": "MO",
+    "name": "st joseph",
+    "lon": "-94.846603",
+    "hostname": "stjoseph"
+  },
+  {
+    "country": "US",
+    "lat": "38.202499",
+    "region": "MO",
+    "name": "lake of ozarks",
+    "lon": "-92.626297",
+    "hostname": "loz"
+  },
+  {
+    "country": "US",
+    "lat": "40.194801",
+    "region": "MO",
+    "name": "kirksville",
+    "lon": "-92.583298",
+    "hostname": "kirksville"
+  },
+  {
+    "country": "US",
+    "lat": "39.935013",
+    "region": "IL",
+    "name": "western IL",
+    "lon": "-91.389771",
+    "hostname": "quincy"
+  },
+  {
+    "country": "US",
+    "lat": "41.337639",
+    "region": "IL",
+    "name": "la salle co",
+    "lon": "-89.082642",
+    "hostname": "lasalle"
+  },
+  {
+    "country": "US",
+    "lat": "39.483101",
+    "region": "IL",
+    "name": "mattoon",
+    "lon": "-88.372803",
+    "hostname": "mattoon"
+  },
+  {
+    "country": "US",
+    "lat": "41.865101",
+    "region": "OH",
+    "name": "ashtabula",
+    "lon": "-80.789803",
+    "hostname": "ashtabula"
+  },
+  {
+    "country": "US",
+    "lat": "39.333099",
+    "region": "OH",
+    "name": "chillicothe",
+    "lon": "-82.982399",
+    "hostname": "chillicothe"
+  },
+  {
+    "country": "US",
+    "lat": "39.940300",
+    "region": "OH",
+    "name": "zanesville",
+    "lon": "-82.013199",
+    "hostname": "zanesville"
+  },
+  {
+    "country": "US",
+    "lat": "40.450100",
+    "region": "OH",
+    "name": "tuscarawas co",
+    "lon": "-81.466499",
+    "hostname": "tuscarawas"
+  },
+  {
+    "country": "US",
+    "lat": "41.875301",
+    "region": "NY",
+    "name": "twin tiers",
+    "lon": "-78.875000",
+    "hostname": "twintiers"
+  },
+  {
+    "country": "US",
+    "lat": "39.933300",
+    "region": "PA",
+    "name": "cumberland val",
+    "lon": "-77.633301",
+    "hostname": "chambersburg"
+  },
+  {
+    "country": "US",
+    "lat": "41.641399",
+    "region": "PA",
+    "name": "meadville",
+    "lon": "-80.151497",
+    "hostname": "meadville"
+  },
+  {
+    "country": "US",
+    "lat": "40.416302",
+    "region": "CA",
+    "name": "susanville",
+    "lon": "-120.653000",
+    "hostname": "susanville"
+  },
+  {
+    "country": "US",
+    "lat": "41.208199",
+    "region": "CA",
+    "name": "siskiyou co",
+    "lon": "-122.272003",
+    "hostname": "siskiyou"
+  },
+  {
+    "country": "US",
+    "lat": "36.327400",
+    "region": "CA",
+    "name": "hanford",
+    "lon": "-119.646004",
+    "hostname": "hanford"
+  },
+  {
+    "country": "US",
+    "lat": "34.963799",
+    "region": "CA",
+    "name": "santa maria",
+    "lon": "-120.433296",
+    "hostname": "santamaria"
+  },
+  {
+    "country": "US",
+    "lat": "39.178299",
+    "region": "VA",
+    "name": "winchester",
+    "lon": "-78.166603",
+    "hostname": "winchester"
+  },
+  {
+    "country": "US",
+    "lat": "36.892803",
+    "region": "VA",
+    "name": "southwest VA",
+    "lon": "-82.084351",
+    "hostname": "swva"
+  },
+  {
+    "country": "US",
+    "lat": "39.232254",
+    "region": "CO",
+    "name": "eastern CO",
+    "lon": "-102.832031",
+    "hostname": "eastco"
+  }
+]
