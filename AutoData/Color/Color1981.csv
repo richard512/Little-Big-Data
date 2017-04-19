@@ -1,0 +1,765 @@
+Year,Make,Type,Model,ColorName,Color,ColorCode,Locale
+1981,Alfa Romeo,GROUP,All Models,China White,AR008,#FFFFF5,En-US
+1981,Alfa Romeo,GROUP,All Models,Chalk White,AR015,#FFFFF5,En-US
+1981,Alfa Romeo,GROUP,All Models,Straw,AR103,#E9E9C9,En-US
+1981,Alfa Romeo,GROUP,All Models,Signal Red,AR514/304,#AE3926,En-US
+1981,Alfa Romeo,GROUP,All Models,Silver Metallic,AR751,#D4D2CE,En-US
+1981,Alfa Romeo,GROUP,All Models,Grigio (Grey) Nube Metallic,AR759,#616A73,En-US
+1981,Alfa Romeo,GROUP,All Models,Chocolate Brown,AR836,#6C513C,En-US
+1981,Alfa Romeo,GROUP,All Models,Black,AR901,#191B1A,En-US
+1981,Audi,GROUP,All Models,Black,L700/L041,#070707,En-US
+1981,Audi,GROUP,All Models,Alpine White,L90E,#FBFBDD,En-US
+1981,Audi,GROUP,All Models,Inari Silver Metallic,L94A,#91AE8A,En-US
+1981,Audi,GROUP,All Models,Diamond Silver Metallic,L97A,#ACB0B4,En-US
+1981,Audi,GROUP,All Models,Colorado Beige,LA1M,#8A631E,En-US
+1981,Audi,GROUP,All Models,Indiana Red Metallic,LA3V,#CF3952,En-US
+1981,Audi,GROUP,All Models,Helios Blue Metallic,LA5Y,#396F91,En-US
+1981,Audi,GROUP,All Models,Onyx Green Metallic,LD6V,#507A58,En-US
+1981,Audi,GROUP,All Models,Havana Brown,LD8A,#402716,En-US
+1981,Audi,GROUP,All Models,Gobi Metallic,LY1V,#DDC59B,En-US
+1981,Audi,GROUP,All Models,Saturn Red Metallic,LY4V,#A87474,En-US
+1981,Audi,GROUP,All Models,Meteor Gray Metallic,LY7Z,#777B89,En-US
+1981,BMW,GROUP,3 Series,Henna Red,52,#CE1012,En-US
+1981,BMW,GROUP,3 Series,New Polaris Metallic,060/900,#B7BCC1,En-US
+1981,BMW,GROUP,3 Series,Black,86,#0D0A10,En-US
+1981,BMW,GROUP,3 Series,Graphite Metallic,87,#60656A,En-US
+1981,BMW,GROUP,3 Series,Biscay Blue,140,#3E4861,En-US
+1981,BMW,GROUP,3 Series,Sepia Brown,142,#574935,En-US
+1981,BMW,GROUP,3 Series,Cashmere Metallic,143,#8E7E5D,En-US
+1981,BMW,GROUP,3 Series,Alpine White,146,#FFF9F1,En-US
+1981,BMW,GROUP,3 Series,Safari Beige,147,#D9BF99,En-US
+1981,BMW,GROUP,3 Series,Sapphire Blue Metallic,149,#98A2AA,En-US
+1981,BMW,GROUP,3 Series,Strato Blue Metallic,150,#A8B8C6,En-US
+1981,BMW,GROUP,3 Series,Ascot Gray Metallic,151,#6C747A,En-US
+1981,BMW,GROUP,3 Series,Cypress Green Metallic,152,#70896D,En-US
+1981,BMW,GROUP,3 Series,Chestnut Red Metallic,155/157,#CD532D,En-US
+1981,BMW,GROUP,3 Series,Original Bumper Cover (Made by SEM),39103,#0D0A10,En-US
+1981,BMW,GROUP,5 Series,Arctic Blue Metallic,45,#463858,En-US
+1981,BMW,GROUP,5 Series,New Polaris Metallic,060/900,#B7BCC1,En-US
+1981,BMW,GROUP,5 Series,Black,86,#0D0A10,En-US
+1981,BMW,GROUP,5 Series,Graphite Metallic,87,#60656A,En-US
+1981,BMW,GROUP,5 Series,Biscay Blue,140,#3E4861,En-US
+1981,BMW,GROUP,5 Series,Sepia Brown,142,#574935,En-US
+1981,BMW,GROUP,5 Series,Cashmere Metallic,143,#8E7E5D,En-US
+1981,BMW,GROUP,5 Series,Alpine White,146,#FFF9F1,En-US
+1981,BMW,GROUP,5 Series,Safari Beige,147,#D9BF99,En-US
+1981,BMW,GROUP,5 Series,Sapphire Blue Metallic,149,#98A2AA,En-US
+1981,BMW,GROUP,5 Series,Ascot Gray Metallic,151,#6C747A,En-US
+1981,BMW,GROUP,5 Series,Cypress Green Metallic,152,#70896D,En-US
+1981,BMW,GROUP,5 Series,Chestnut Red Metallic,155/157,#CD532D,En-US
+1981,BMW,GROUP,5 Series,Original Bumper Cover (Made by SEM),39103,#0D0A10,En-US
+1981,BMW,GROUP,6 Series,Arctic Blue Metallic,45,#463858,En-US
+1981,BMW,GROUP,6 Series,New Polaris Metallic,060/900,#B7BCC1,En-US
+1981,BMW,GROUP,6 Series,Black,86,#0D0A10,En-US
+1981,BMW,GROUP,6 Series,Graphite Metallic,87,#60656A,En-US
+1981,BMW,GROUP,6 Series,Cashmere Metallic,143,#8E7E5D,En-US
+1981,BMW,GROUP,6 Series,Alpine White,146,#FFF9F1,En-US
+1981,BMW,GROUP,6 Series,Safari Beige,147,#D9BF99,En-US
+1981,BMW,GROUP,6 Series,Sapphire Blue Metallic,149,#98A2AA,En-US
+1981,BMW,GROUP,6 Series,Ascot Gray Metallic,151,#6C747A,En-US
+1981,BMW,GROUP,6 Series,Cypress Green Metallic,152,#70896D,En-US
+1981,BMW,GROUP,6 Series,Chestnut Red Metallic,155/157,#CD532D,En-US
+1981,BMW,GROUP,6 Series,Original Bumper Cover (Made by SEM),39103,#0D0A10,En-US
+1981,BMW,GROUP,7 Series,Arctic Blue Metallic,45,#463858,En-US
+1981,BMW,GROUP,7 Series,New Polaris Metallic,060/900,#B7BCC1,En-US
+1981,BMW,GROUP,7 Series,Black,86,#0D0A10,En-US
+1981,BMW,GROUP,7 Series,Graphite Metallic,87,#60656A,En-US
+1981,BMW,GROUP,7 Series,Alpine White,146,#FFF9F1,En-US
+1981,BMW,GROUP,7 Series,Sapphire Blue Metallic,149,#98A2AA,En-US
+1981,BMW,GROUP,7 Series,Ascot Gray Metallic,151,#6C747A,En-US
+1981,BMW,GROUP,7 Series,Cypress Green Metallic,152,#70896D,En-US
+1981,BMW,GROUP,7 Series,Chestnut Red Metallic,155/157,#CD532D,En-US
+1981,BMW,GROUP,7 Series,Original Bumper Cover (Made by SEM),39103,#0D0A10,En-US
+1981,Buick,GROUP,All Other Models,White (Cotillion or Cameo),11 (1981),#FDF6DF,En-US
+1981,Buick,GROUP,All Other Models,Sterling (Stardust) Silver Metallic,16 (1981),#CDD1D5,En-US
+1981,Buick,GROUP,All Other Models,Sable (Starlight) Black,19 (1981),#0A150D,En-US
+1981,Buick,GROUP,All Other Models,Light (Bar Harbor or Steel Baniff) Blue Metallic,21 (1981),#A1B9C3,En-US
+1981,Buick,GROUP,All Other Models,Medium Graphite (Kingston Superior) Blue Metallic,22 (1981),#465F88,En-US
+1981,Buick,GROUP,All Other Models,Dark (Twilight) Blue Metallic,29 (1981),#0A1E52,En-US
+1981,Buick,GROUP,All Other Models,Light Camel Metalllic,34 (1981),#C09136,En-US
+1981,Buick,GROUP,All Other Models,Pastel Waxberry (Yellow),35 (1981),#FAFADE,En-US
+1981,Buick,GROUP,All Other Models,Light Waxberry (Shadow or Sierra Gold) Metallic,36 (1981),#D4CE86,En-US
+1981,Buick,GROUP,All Other Models,Medium Waxberry (Burnished Umber) Metallic,37 (1981),#958F49,En-US
+1981,Buick,GROUP,All Other Models,Light Jadestone Metallic,45 (1981),#A9BBAC,En-US
+1981,Buick,GROUP,All Other Models,Dark Jadestone Metallic,47 (1981),#5B7D60,En-US
+1981,Buick,GROUP,All Other Models,Dark (Pinehurst) Green Juniper,48 (1981),#3C6243,En-US
+1981,Buick,GROUP,All Other Models,Dark Jadestone Metallic,49 (1981),#374F3C,En-US
+1981,Buick,GROUP,All Other Models,Bright (Tahitian) Yellow,51 (1981),#FFFF40,En-US
+1981,Buick,GROUP,All Other Models,(Burnt) Orange Metallic,58 (1981),#AE4F20,En-US
+1981,Buick,GROUP,All Other Models,Frost Beige,59 (1981),#F0EAD4,En-US
+1981,Buick,GROUP,All Other Models,Pastel Sandstone,63 (1981),#AA9376,En-US
+1981,Buick,GROUP,All Other Models,Buckskin Metallic,68,#5D3A1A,En-US
+1981,Buick,GROUP,All Other Models,Dark Sandstone (Briarwood Brown) Metallic,69 (1981),#694F35,En-US
+1981,Buick,GROUP,All Other Models,Light Maple Metallic,72 (1981),#BF1F36,En-US
+1981,Buick,GROUP,All Other Models,Red,75,#8C0B10,En-US
+1981,Buick,GROUP,All Other Models,Dark Maple (Autumn Maroon) Metallic,77 (1981),#88081D,En-US
+1981,Buick,GROUP,All Other Models,Silver Fawn F/M Metallic,83 (1981),#C0C0C0,En-US
+1981,Buick,GROUP,All Other Models,Charcoal Metallic,84 (1981),#434549,En-US
+1981,Buick,GROUP,All Other Models,Medium Slate F/M Metallic,85 (1981),#95A3A9,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,White (Cotillion or Cameo),11 (1981),#FDF6DF,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Sterling (Stardust) Silver Metallic,16 (1981),#CDD1D5,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Sable (Starlight) Black,19 (1981),#0A150D,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Light (Bar Harbor or Steel Baniff) Blue Metallic,21 (1981),#A1B9C3,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Medium Graphite (Kingston Superior) Blue Metallic,22 (1981),#465F88,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Dark (Twilight) Blue Metallic,29 (1981),#0A1E52,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Neptune Aqua Metallic,31 (1981),#3F888B,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Pepper Green Metallic,32 (1981),#74A050,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Pastel Waxberry (Yellow),35 (1981),#FAFADE,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Light Waxberry (Shadow or Sierra Gold) Metallic,36 (1981),#D4CE86,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Medium Waxberry (Burnished Umber) Metallic,37 (1981),#958F49,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Seaspray Green,44 (1981),#A9BBAC,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Burnished Oak Metallic,55 (1981),#795F35,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Sandstone,61 (1981),#C7AD85,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Dark Sandstone (Briarwood Brown) Metallic,69 (1981),#694F35,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Bordeux Red Metallilc,76 (1981),#78302C,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Carmine,78 (1981),#A30F0F,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Norfolk Gray,89 (1981),#B2B6B4,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Azure Blue F/M Metallic,90 (1981),#BCCAD4,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Desert Sand F/M Metallic,91 (1981),#BCA882,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Victoria Plum F/M Metallic,92 (1981),#C0063F,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Sheffield Gray F/M Metallic,94 (1981),#A7B3B9,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Jadestone F/M Metallic,96 (1981),#759D7B,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Doeskin F/M Metallic,97 (1981),#D8B45C,En-US
+1981,Cadillac,GROUP,Other Cadillac Models,Mulberry Gray F/M Metallic,99 (1981),#C6C0C5,En-US
+1981,Chevrolet,GROUP,G Series,White,12/WA5111,#F7FCFB,En-US
+1981,Chevrolet,GROUP,G Series,Black,19/WA5118/WA848,#0A150D,En-US
+1981,Chevrolet,GROUP,G Series,Medium Blue,23/WA7154,#507F84,En-US
+1981,Chevrolet,GROUP,G Series,Woodland Green,46/WA7156,#2B6A1C,En-US
+1981,Chrysler,GROUP,All Other Models,Nightwatch Blue,SC9 (1981),#11354B,En-US
+1981,Chrysler,GROUP,All Other Models,Designer's Cream,SL1 (1981),#F6EBC4,En-US
+1981,Chrysler,GROUP,All Other Models,Designer's Beige,SR5 (1981),#DAC49E,En-US
+1981,Chrysler,GROUP,All Other Models,Light Cashmere,ST1 (1981),#EFD89B,En-US
+1981,Chrysler,GROUP,All Other Models,Linen Cream,SY1 (1981),#FCF6C8,En-US
+1981,Chrysler,GROUP,All Other Models,Burnished Silver Metallic,TA3 (1981),#C4C9CC,En-US
+1981,Chrysler,GROUP,All Other Models,Light Heather Gray,TD2 (1981),#CFBF99,En-US
+1981,Chrysler,GROUP,All Other Models,Baron Red,TM9 (1981),#721A1A,En-US
+1981,Chrysler,GROUP,All Other Models,Graphic (Impact) Red,TR4 (1981),#C00000,En-US
+1981,Chrysler,GROUP,All Other Models,Formal Black,TX9 (1981),#0A1112,En-US
+1981,Chrysler,GROUP,All Other Models,Sterling Silver Metallic,VA1 (1981),#DBD7D1,En-US
+1981,Chrysler,GROUP,All Other Models,Daystar Blue Metallic,VC1 (1981),#C9D5D5,En-US
+1981,Chrysler,GROUP,All Other Models,Daystar Blue Metallic,VC3 (1981),#B3C2C5,En-US
+1981,Chrysler,GROUP,All Other Models,Glacier Blue Metallic,VC4 (1981),#A7C1CB,En-US
+1981,Chrysler,GROUP,All Other Models,Driftwood Gray,VD1 (1981),#E0D3B8,En-US
+1981,Chrysler,GROUP,All Other Models,Heather Mist Metallic,VD4 (1981),#B3A485,En-US
+1981,Chrysler,GROUP,All Other Models,Light Seaspray Green Metallic,VF1 (1981),#B3C0A0,En-US
+1981,Chrysler,GROUP,All Other Models,Light Seaspray Green Metallic,VF2 (1981),#B3C0A0,En-US
+1981,Chrysler,GROUP,All Other Models,Glencoe Green Metallic,VF8 (1981),#186E22,En-US
+1981,Chrysler,GROUP,All Other Models,Light Auburn Metallic,VH1 (1981),#CCBA8E,En-US
+1981,Chrysler,GROUP,All Other Models,Auburn Mist Metallic,VH2 (1981),#CCBA8E,En-US
+1981,Chrysler,GROUP,All Other Models,Mahogany Metallic,VH9 (1981),#453121,En-US
+1981,Chrysler,GROUP,All Other Models,Spice Tan Metallic,VK8 (1981),#71543D,En-US
+1981,Chrysler,GROUP,All Other Models,Morocco Red,VM8 (1981),#78261E,En-US
+1981,Chrysler,GROUP,All Other Models,Manila Cream,VT3 (1981),#FCEABA,En-US
+1981,Chrysler,GROUP,All Other Models,Cashmere Tan,VT5 (1981),#E2C474,En-US
+1981,Chrysler,GROUP,All Other Models,Coffee Brown Metallic,VT9 (1981),#745230,En-US
+1981,Chrysler,GROUP,All Other Models,Pearl White,VW3 (1981),#F6F1CA,En-US
+1981,Ferrari,GROUP,All Models,White,100,#FFFFF1,En-US
+1981,Ferrari,GROUP,All Models,Argento Metallic,101,#E7E5DD,En-US
+1981,Ferrari,GROUP,All Models,Giallo Fly Yellow,102,#FAEB00,En-US
+1981,Ferrari,GROUP,All Models,Nero,1240,#000000,En-US
+1981,Ferrari,GROUP,All Models,Rosso Cherry,136,#BE0C10,En-US
+1981,Ferrari,GROUP,All Models,Bianco,212,#FFFFF1,En-US
+1981,Ferrari,GROUP,All Models,Bianco Beta,222,#FCFCF8,En-US
+1981,Ferrari,GROUP,All Models,Rosso Corsa,300,#FF0000,En-US
+1981,Ferrari,GROUP,All Models,Blue Scuro,449,#32628A,En-US
+1981,Ferrari,GROUP,All Models,Corsa Rossa,5GG5100,#F31515,En-US
+1981,Ferrari,GROUP,All Models,Grigio Metallic,700,#9BAAB5,En-US
+1981,Ferrari,GROUP,All Models,Marrone,W8680K,#985636,En-US
+1981,FIAT,GROUP,All Models,Cherry Red,136,#B04038,En-US
+1981,FIAT,GROUP,All Models,Rallye Red,171,#A03830,En-US
+1981,FIAT,GROUP,All Models,White,212,#FFFFFF,En-US
+1981,FIAT,GROUP,All Models,White,224,#F5FCF4,En-US
+1981,FIAT,GROUP,All Models,Safari Yellow,285,#E3E8B0,En-US
+1981,FIAT,GROUP,All Models,Dark Green,312,#325E52,En-US
+1981,FIAT,GROUP,All Models,Blue Metallic No. 4,400,#33565D,En-US
+1981,FIAT,GROUP,All Models,Azzurite Blue,413,#667A92,En-US
+1981,FIAT,GROUP,All Models,Lord Blue,438,#212E53,En-US
+1981,FIAT,GROUP,All Models,Dark Blue,449,#284650,En-US
+1981,FIAT,GROUP,All Models,Blue Metallic,474,#869AA5,En-US
+1981,FIAT,GROUP,All Models,Champagne Met.,512,#B2B791,En-US
+1981,FIAT,GROUP,All Models,Gold Metallic,589,#BBB795,En-US
+1981,FIAT,GROUP,All Models,Silver Metallic,620,#BAC2C0,En-US
+1981,FIAT,GROUP,All Models,Silver Metallic,678,#B8C0BC,En-US
+1981,FIAT,GROUP,All Models,Brown Metallic,732,#886056,En-US
+1981,FIAT,GROUP,All Models,Brown Sepia,761,#564C42,En-US
+1981,FIAT,GROUP,All Models,Black Metallic,813,#000000,En-US
+1981,FIAT,GROUP,All Models,Morocco Beige,822,#CDCCBD,En-US
+1981,FIAT,GROUP,All Models,Blue Metallic,835,#778E9C,En-US
+1981,FIAT,GROUP,All Models,Brown Metallic,856,#9B6356,En-US
+1981,FIAT,GROUP,All Models,Slate Blue Met,892,#26484E,En-US
+1981,FIAT,GROUP,All Models,Smoke Gray Metallic,899,#8E948C,En-US
+1981,FIAT,GROUP,All Models,Orange Metallic,902,#9D5C2D,En-US
+1981,FIAT,GROUP,All Models,Gray Metallic,903,#A5ABA6,En-US
+1981,Ford,GROUP,All Other Models,Light Pewter Metallic,11 (1981),#A3ABA1,En-US
+1981,Ford,GROUP,All Other Models,Medium Pewter Metallic,17 (1981),#8C918B,En-US
+1981,Ford,GROUP,All Other Models,Black,1C (1981),#250E09,En-US
+1981,Ford,GROUP,All Other Models,Silver Metallic,1G (1981),#A4A5A8,En-US
+1981,Ford,GROUP,All Other Models,Medium Gray Metallic,1P (1981),#8F9091,En-US
+1981,Ford,GROUP,All Other Models,Light Pewter Metallic,1T (1981),#A3ABA1,En-US
+1981,Ford,GROUP,All Other Models,Medium Red,24 (1981),#652727,En-US
+1981,Ford,GROUP,All Other Models,Bright Red,27 (1981),#BD3333,En-US
+1981,Ford,GROUP,All Other Models,Bright Bittersweet,2G (1981),#EE4916,En-US
+1981,Ford,GROUP,All Other Models,Medium Red Metallic,2H (1981),#A92B2B,En-US
+1981,Ford,GROUP,All Other Models,Candyapple Red,2K (1981),#C00000,En-US
+1981,Ford,GROUP,All Other Models,Dark Blue Metallic,3D (1981),#1B466B,En-US
+1981,Ford,GROUP,All Other Models,Light Medium Blue,3F (1981),#A6BCC2,En-US
+1981,Ford,GROUP,All Other Models,Medium Blue Metallic,3H (1981),#98A3AA,En-US
+1981,Ford,GROUP,All Other Models,Dark Blue Metallic,3L (1981),#1C274E,En-US
+1981,Ford,GROUP,All Other Models,Bright Blue Metallic,3M (1981),#76A7AA,En-US
+1981,Ford,GROUP,All Other Models,Pastel Pine Metallic,4E (1981),#90B78B,En-US
+1981,Ford,GROUP,All Other Models,Medium Dark Spruce Metallic,4J (1981),#40693B,En-US
+1981,Ford,GROUP,All Other Models,Medium Fawn Metallic,55 (1981),#9B764B,En-US
+1981,Ford,GROUP,All Other Models,Light Fawn Metallic,5H (1981),#BFB589,En-US
+1981,Ford,GROUP,All Other Models,Medium Dark Brown Metallic,5Q (1981),#664A2A,En-US
+1981,Ford,GROUP,All Other Models,Medium Yellow,61 (1981),#E8BC34,En-US
+1981,Ford,GROUP,All Other Models,Antique Cream,62 (1981),#F5E5B3,En-US
+1981,Ford,GROUP,All Other Models,Sand Metallic,6B (1981),#B1B395,En-US
+1981,Ford,GROUP,All Other Models,Bright Yellow,6N (1981),#E4E246,En-US
+1981,Ford,GROUP,All Other Models,Tan,6U (1981),#D5BE77,En-US
+1981,Ford,GROUP,All Other Models,Light Spruce Metallic,7B (1981),#A2BD9D,En-US
+1981,Ford,GROUP,All Other Models,Bright Lime Green Metallic,7C (1981),#69A343,En-US
+1981,Ford,GROUP,All Other Models,Dark Pine Metallic,7M (1981),#3A5925,En-US
+1981,Ford,GROUP,All Other Models,Pastel Chamois,86 (1981),#F7DCB1,En-US
+1981,Ford,GROUP,All Other Models,Fawn,89 (1981),#CFBE95,En-US
+1981,Ford,GROUP,All Other Models,Medium (Bright) Bittersweet Metallic,8D (1981),#A84C3A,En-US
+1981,Ford,GROUP,All Other Models,Dark Cordovan Metallic,8N (1981),#824C34,En-US
+1981,Ford,GROUP,All Other Models,White,9D (1981),#FBFAD3,En-US
+1981,Ford,GROUP,Econoline,Black,1C (1981),#250E09,En-US
+1981,Ford,GROUP,Econoline,Silver Metallic,1G (1981),#A4A5A8,En-US
+1981,Ford,GROUP,Econoline,Candyapple Red,2K (1981),#C00000,En-US
+1981,Ford,GROUP,Econoline,Maroon,2L (1981),#800000,En-US
+1981,Ford,GROUP,Econoline,Wedgewood Blue,34 (1981),#88A8B6,En-US
+1981,Ford,GROUP,Econoline,Dark Blue Metallic,3D (1981),#1B466B,En-US
+1981,Ford,GROUP,Econoline,Medium Blue Metallic,3H (1981),#98A3AA,En-US
+1981,Ford,GROUP,Econoline,Medium Dark Spruce Metallic,4J (1981),#40693B,En-US
+1981,Ford,GROUP,Econoline,Medium Fawn Metallic,55 (1981),#9B764B,En-US
+1981,Ford,GROUP,Econoline,Dark Caramel Metallic,5G (1981),#C4923C,En-US
+1981,Ford,GROUP,Econoline,Light Fawn Metallic,5H (1981),#BFB589,En-US
+1981,Ford,GROUP,Econoline,Dark Brown Metallic,5V (1981),#4C3922,En-US
+1981,Ford,GROUP,Econoline,Antique Cream,62 (1981),#F5E5B3,En-US
+1981,Ford,GROUP,Econoline,Dark Chamois Metallic,8A (1981),#80693C,En-US
+1981,Ford,GROUP,Econoline,White,9A (1981),#FDF3D5,En-US
+1981,Honda,GROUP,Accord,Amal Blue Metallic,B-20M,#6B9CB5,En-US
+1981,Honda,GROUP,Accord,Pyrennies Blue,B-24,#86B8C6,En-US
+1981,Honda,GROUP,Accord,Hampstead Green Metallic,BG-11M,#7DB79F,En-US
+1981,Honda,GROUP,Accord,Glacier Gray Metallic,NH-77M,#939B8F,En-US
+1981,Honda,GROUP,Accord,Tudor Red Metallic,R38M,#C64C4C,En-US
+1981,Honda,GROUP,Accord,Osio Ivory,YR-43,#D6D5A2,En-US
+1981,Jeep,GROUP,All Models,Montana Blue,1A,#607790,En-US
+1981,Jeep,GROUP,All Models,Moonlight Blue,1B,#0E2B5C,En-US
+1981,Jeep,GROUP,All Models,Sherwood Green Metallic,1C,#3D582E,En-US
+1981,Jeep,GROUP,All Models,Autumn Gold,1D,#C1B46F,En-US
+1981,Jeep,GROUP,All Models,Copper Brown Metallic,1E,#D97F43,En-US
+1981,Jeep,GROUP,All Models,Chestnut Brown Metallic,1H,#85593B,En-US
+1981,Jeep,GROUP,All Models,Vintage Red Metallic,1J,#AF221F,En-US
+1981,Jeep,GROUP,All Models,Deep Maroon Metallic,1K,#801E1E,En-US
+1981,Jeep,GROUP,All Models,Steel Gray Metallic,1L,#808080,En-US
+1981,Jeep,GROUP,All Models,Oriental Red,1M,#AB1B1B,En-US
+1981,Jeep,GROUP,All Models,Olympic White,9B,#F8F8F2,En-US
+1981,Jeep,GROUP,All Models,Cameo Tan,OK,#C6AB6A,En-US
+1981,Jeep,GROUP,All Models,Dark Brown Metallic,OM,#564236,En-US
+1981,Jeep,GROUP,All Models,Classic Black,P1,#000000,En-US
+1981,Lincoln,GROUP,All Models,Silver Metallic,15 (1981),#E1E2E9,En-US
+1981,Lincoln,GROUP,All Models,Black,1C (1981),#250E09,En-US
+1981,Lincoln,GROUP,All Models,Light Pewter Metallic,1J (1981),#A3ABA1,En-US
+1981,Lincoln,GROUP,All Models,Medium Pewter Metallic,1K (1981),#8C918B,En-US
+1981,Lincoln,GROUP,All Models,Dark Pewter Metallic,1L (1981),#565856,En-US
+1981,Lincoln,GROUP,All Models,Dark Red Metallic,23 (1981),#722C2C,En-US
+1981,Lincoln,GROUP,All Models,Medium Red,24 (1981),#652727,En-US
+1981,Lincoln,GROUP,All Models,Medium Blue Metallic,3H (1981),#98A3AA,En-US
+1981,Lincoln,GROUP,All Models,Dark Blue Metallic,3Q (1981),#1D2E4D,En-US
+1981,Lincoln,GROUP,All Models,Light Blue Metallic,3Y (1981),#779AA5,En-US
+1981,Lincoln,GROUP,All Models,Dark Lime Poly,4F (1981),#5D6D3C,En-US
+1981,Lincoln,GROUP,All Models,Pine Opal Metallic,4G (1981),#A3C69E,En-US
+1981,Lincoln,GROUP,All Models,Dark Champagne Metallic,54 (1981),#634623,En-US
+1981,Lincoln,GROUP,All Models,Medium Fawn Metallic,56 (1981),#9F8657,En-US
+1981,Lincoln,GROUP,All Models,Light Fawn Metallic,57 (1981),#B3A58B,En-US
+1981,Lincoln,GROUP,All Models,Medium Nutmeg Metallic,5J (1981),#C17C2B,En-US
+1981,Lincoln,GROUP,All Models,Light Gold Metallic,6J (1981),#D0C98A,En-US
+1981,Lincoln,GROUP,All Models,Cream,6R (1981),#F6ECB6,En-US
+1981,Lincoln,GROUP,All Models,Fawn,89 (1981),#CFBE95,En-US
+1981,Lincoln,GROUP,All Models,Dark Bittersweet Metallic,8E (1981),#853F31,En-US
+1981,Lincoln,GROUP,All Models,Medium Dark Nutmeg Metallic,8L (1981),#926346,En-US
+1981,Lincoln,GROUP,All Models,White,9D (1981),#FBFAD3,En-US
+1981,Mercedes-Benz,GROUP,All Models,Black,40,#121D12,En-US
+1981,Mercedes-Benz,GROUP,All Models,Anthracite Grey Metallic,172,#565656,En-US
+1981,Mercedes-Benz,GROUP,All Models,Champagne Metallic,473,#BDAB81,En-US
+1981,Mercedes-Benz,GROUP,All Models,Golden Brown,476,#7A5524,En-US
+1981,Mercedes-Benz,GROUP,All Models,Manganese Brown Metallic,480,#6D4F29,En-US
+1981,Mercedes-Benz,GROUP,All Models,Maroon,501,#622312,En-US
+1981,Mercedes-Benz,GROUP,All Models,English Red,504,#CC5038,En-US
+1981,Mercedes-Benz,GROUP,All Models,Signal (Fire Engine) Red,568,#AA0404,En-US
+1981,Mercedes-Benz,GROUP,All Models,Light Ivory,623,#FDF2BD,En-US
+1981,Mercedes-Benz,GROUP,All Models,Sahara Yellow,673,#BFA14F,En-US
+1981,Mercedes-Benz,GROUP,All Models,Sun Yellow,680,#DAD812,En-US
+1981,Mercedes-Benz,GROUP,All Models,Manila Beige,681,#D4AB48,En-US
+1981,Mercedes-Benz,GROUP,All Models,Pastel Beige,684,#BEA57A,En-US
+1981,Mercedes-Benz,GROUP,All Models,Astro Silver Metallic,735,#9BA2A5,En-US
+1981,Mercedes-Benz,GROUP,All Models,Classic White,737,#FFF6E7,En-US
+1981,Mercedes-Benz,GROUP,All Models,Pastel Gray,740,#B7B3A3,En-US
+1981,Mercedes-Benz,GROUP,All Models,Mango Green,875,#314A2E,En-US
+1981,Mercedes-Benz,GROUP,All Models,Cypress Green Metallic,876,#9AC096,En-US
+1981,Mercedes-Benz,GROUP,All Models,Petrol Blue Green Metallic,877,#96C0B5,En-US
+1981,Mercedes-Benz,GROUP,All Models,Cactus Green,880,#5E7A5F,En-US
+1981,Mercedes-Benz,GROUP,All Models,Thistle Green Metallic,881,#BCD4BD,En-US
+1981,Mercedes-Benz,GROUP,All Models,Dark Blue,904,#041248,En-US
+1981,Mercedes-Benz,GROUP,All Models,Silver Blue Metallic,930,#A4A9B2,En-US
+1981,Mercedes-Benz,GROUP,All Models,Lapis Blue Metallic,932,#3C6884,En-US
+1981,Mercedes-Benz,GROUP,All Models,China Blue,934,#557583,En-US
+1981,Mercedes-Benz,GROUP,All Models,Marine Blue,940,#204862,En-US
+1981,Mercedes-Benz,GROUP,All Models,Silver Metallic (Wheel),G8081,#A5AFB5,En-US
+1981,Mercury,GROUP,All Models,Light Pewter Metallic,11 (1981),#A3ABA1,En-US
+1981,Mercury,GROUP,All Models,Light Dove Gray,12 (1981),#ABA9A1,En-US
+1981,Mercury,GROUP,All Models,Medium Pewter Metallic,17 (1981),#8C918B,En-US
+1981,Mercury,GROUP,All Models,Black,1C (1981),#250E09,En-US
+1981,Mercury,GROUP,All Models,Silver Metallic,1G (1981),#A4A5A8,En-US
+1981,Mercury,GROUP,All Models,Medium Gray Metallic,1P (1981),#8F9091,En-US
+1981,Mercury,GROUP,All Models,Light Pewter Metallic,1T (1981),#A3ABA1,En-US
+1981,Mercury,GROUP,All Models,Medium Red,24 (1981),#652727,En-US
+1981,Mercury,GROUP,All Models,Bright Red,27 (1981),#BD3333,En-US
+1981,Mercury,GROUP,All Models,Bright Bittersweet,2G (1981),#EE4916,En-US
+1981,Mercury,GROUP,All Models,Medium Red Metallic,2H (1981),#A92B2B,En-US
+1981,Mercury,GROUP,All Models,Candyapple Red,2K (1981),#C00000,En-US
+1981,Mercury,GROUP,All Models,Maroon Metallic,2Q (1981),#800000,En-US
+1981,Mercury,GROUP,All Models,Dark Blue Metallic,3D (1981),#1B466B,En-US
+1981,Mercury,GROUP,All Models,Light Medium Blue,3F (1981),#A6BCC2,En-US
+1981,Mercury,GROUP,All Models,Medium Blue Metallic,3H (1981),#98A3AA,En-US
+1981,Mercury,GROUP,All Models,Dark Blue Metallic,3L (1981),#1C274E,En-US
+1981,Mercury,GROUP,All Models,Bright Blue Metallic,3M (1981),#76A7AA,En-US
+1981,Mercury,GROUP,All Models,Dark Blue Metallic,3Q (1981),#1D2E4D,En-US
+1981,Mercury,GROUP,All Models,Pastel Pine Metallic,4E (1981),#90B78B,En-US
+1981,Mercury,GROUP,All Models,Medium Dark Spruce Metallic,4J (1981),#40693B,En-US
+1981,Mercury,GROUP,All Models,Medium Fawn Metallic,55 (1981),#9B764B,En-US
+1981,Mercury,GROUP,All Models,Light Fawn Metallic,5H (1981),#BFB589,En-US
+1981,Mercury,GROUP,All Models,Medium Dark Brown Metallic,5Q (1981),#664A2A,En-US
+1981,Mercury,GROUP,All Models,Dark Brown Metallic,5V (1981),#4C3922,En-US
+1981,Mercury,GROUP,All Models,Medium Yellow,61 (1981),#E8BC34,En-US
+1981,Mercury,GROUP,All Models,Antique Cream,62 (1981),#F5E5B3,En-US
+1981,Mercury,GROUP,All Models,Sand Metallic,6B (1981),#B1B395,En-US
+1981,Mercury,GROUP,All Models,Bright Yellow,6N (1981),#E4E246,En-US
+1981,Mercury,GROUP,All Models,Tan,6U (1981),#D5BE77,En-US
+1981,Mercury,GROUP,All Models,Light Spruce Metallic,7B (1981),#A2BD9D,En-US
+1981,Mercury,GROUP,All Models,Bright Lime Green Metallic,7C (1981),#69A343,En-US
+1981,Mercury,GROUP,All Models,Dark Pine Metallic,7M (1981),#3A5925,En-US
+1981,Mercury,GROUP,All Models,Pastel Chamois,86 (1981),#F7DCB1,En-US
+1981,Mercury,GROUP,All Models,Fawn,89 (1981),#CFBE95,En-US
+1981,Mercury,GROUP,All Models,Medium (Bright) Bittersweet Metallic,8D (1981),#A84C3A,En-US
+1981,Mercury,GROUP,All Models,Dark Cordovan Metallic,8N (1981),#824C34,En-US
+1981,Mercury,GROUP,All Models,White,9D (1981),#FBFAD3,En-US
+1981,Oldsmobile,GROUP,All Models,Gray Metallic,08 (1981),#676767,En-US
+1981,Oldsmobile,GROUP,All Models,White (Cotillion or Cameo),11 (1981),#FDF6DF,En-US
+1981,Oldsmobile,GROUP,All Models,Sterling (Stardust) Silver Metallic,16 (1981),#CDD1D5,En-US
+1981,Oldsmobile,GROUP,All Models,Sable (Starlight) Black,19 (1981),#0A150D,En-US
+1981,Oldsmobile,GROUP,All Models,Light (Bar Harbor or Steel Baniff) Blue Metallic,21 (1981),#A1B9C3,En-US
+1981,Oldsmobile,GROUP,All Models,Medium Graphite (Kingston Superior) Blue Metallic,22 (1981),#465F88,En-US
+1981,Oldsmobile,GROUP,All Models,Dark (Twilight) Blue Metallic,29 (1981),#0A1E52,En-US
+1981,Oldsmobile,GROUP,All Models,Light Camel Metalllic,34 (1981),#C09136,En-US
+1981,Oldsmobile,GROUP,All Models,Pastel Waxberry (Yellow),35 (1981),#FAFADE,En-US
+1981,Oldsmobile,GROUP,All Models,Light Waxberry (Shadow or Sierra Gold) Metallic,36 (1981),#D4CE86,En-US
+1981,Oldsmobile,GROUP,All Models,Medium Waxberry (Burnished Umber) Metallic,37 (1981),#958F49,En-US
+1981,Oldsmobile,GROUP,All Models,Light Jadestone Metallic,45 (1981),#A9BBAC,En-US
+1981,Oldsmobile,GROUP,All Models,Dark Jadestone Metallic,47 (1981),#5B7D60,En-US
+1981,Oldsmobile,GROUP,All Models,Dark (Pinehurst) Green Juniper,48 (1981),#3C6243,En-US
+1981,Oldsmobile,GROUP,All Models,Dark Jadestone Metallic,49 (1981),#374F3C,En-US
+1981,Oldsmobile,GROUP,All Models,Bright (Tahitian) Yellow,51 (1981),#FFFF40,En-US
+1981,Oldsmobile,GROUP,All Models,(Burnt) Orange Metallic,58 (1981),#AE4F20,En-US
+1981,Oldsmobile,GROUP,All Models,Frost Beige,59 (1981),#F0EAD4,En-US
+1981,Oldsmobile,GROUP,All Models,Pastel Sandstone,63 (1981),#AA9376,En-US
+1981,Oldsmobile,GROUP,All Models,Buckskin Metallic,68,#5D3A1A,En-US
+1981,Oldsmobile,GROUP,All Models,Dark Sandstone (Briarwood Brown) Metallic,69 (1981),#694F35,En-US
+1981,Oldsmobile,GROUP,All Models,Light Maple Metallic,72 (1981),#BF1F36,En-US
+1981,Oldsmobile,GROUP,All Models,Red,75,#8C0B10,En-US
+1981,Oldsmobile,GROUP,All Models,Dark Maple (Autumn Maroon) Metallic,77 (1981),#88081D,En-US
+1981,Oldsmobile,GROUP,All Models,Silver Fawn F/M Metallic,83 (1981),#C0C0C0,En-US
+1981,Oldsmobile,GROUP,All Models,Charcoal Metallic,84 (1981),#434549,En-US
+1981,Oldsmobile,GROUP,All Models,Medium Slate F/M Metallic,85 (1981),#95A3A9,En-US
+1981,Pontiac,GROUP,All Models,White (Cotillion or Cameo),11 (1981),#FDF6DF,En-US
+1981,Pontiac,GROUP,All Models,Sterling (Stardust) Silver Metallic,16 (1981),#CDD1D5,En-US
+1981,Pontiac,GROUP,All Models,Sable (Starlight) Black,19 (1981),#0A150D,En-US
+1981,Pontiac,GROUP,All Models,Bright (Vibrant) Blue Metallic,20 (1981),#0E2B96,En-US
+1981,Pontiac,GROUP,All Models,Light (Bar Harbor or Steel Baniff) Blue Metallic,21 (1981),#A1B9C3,En-US
+1981,Pontiac,GROUP,All Models,Medium Graphite (Kingston Superior) Blue Metallic,22 (1981),#465F88,En-US
+1981,Pontiac,GROUP,All Models,Dark (Twilight) Blue Metallic,29 (1981),#0A1E52,En-US
+1981,Pontiac,GROUP,All Models,Pastel Waxberry (Yellow),35 (1981),#FAFADE,En-US
+1981,Pontiac,GROUP,All Models,Light Waxberry (Shadow or Sierra Gold) Metallic,36 (1981),#D4CE86,En-US
+1981,Pontiac,GROUP,All Models,Medium Waxberry (Burnished Umber) Metallic,37 (1981),#958F49,En-US
+1981,Pontiac,GROUP,All Models,Yellow Bird,40 (1981),#F5E983,En-US
+1981,Pontiac,GROUP,All Models,Yellow Accent,41 (1981),#EBD731,En-US
+1981,Pontiac,GROUP,All Models,Light Jadestone Metallic,45 (1981),#A9BBAC,En-US
+1981,Pontiac,GROUP,All Models,Dark Jadestone Metallic,47 (1981),#5B7D60,En-US
+1981,Pontiac,GROUP,All Models,Dark (Pinehurst) Green Juniper,48 (1981),#3C6243,En-US
+1981,Pontiac,GROUP,All Models,Bright (Tahitian) Yellow,51 (1981),#FFFF40,En-US
+1981,Pontiac,GROUP,All Models,(Dorado) Gold Metallic,54 (1981),#AE8742,En-US
+1981,Pontiac,GROUP,All Models,Yellow,56 (1981),#FCA01C,En-US
+1981,Pontiac,GROUP,All Models,Citrus (Navajo) Orange Metallic,57 (1981),#D35D23,En-US
+1981,Pontiac,GROUP,All Models,(Burnt) Orange Metallic,58 (1981),#AE4F20,En-US
+1981,Pontiac,GROUP,All Models,Pastel Sandstone,63 (1981),#AA9376,En-US
+1981,Pontiac,GROUP,All Models,Dark (Barclay) Brown Metallic,67 (1981),#4E3A26,En-US
+1981,Pontiac,GROUP,All Models,Buckskin Metallic,68,#5D3A1A,En-US
+1981,Pontiac,GROUP,All Models,Dark Sandstone (Briarwood Brown) Metallic,69 (1981),#694F35,En-US
+1981,Pontiac,GROUP,All Models,Light Maple Metallic,72 (1981),#BF1F36,En-US
+1981,Pontiac,GROUP,All Models,Red,75,#8C0B10,En-US
+1981,Pontiac,GROUP,All Models,Dark Maple (Autumn Maroon) Metallic,77 (1981),#88081D,En-US
+1981,Pontiac,GROUP,All Models,Charcoal Metallic,84 (1981),#434549,En-US
+1981,Pontiac,GROUP,All Models,Red,9 (1981),#D90909,En-US
+1981,Rolls-Royce,GROUP,All Models,Porcelain White,95.00.439,#FFFFFF,En-US
+1981,Rolls-Royce,GROUP,All Models,Scot's Pine Metallic,95.00.640,#976F5F,En-US
+1981,Rolls-Royce,GROUP,All Models,Nutmeg Brown Metallic,95.10.155,#987640,En-US
+1981,Rolls-Royce,GROUP,All Models,Silver Sand Metallic,95.10.179,#CBC7B5,En-US
+1981,Rolls-Royce,GROUP,All Models,Willow Gold Metallic,95.10.180,#B98F59,En-US
+1981,Rolls-Royce,GROUP,All Models,Red Metallic,95.10.192,#C00000,En-US
+1981,Rolls-Royce,GROUP,All Models,Le Mans Blue Metallic,95.10.211,#0000C0,En-US
+1981,Rolls-Royce,GROUP,All Models,Ivory,95.10.228,#FEFEE4,En-US
+1981,Rolls-Royce,GROUP,All Models,Peacock Blue Metallic,95.10.234,#8080FF,En-US
+1981,Rolls-Royce,GROUP,All Models,Acrylic White,95.10.235,#FFFFFF,En-US
+1981,Rolls-Royce,GROUP,All Models,Walnut Metallic,95.10.261,#575039,En-US
+1981,Rolls-Royce,GROUP,All Models,Chestnut Metallic,95.10.315,#63541F,En-US
+1981,Rolls-Royce,GROUP,All Models,Oxford Blue,95.10.392,#000080,En-US
+1981,Rolls-Royce,GROUP,All Models,Brewster Green,95.10.393,#234723,En-US
+1981,Rolls-Royce,GROUP,All Models,Garnett Metallic,95.10.394,#50243F,En-US
+1981,Rolls-Royce,GROUP,All Models,Claret,95.10.408,#972F2F,En-US
+1981,Rolls-Royce,GROUP,All Models,Ice Green Metallic,95.10.430,#5DB576,En-US
+1981,Rolls-Royce,GROUP,All Models,Cotswold Beige Metallic,95.10.431,#C0AE82,En-US
+1981,Rolls-Royce,GROUP,All Models,Georgian Silver Metallic,95.10.437,#C0C0C0,En-US
+1981,Rolls-Royce,GROUP,All Models,Deep Ocean Metallic,95.10.441,#1E2F60,En-US
+1981,Rolls-Royce,GROUP,All Models,Silver Sand Metallic,95.10.451,#C0C0C0,En-US
+1981,Rolls-Royce,GROUP,All Models,Willow Gold Metallic,95.10.452,#A38557,En-US
+1981,Rolls-Royce,GROUP,All Models,Tudor Red,95.10.453,#C00000,En-US
+1981,Rolls-Royce,GROUP,All Models,Chrome Yellow,95.10.454,#FFFF00,En-US
+1981,Rolls-Royce,GROUP,All Models,Cobalth Blue Metallic,95.10.459,#21254D,En-US
+1981,Rolls-Royce,GROUP,All Models,Colledge Blue Metallic,95.10.487,#222A64,En-US
+1981,Rolls-Royce,GROUP,All Models,Cardinal Red Metallic,95.10.494,#81443F,En-US
+1981,Rolls-Royce,GROUP,All Models,Ivory,95.20.092,#FDF9E5,En-US
+1981,Rolls-Royce,GROUP,All Models,Brewster Green,95.20.109,#277925,En-US
+1981,Rolls-Royce,GROUP,All Models,Tudor Red,95.20.110,#D01628,En-US
+1981,Rolls-Royce,GROUP,All Models,Acrylic White,95.20.128,#F9FAFB,En-US
+1981,Saab,GROUP,All Models,Carmine Red Metallic,124B,#932C1B,En-US
+1981,Saab,GROUP,All Models,Ruby Red Metallic,125H,#8D4141,En-US
+1981,Saab,GROUP,All Models,Terra Cotta,126G,#3D6B41,En-US
+1981,Saab,GROUP,All Models,Indigo Blue Metallic,130G,#1B2A45,En-US
+1981,Saab,GROUP,All Models,Midnight Blue,136H,#283346,En-US
+1981,Saab,GROUP,All Models,Indigo Blue Metallic,139B,#1B2A45,En-US
+1981,Saab,GROUP,All Models,Pine Green Metallic,140B,#1C623F,En-US
+1981,Saab,GROUP,All Models,Acacia Green Metallic,148B,#3B935C,En-US
+1981,Saab,GROUP,All Models,Pine Green Metallic,149B,#1C623F,En-US
+1981,Saab,GROUP,All Models,Cirrus White,153B,#E5EAD9,En-US
+1981,Saab,GROUP,All Models,Cameo Beige,161B,#D3CBB7,En-US
+1981,Saab,GROUP,All Models,Walnut Brown Metallic,169G,#6A573A,En-US
+1981,Saab,GROUP,All Models,Silver Metallic,172B,#CED6DE,En-US
+1981,Saab,GROUP,All Models,Alabaster Yellow,187B,#E9D563,En-US
+1981,Saab,GROUP,All Models,Black,BK01/170B,#000000,En-US
+1981,Saab,GROUP,All Models,Dorado Brown,BK02/165B,#674A33,En-US
+1981,Saab,GROUP,All Models,Anthracite (Charcoal) Gray Metallic,SK02/111B,#575A5F,En-US
+1981,Subaru,GROUP,All Models,Fine Silver Metallic,15,#C8CCD0,En-US
+1981,Subaru,GROUP,All Models,Mild Yellow,36,#E5EF79,En-US
+1981,Subaru,GROUP,All Models,Cotton White,63,#FDF2D5,En-US
+1981,Subaru,GROUP,All Models,Deep Blue,67,#030797,En-US
+1981,Subaru,GROUP,All Models,Carmine Red,68,#C00000,En-US
+1981,Subaru,GROUP,All Models,Sahara Beige Metallic,69,#898963,En-US
+1981,Subaru,GROUP,All Models,Spark Blue Metallic,70,#17B3C1,En-US
+1981,Subaru,GROUP,All Models,Walnut Brown Metallic,72,#800000,En-US
+1981,Subaru,GROUP,All Models,Extra Black,74,#12180F,En-US
+1981,AMC,DETAIL,Concord,Autumn Gold,1D,#C1B46F,En-US
+1981,AMC,DETAIL,Concord,Cameo Tan,OK,#C6AB6A,En-US
+1981,AMC,DETAIL,Concord,Classic Black,P1,#000000,En-US
+1981,AMC,DETAIL,Concord,Copper Brown Metallic,1E,#D97F43,En-US
+1981,AMC,DETAIL,Concord,Dark Brown Metallic,OM,#564236,En-US
+1981,AMC,DETAIL,Concord,Deep Maroon Metallic,1K,#801E1E,En-US
+1981,AMC,DETAIL,Concord,Medium Blue Metallic,OD,#637D97,En-US
+1981,AMC,DETAIL,Concord,Medium Brown Metallic,OL,#8C633A,En-US
+1981,AMC,DETAIL,Concord,Moonlight Blue,1B,#0E2B5C,En-US
+1981,AMC,DETAIL,Concord,Olympic White,9B,#F8F8F2,En-US
+1981,AMC,DETAIL,Concord,Oriental Red,1M,#AB1B1B,En-US
+1981,AMC,DETAIL,Concord,Quicksilver Metallic,8C,#C0C0C0,En-US
+1981,AMC,DETAIL,Concord,Sherwood Green Metallic,1C,#3D582E,En-US
+1981,AMC,DETAIL,Concord,Steel Gray Metallic,1L,#808080,En-US
+1981,AMC,DETAIL,Concord,Vintage Red Metallic,1J,#AF221F,En-US
+1981,AMC,DETAIL,Eagle,Autumn Gold,1D,#C1B46F,En-US
+1981,AMC,DETAIL,Eagle,Cameo Tan,OK,#C6AB6A,En-US
+1981,AMC,DETAIL,Eagle,Classic Black,P1,#000000,En-US
+1981,AMC,DETAIL,Eagle,Copper Brown Metallic,1E,#D97F43,En-US
+1981,AMC,DETAIL,Eagle,Dark Brown Metallic,OM,#564236,En-US
+1981,AMC,DETAIL,Eagle,Deep Maroon Metallic,1K,#801E1E,En-US
+1981,AMC,DETAIL,Eagle,Medium Blue Metallic,OD,#637D97,En-US
+1981,AMC,DETAIL,Eagle,Medium Brown Metallic,OL,#8C633A,En-US
+1981,AMC,DETAIL,Eagle,Moonlight Blue,1B,#0E2B5C,En-US
+1981,AMC,DETAIL,Eagle,Olympic White,9B,#F8F8F2,En-US
+1981,AMC,DETAIL,Eagle,Oriental Red,1M,#AB1B1B,En-US
+1981,AMC,DETAIL,Eagle,Quicksilver Metallic,8C,#C0C0C0,En-US
+1981,AMC,DETAIL,Eagle,Sherwood Green Metallic,1C,#3D582E,En-US
+1981,AMC,DETAIL,Eagle,Steel Gray Metallic,1L,#808080,En-US
+1981,AMC,DETAIL,Eagle,Vintage Red Metallic,1J,#AF221F,En-US
+1981,AMC,DETAIL,Spirit,Autumn Gold,1D,#C1B46F,En-US
+1981,AMC,DETAIL,Spirit,Cameo Tan,OK,#C6AB6A,En-US
+1981,AMC,DETAIL,Spirit,Classic Black,P1,#000000,En-US
+1981,AMC,DETAIL,Spirit,Copper Brown Metallic,1E,#D97F43,En-US
+1981,AMC,DETAIL,Spirit,Dark Brown Metallic,OM,#564236,En-US
+1981,AMC,DETAIL,Spirit,Deep Maroon Metallic,1K,#801E1E,En-US
+1981,AMC,DETAIL,Spirit,Medium Blue Metallic,OD,#637D97,En-US
+1981,AMC,DETAIL,Spirit,Medium Brown Metallic,OL,#8C633A,En-US
+1981,AMC,DETAIL,Spirit,Moonlight Blue,1B,#0E2B5C,En-US
+1981,AMC,DETAIL,Spirit,Olympic White,9B,#F8F8F2,En-US
+1981,AMC,DETAIL,Spirit,Oriental Red,1M,#AB1B1B,En-US
+1981,AMC,DETAIL,Spirit,Quicksilver Metallic,8C,#C0C0C0,En-US
+1981,AMC,DETAIL,Spirit,Sherwood Green Metallic,1C,#3D582E,En-US
+1981,AMC,DETAIL,Spirit,Steel Gray Metallic,1L,#808080,En-US
+1981,AMC,DETAIL,Spirit,Vintage Red Metallic,1J,#AF221F,En-US
+1981,Chevrolet,DETAIL,Blazer,Black,19/WA5118/WA848,#0A150D,En-US
+1981,Chevrolet,DETAIL,Blazer,White,12/WA5111,#F7FCFB,En-US
+1981,Chevrolet,DETAIL,Corvette,Autumn Red,80 (1981),#903526,En-US
+1981,Chevrolet,DETAIL,Corvette,Charcoal Metallic,39 (1981),#5B5853,En-US
+1981,Chevrolet,DETAIL,Corvette,Dark Blue Metallic,28 (1981),#086C7E,En-US
+1981,Chevrolet,DETAIL,Corvette,Dark Blue Metallic,38 (1981),#1C3C5C,En-US
+1981,Chevrolet,DETAIL,Corvette,Dark Bronze Metallic,74 (1981),#71482D,En-US
+1981,Chevrolet,DETAIL,Corvette,Dark Claret Metallic,98 (1981),#5D1C11,En-US
+1981,Chevrolet,DETAIL,Corvette,Frost Beige,50 (1981),#EEEDE4,En-US
+1981,Chevrolet,DETAIL,Corvette,Frost Beige,59 (1981),#F0EAD4,En-US
+1981,Chevrolet,DETAIL,Corvette,Mahogany Metallic,06 (1981),#63332D,En-US
+1981,Chevrolet,DETAIL,Corvette,Maroon Metalic,79 (1981),#731323,En-US
+1981,Chevrolet,DETAIL,Corvette,Silver Metallic,13 (1981),#CDD1D5,En-US
+1981,Chevrolet,DETAIL,Corvette,Silver Metallic,33 (1981),#DCDBD6,En-US
+1981,Chevrolet,DETAIL,Corvette,White (Classic White),10 (1981),#FDF6DF,En-US
+1981,Chevrolet,DETAIL,Corvette,Yellow,52 (1981),#EAD416,En-US
+1981,Dodge,DETAIL,Challenger,Ballast Sand Metallic,C95,#725240,En-US
+1981,Dodge,DETAIL,Challenger,Blue Metallic,B79,#829BB2,En-US
+1981,Dodge,DETAIL,Challenger,Bright Gold Metallic,K19,#C39B55,En-US
+1981,Dodge,DETAIL,Challenger,Bright Yellow,Y58,#FBF435,En-US
+1981,Dodge,DETAIL,Challenger,Cream Yellow,Y64,#F6E3A2,En-US
+1981,Dodge,DETAIL,Challenger,Silver Metallic,H29,#C5C1BB,En-US
+1981,Dodge,DETAIL,Challenger,Warm White,W61,#FEFEF2,En-US
+1981,Dodge,DETAIL,Colt,Ballast Sand Metallic,C95,#725240,En-US
+1981,Dodge,DETAIL,Colt,Beige,S37,#D9BD81,En-US
+1981,Dodge,DETAIL,Colt,Blue Metallic,B79,#829BB2,En-US
+1981,Dodge,DETAIL,Colt,Bright Gold Metallic,K19,#C39B55,En-US
+1981,Dodge,DETAIL,Colt,Bright Yellow,Y58,#FBF435,En-US
+1981,Dodge,DETAIL,Colt,Cream Yellow,Y64,#F6E3A2,En-US
+1981,Dodge,DETAIL,Colt,Flat Black,X21,#211919,En-US
+1981,Dodge,DETAIL,Colt,Safari Red,R47,#A73B2D,En-US
+1981,Dodge,DETAIL,Colt,Silver Metallic,H29,#C5C1BB,En-US
+1981,Dodge,DETAIL,Colt,Warm White,W61,#FEFEF2,En-US
+1981,Ford,DETAIL,Bronco,Black,1C (1981),#250E09,En-US
+1981,Ford,DETAIL,Bronco,Bright Caramel,5T (1981),#FC923C,En-US
+1981,Ford,DETAIL,Bronco,Candyapple Red,2K (1981),#C00000,En-US
+1981,Ford,DETAIL,Bronco,Dark Brown Metallic,5V (1981),#4C3922,En-US
+1981,Ford,DETAIL,Bronco,Dark Caramel Metallic,5G (1981),#C4923C,En-US
+1981,Ford,DETAIL,Bronco,Dark Chamois Metallic,8A (1981),#80693C,En-US
+1981,Ford,DETAIL,Bronco,Maroon,2L (1981),#800000,En-US
+1981,Ford,DETAIL,Bronco,Medium (Bright) Bittersweet Metallic,8D (1981),#A84C3A,En-US
+1981,Ford,DETAIL,Bronco,Medium Blue Metallic,3H (1981),#98A3AA,En-US
+1981,Ford,DETAIL,Bronco,Medium Dark Spruce Metallic,4J (1981),#40693B,En-US
+1981,Ford,DETAIL,Bronco,Medium Fawn Metallic,55 (1981),#9B764B,En-US
+1981,Ford,DETAIL,Bronco,Medium Gray Metallic,1P (1981),#8F9091,En-US
+1981,Ford,DETAIL,Bronco,Medium Spruce Metallic,4N (1981),#95B7A1,En-US
+1981,Ford,DETAIL,Bronco,Midnight Blue Metallic,3B (1981),#1C274E,En-US
+1981,Ford,DETAIL,Bronco,Silver Metallic,1G (1981),#A4A5A8,En-US
+1981,Ford,DETAIL,Bronco,Tan,6U (1981),#D5BE77,En-US
+1981,Ford,DETAIL,Bronco,Wedgewood Blue,34 (1981),#88A8B6,En-US
+1981,Ford,DETAIL,Bronco,White,9A (1981),#FDF3D5,En-US
+1981,Ford,DETAIL,Thunderbird,Black,1C (1981),#250E09,En-US
+1981,Ford,DETAIL,Thunderbird,Dark Blue Metallic,3L (1981),#1C274E,En-US
+1981,Ford,DETAIL,Thunderbird,Dark Cordovan Metallic,8N (1981),#824C34,En-US
+1981,Ford,DETAIL,Thunderbird,Light Dove Gray,12 (1981),#ABA9A1,En-US
+1981,Ford,DETAIL,Thunderbird,Light Fawn Metallic,5H (1981),#BFB589,En-US
+1981,Ford,DETAIL,Thunderbird,Light Medium Blue,3F (1981),#A6BCC2,En-US
+1981,Ford,DETAIL,Thunderbird,Medium (Bright) Bittersweet Metallic,8D (1981),#A84C3A,En-US
+1981,Ford,DETAIL,Thunderbird,Medium Blue Metallic,3H (1981),#98A3AA,En-US
+1981,Ford,DETAIL,Thunderbird,Medium Fawn Metallic,55 (1981),#9B764B,En-US
+1981,Ford,DETAIL,Thunderbird,Medium Red,24 (1981),#652727,En-US
+1981,Ford,DETAIL,Thunderbird,Silver Metallic,1G (1981),#A4A5A8,En-US
+1981,GMC,DETAIL,Suburban,Black,19/WA5118/WA848,#0A150D,En-US
+1981,GMC,DETAIL,Suburban,White,12/WA5111,#F7FCFB,En-US
+1981,Honda,DETAIL,Civic,Lamia Beige Metallic,YR-48M,#CCC09C,En-US
+1981,Honda,DETAIL,Civic,Levanna Brown Metallic,YR-47M,#BA8246,En-US
+1981,Honda,DETAIL,Civic,Mycenae Gold Metallic,YR-36M,#D1A84F,En-US
+1981,Honda,DETAIL,Civic,Pyrennies Blue,B-24,#86B8C6,En-US
+1981,Honda,DETAIL,Civic,Rhodes Red Metallic,R41M,#C15B62,En-US
+1981,Honda,DETAIL,Civic,Sable Green Metallic,BG-12M,#9BC686,En-US
+1981,Honda,DETAIL,Civic,Shetland White,NH61,#FDFEE4,En-US
+1981,Honda,DETAIL,Civic,Sierra Blue Metallic,B-22M,#6389BD,En-US
+1981,Honda,DETAIL,Civic,St. Moritz Silver Metallic,NH-62M,#BFC4CB,En-US
+1981,Honda,DETAIL,Prelude,Pyrennies Blue,B-24,#86B8C6,En-US
+1981,Honda,DETAIL,Prelude,St. Moritz Silver Metallic,NH-62M,#BFC4CB,En-US
+1981,Honda,DETAIL,Prelude,Tudor Red Metallic,R38M,#C64C4C,En-US
+1981,Honda,DETAIL,Prelude,Windsor Blue Metallic,B-23M,#112B7F,En-US
+1981,Mazda,DETAIL,626,Aurora White,WN,#FFFFE7,En-US
+1981,Mazda,DETAIL,626,Calm Beige,VF,#C3BB7B,En-US
+1981,Mazda,DETAIL,626,Crystal Silver Metallic,K6,#A8B0B8,En-US
+1981,Mazda,DETAIL,626,Formula White,WT,#FEFADA,En-US
+1981,Mazda,DETAIL,626,Lime Green Metallic,G6,#9FBBA5,En-US
+1981,Mazda,DETAIL,626,Maya Gold Metallic,M5,#C8A270,En-US
+1981,Mazda,DETAIL,626,Noble Gray Metallic,S2,#707780,En-US
+1981,Mazda,DETAIL,626,Renaissance Red Metallic,R3,#BF375A,En-US
+1981,Mazda,DETAIL,626,Star Dust Blue Metallic,U2,#96B6C4,En-US
+1981,Mazda,DETAIL,626,Sunrise Red,RH,#BB231C,En-US
+1981,Mazda,DETAIL,626,Terra Brown Metallic,T1,#995E3B,En-US
+1981,Mazda,DETAIL,GLC,Aurora White,WN,#FFFFE7,En-US
+1981,Mazda,DETAIL,GLC,Bronze Brown Metallic,Y8,#B56031,En-US
+1981,Mazda,DETAIL,GLC,Calm Beige,VF,#C3BB7B,En-US
+1981,Mazda,DETAIL,GLC,Formula White,WT,#FEFADA,En-US
+1981,Mazda,DETAIL,GLC,Gleam Ivory,VE,#CCBD8A,En-US
+1981,Mazda,DETAIL,GLC,Lime Green Metallic,G6,#9FBBA5,En-US
+1981,Mazda,DETAIL,GLC,Renaissance Red Metallic,R3,#BF375A,En-US
+1981,Mazda,DETAIL,GLC,Sicily Brown Metallic,T2,#D17741,En-US
+1981,Mazda,DETAIL,GLC,Space Yellow,YW,#D9DB1B,En-US
+1981,Mazda,DETAIL,GLC,Star Dust Blue Metallic,U2,#96B6C4,En-US
+1981,Mazda,DETAIL,GLC,Sunrise Red,RH,#BB231C,En-US
+1981,Mazda,DETAIL,GLC,Tornado Silver Metallic,K8,#3A4148,En-US
+1981,Plymouth,DETAIL,Champ,Ballast Sand Metallic,C95,#8B3801,En-US
+1981,Plymouth,DETAIL,Champ,Beige,S37,#BDB28B,En-US
+1981,Plymouth,DETAIL,Champ,Black,X21,#000000,En-US
+1981,Plymouth,DETAIL,Champ,Blue Metallic,B79,#829BB2,En-US
+1981,Plymouth,DETAIL,Champ,Bright Gold Metallic,K19,#856031,En-US
+1981,Plymouth,DETAIL,Champ,Bright Yellow,Y58,#FBF435,En-US
+1981,Plymouth,DETAIL,Champ,Cream Yellow,Y64,#F6E3A2,En-US
+1981,Plymouth,DETAIL,Champ,Safari Red,R47,#A73B2D,En-US
+1981,Plymouth,DETAIL,Champ,Silver Metallic,H29,#C5C1BB,En-US
+1981,Plymouth,DETAIL,Champ,Warm White,W61,#FEFEF2,En-US
+1981,Porsche,DETAIL,924,Alpine White,L90E,#FBFBDD,En-US
+1981,Porsche,DETAIL,924,Black,L700/L041,#0D0F1B,En-US
+1981,Porsche,DETAIL,924,Colorado Beige,LA1M,#8A631E,En-US
+1981,Porsche,DETAIL,924,Diamond Silver Metallic,L97A,#ACB0B4,En-US
+1981,Porsche,DETAIL,924,Guards Red,L027/LM3A,#C00000,En-US
+1981,Porsche,DETAIL,924,Havana Brown,LD8A,#402716,En-US
+1981,Porsche,DETAIL,924,Inari Silver Metallic,L94A,#91AE8A,En-US
+1981,Porsche,DETAIL,924,Indiana Red Metallic,LA3V,#CF3952,En-US
+1981,Porsche,DETAIL,924,Maritas Blue,LY5A,#052079,En-US
+1981,Porsche,DETAIL,924,Meteor Gray Metallic,LY7Z,#777B89,En-US
+1981,Porsche,DETAIL,924,Minerva Blue Metallic,L304/LM5Y,#6EA4B2,En-US
+1981,Porsche,DETAIL,924,Mocha Brown,L451/LM9V,#0C0C0C,En-US
+1981,Porsche,DETAIL,924,Monaco Blue,LA5D,#5C7894,En-US
+1981,Porsche,DETAIL,924,Onyx Green Metallic,LD6V,#507A58,En-US
+1981,Porsche,DETAIL,924,Platinum Metallic,L655/LM8U,#C8C2A6,En-US
+1981,Porsche,DETAIL,924,Venus Red,LY3B,#D80606,En-US
+1981,Porsche,DETAIL,928,Alpine White,L90E,#FBFBDD,En-US
+1981,Porsche,DETAIL,928,Bamboo Beige,L523,#DEC06E,En-US
+1981,Porsche,DETAIL,928,Black,L700/L041,#0D0F1B,En-US
+1981,Porsche,DETAIL,928,Caramel Brown,L524,#B45F20,En-US
+1981,Porsche,DETAIL,928,Chiffon White,L182,#FFFEEB,En-US
+1981,Porsche,DETAIL,928,Chiffon White,P2,#FDF8E5,En-US
+1981,Porsche,DETAIL,928,Colorado Beige,LA1M,#8A631E,En-US
+1981,Porsche,DETAIL,928,Conifer Green,LB6A,#266628,En-US
+1981,Porsche,DETAIL,928,Diamond Silver Metallic,L97A,#ACB0B4,En-US
+1981,Porsche,DETAIL,928,Grand Prix White,L908,#F9FBFA,En-US
+1981,Porsche,DETAIL,928,Guards Red,L027/LM3A,#C00000,En-US
+1981,Porsche,DETAIL,928,Havana Brown,LD8A,#402716,En-US
+1981,Porsche,DETAIL,928,Inari Silver Metallic,L94A,#91AE8A,En-US
+1981,Porsche,DETAIL,928,Indiana Red Metallic,LA3V,#CF3952,En-US
+1981,Porsche,DETAIL,928,Light Blue Metallic,L30T,#8DA6AB,En-US
+1981,Porsche,DETAIL,928,Maritas Blue,LY5A,#052079,En-US
+1981,Porsche,DETAIL,928,Meteor Gray Metallic,LY7Z,#777B89,En-US
+1981,Porsche,DETAIL,928,Minerva Blue Metallic,L304/LM5Y,#6EA4B2,En-US
+1981,Porsche,DETAIL,928,Mint Green,L20A,#4C8259,En-US
+1981,Porsche,DETAIL,928,Mocha Brown,L451/LM9V,#0C0C0C,En-US
+1981,Porsche,DETAIL,928,Monaco Blue,LA5D,#5C7894,En-US
+1981,Porsche,DETAIL,928,Moss Green Metallic,L20C,#387647,En-US
+1981,Porsche,DETAIL,928,Onyx Green Metallic,LD6V,#507A58,En-US
+1981,Porsche,DETAIL,928,Pacific Blue Metallic,L31G,#1E608A,En-US
+1981,Porsche,DETAIL,928,Pewter Metallic,L956,#989EA6,En-US
+1981,Porsche,DETAIL,928,Platinum Metallic,L655/LM8U,#C8C2A6,En-US
+1981,Porsche,DETAIL,928,Rosewood Metallic,L474,#604622,En-US
+1981,Porsche,DETAIL,928,Royal Blue,L305,#11408D,En-US
+1981,Porsche,DETAIL,928,Venus Red,LY3B,#D80606,En-US
+1981,Porsche,DETAIL,928,Wine Red Metallic,L895,#B81648,En-US
+1981,Toyota,DETAIL,Celica,Beige,489,#BCAC82,En-US
+1981,Toyota,DETAIL,Celica,Black,202/026,#0C0C0C,En-US
+1981,Toyota,DETAIL,Celica,Black Metallic,6A8,#0C0C0C,En-US
+1981,Toyota,DETAIL,Celica,Copper Metallic,474,#804D28,En-US
+1981,Toyota,DETAIL,Celica,Dark Blue Metallic,879,#062772,En-US
+1981,Toyota,DETAIL,Celica,Light Blue Metallic,861,#7EB1BA,En-US
+1981,Toyota,DETAIL,Celica,Light Blue Metallic,888,#ADC4CF,En-US
+1981,Toyota,DETAIL,Celica,Orange Metallic,394,#D17B47,En-US
+1981,Toyota,DETAIL,Celica,Silver Metallic,137,#BBC0C5,En-US
+1981,Toyota,DETAIL,Corona,Beige,464,#A49C74,En-US
+1981,Toyota,DETAIL,Corona,Beige,496,#BCAC82,En-US
+1981,Toyota,DETAIL,Corona,Beige Metallic,4A4,#BFB59B,En-US
+1981,Toyota,DETAIL,Corona,Black,202/026,#0C0C0C,En-US
+1981,Toyota,DETAIL,Corona,Black Metallic,6A8,#0C0C0C,En-US
+1981,Toyota,DETAIL,Corona,Copper Metallic,474,#804D28,En-US
+1981,Toyota,DETAIL,Corona,Dark Blue Metallic,879,#062772,En-US
+1981,Toyota,DETAIL,Corona,Light Blue Metallic,861,#7EB1BA,En-US
+1981,Toyota,DETAIL,Corona,Light Blue Metallic,888,#ADC4CF,En-US
+1981,Toyota,DETAIL,Corona,Maroon Metallic,396,#873B2F,En-US
+1981,Toyota,DETAIL,Corona,Orange Metallic,394,#D17B47,En-US
+1981,Toyota,DETAIL,Corona,Red,391,#FA1E1E,En-US
+1981,Toyota,DETAIL,Corona,Red Metallic,395,#B03253,En-US
+1981,Toyota,DETAIL,Corona,Silver Metallic,137,#BBC0C5,En-US
+1981,Toyota,DETAIL,Corona,Yellow,541,#F9FB2F,En-US
+1981,Toyota,DETAIL,Cressida,Beige,464,#A49C74,En-US
+1981,Toyota,DETAIL,Cressida,Beige,489,#BCAC82,En-US
+1981,Toyota,DETAIL,Cressida,Beige,496,#BCAC82,En-US
+1981,Toyota,DETAIL,Cressida,Beige Metallic,4A4,#BFB59B,En-US
+1981,Toyota,DETAIL,Cressida,Beige Metallic,4A6,,En-US
+1981,Toyota,DETAIL,Cressida,Black,202/026,#0C0C0C,En-US
+1981,Toyota,DETAIL,Cressida,Black Metallic,6A8,#0C0C0C,En-US
+1981,Toyota,DETAIL,Cressida,Copper Metallic,474,#804D28,En-US
+1981,Toyota,DETAIL,Cressida,Dark Blue Metallic,879,#062772,En-US
+1981,Toyota,DETAIL,Cressida,Light Blue Metallic,861,#7EB1BA,En-US
+1981,Toyota,DETAIL,Cressida,Light Blue Metallic,889,#ADC4CF,En-US
+1981,Toyota,DETAIL,Cressida,Maroon Metallic,396,#873B2F,En-US
+1981,Toyota,DETAIL,Cressida,Red Metallic,3A1,#BD2550,En-US
+1981,Toyota,DETAIL,Cressida,Silver Metallic,125,#BBC0C5,En-US
+1981,Toyota,DETAIL,Cressida,Silver Metallic,137,#BBC0C5,En-US
+1981,Toyota,DETAIL,Cressida,Yellow,541,#F9FB2F,En-US
+1981,Toyota,DETAIL,Land Cruiser,Black,202/026,#0C0C0C,En-US
+1981,Toyota,DETAIL,Land Cruiser,Black Metallic,6A8,#0C0C0C,En-US
+1981,Toyota,DETAIL,Land Cruiser,Freeborn Red,309,#C00000,En-US
+1981,Toyota,DETAIL,Land Cruiser,Green,681,#2F8D3C,En-US
+1981,Toyota,DETAIL,Land Cruiser,Light Blue Metallic,861,#7EB1BA,En-US
+1981,Toyota,DETAIL,Land Cruiser,Medium Blue,857,#043970,En-US
+1981,Toyota,DETAIL,Land Cruiser,Olive Green,653,#7B5B23,En-US
+1981,Toyota,DETAIL,Land Cruiser,Pure Green,6C5/6B4,#23C332,En-US
+1981,Toyota,DETAIL,Land Cruiser,Silver Metallic,137,#BBC0C5,En-US
+1981,Toyota,DETAIL,Land Cruiser,Yellow,532,#ADA243,En-US
+1981,Toyota,DETAIL,Land Cruiser,Yellow,541,#F9FB2F,En-US
+1981,Toyota,DETAIL,Supra,Beige Metallic,4A4,#BFB59B,En-US
+1981,Toyota,DETAIL,Supra,Black,202/026,#0C0C0C,En-US
+1981,Toyota,DETAIL,Supra,Black Metallic,6A5,#0C0C0C,En-US
+1981,Toyota,DETAIL,Supra,Black Metallic,6A8,#0C0C0C,En-US
+1981,Toyota,DETAIL,Supra,Copper Metallic,474,#804D28,En-US
+1981,Toyota,DETAIL,Supra,Gray,135,#998975,En-US
+1981,Toyota,DETAIL,Supra,Light Blue Metallic,861,#7EB1BA,En-US
+1981,Toyota,DETAIL,Supra,Light Blue Metallic,888,#ADC4CF,En-US
+1981,Toyota,DETAIL,Supra,Red Metallic,395,#B03253,En-US
+1981,Toyota,DETAIL,Supra,Silver Metallic,137,#BBC0C5,En-US
+1981,Toyota,DETAIL,Tercel,Beige Metallic,4A4,#BFB59B,En-US
+1981,Toyota,DETAIL,Tercel,Black,202/026,#0C0C0C,En-US
+1981,Toyota,DETAIL,Tercel,Black Metallic,6A8,#0C0C0C,En-US
+1981,Toyota,DETAIL,Tercel,Light Blue Metallic,861,#7EB1BA,En-US
+1981,Toyota,DETAIL,Tercel,Orange Metallic,394,#D17B47,En-US
+1981,Toyota,DETAIL,Tercel,Red Metallic,395,#B03253,En-US
+1981,Toyota,DETAIL,Tercel,Silver Metallic,137,#BBC0C5,En-US
+1981,Volkswagen,DETAIL,Dasher,Black,L41,#000000,En-US
+1981,Volkswagen,DETAIL,Dasher,Colorado Beige,LA1M,#8A631E,En-US
+1981,Volkswagen,DETAIL,Dasher,Diamond Silver Metallic,L97A/LE7Y,#A8B3B3,En-US
+1981,Volkswagen,DETAIL,Dasher,Havana Brown,LD8A,#402716,En-US
+1981,Volkswagen,DETAIL,Dasher,Helios Blue Metallic,LA5Y,#396F91,En-US
+1981,Volkswagen,DETAIL,Dasher,Indiana Red Metallic,LA3V,#CF3952,En-US
+1981,Volkswagen,DETAIL,Jetta,Ascot Gray,LA7A,#9F9C91,En-US
+1981,Volkswagen,DETAIL,Jetta,Black,L41,#000000,En-US
+1981,Volkswagen,DETAIL,Jetta,Colorado Beige,LA1M,#8A631E,En-US
+1981,Volkswagen,DETAIL,Jetta,Regatta Blue Metallic,LB5Y,#9CC5C8,En-US
+1981,Volkswagen,DETAIL,Rabbit,Black,L41,#000000,En-US
+1981,Volkswagen,DETAIL,Rabbit,Cashmere White,LE9C,#F1EFCF,En-US
+1981,Volkswagen,DETAIL,Rabbit,Cedar Green Metallic,LK6Y,#437946,En-US
+1981,Volkswagen,DETAIL,Rabbit,Colorado Beige,LA1M,#8A631E,En-US
+1981,Volkswagen,DETAIL,Rabbit,Cosmos Silver Metallic,LK5Y,#A6B1B4,En-US
+1981,Volkswagen,DETAIL,Rabbit,Diamond Silver Metallic,L97A/LE7Y,#A8B3B3,En-US
+1981,Volkswagen,DETAIL,Rabbit,Forest Green Metallic,LE6Z,#4A8A59,En-US
+1981,Volkswagen,DETAIL,Rabbit,Inaris Silver Metallic,L94A,#91AE8A,En-US
+1981,Volkswagen,DETAIL,Rabbit,Indiana Red Metallic,LA3V,#CF3952,En-US
+1981,Volkswagen,DETAIL,Rabbit,Lago Blue,LE5B,#9FB0BB,En-US
+1981,Volkswagen,DETAIL,Rabbit,Mars Red,LA3A,#FC2020,En-US
+1981,Volkswagen,DETAIL,Rabbit,Mexico Beige,LE1M,#BD913D,En-US
+1981,Volkswagen,DETAIL,Rabbit,Mojave Beige,LE1N,#C29968,En-US
+1981,Volkswagen,DETAIL,Rabbit,Royal Red,LE3C,#C00000,En-US
+1981,Volkswagen,DETAIL,Rabbit,Sandstone Metallic,LE1Y,#D7CCB3,En-US
+1981,Volkswagen,DETAIL,Rabbit,Slate Gray Metallic,LE6U,#709891,En-US
+1981,Volkswagen,DETAIL,Rabbit,Sunbrite Yellow,LE1B,#FFD943,En-US
+1981,Volkswagen,DETAIL,Rabbit,Tarpon Blue Metallic,LE5V,#91ADBF,En-US
+1981,Volkswagen,DETAIL,Scirocco,Black,L41,#000000,En-US
+1981,Volkswagen,DETAIL,Scirocco,Cedar Green Metallic,LK6Y,#437946,En-US
+1981,Volkswagen,DETAIL,Scirocco,Cirrus Gray Metallic,LK5V,#98AAA2,En-US
+1981,Volkswagen,DETAIL,Scirocco,Cosmos Silver Metallic,LK5Y,#A6B1B4,En-US
+1981,Volkswagen,DETAIL,Scirocco,Indiana Red Metallic,LA3V,#CF3952,En-US
+1981,Volkswagen,DETAIL,Scirocco,Mars Red,LA3A,#FC2020,En-US
+1981,Volkswagen,DETAIL,Scirocco,Sand Metallic,LA1V,#E8C580,En-US

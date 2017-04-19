@@ -1,0 +1,101 @@
+Year,Make,GroupModel,Model,Locale
+2000,Aston Martin,All Models,DB7,En-US
+2000,Ferrari,All Models,550 Maranello,En-US
+2000,Ferrari,All Models,360,En-US
+2000,Ferrari,All Models,456M GT,En-US
+2000,FIAT,All Models,Strada,En-US
+2000,FIAT,All Models,Brava,En-US
+2000,HUMMER,All Models,H1,En-US
+2000,Jaguar,All Models,S-TYPE,En-US
+2000,Jaguar,All Models,XJ8 L,En-US
+2000,Jaguar,All Models,XJR,En-US
+2000,Jaguar,All Models,XKR,En-US
+2000,Jaguar,All Models,XK8,En-US
+2000,Jaguar,All Models,XJ,En-US
+2000,Jaguar,All Models,XJ8,En-US
+2000,Jaguar,All Models,XJ Vanden Plas,En-US
+2000,Jaguar,All Models,Other Jaguar Models,En-US
+2000,Jeep,All Models,Grand Cherokee,En-US
+2000,Jeep,All Models,Cherokee,En-US
+2000,Jeep,All Models,Wrangler,En-US
+2000,Jeep,All Models,Other Jeep Models,En-US
+2000,Land Rover,All Models,Range Rover,En-US
+2000,Land Rover,All Models,Discovery,En-US
+2000,Lotus,All Models,Esprit,En-US
+2000,Porsche,All Models,Boxster,En-US
+2000,Porsche,All Models,911,En-US
+2000,Rolls-Royce,All Models,Silver Seraph,En-US
+2000,Rolls-Royce,All Models,Camargue,En-US
+2000,Rolls-Royce,All Models,Corniche,En-US
+2000,Saab,All Models,5-Sep,En-US
+2000,Saab,All Models,3-Sep,En-US
+2000,BMW,3 Series,323ci,En-US
+2000,BMW,3 Series,323i,En-US
+2000,BMW,3 Series,328Ci,En-US
+2000,BMW,3 Series,328i,En-US
+2000,BMW,5 Series,528i,En-US
+2000,BMW,5 Series,540i,En-US
+2000,BMW,7 Series,740i,En-US
+2000,BMW,7 Series,740iL,En-US
+2000,BMW,7 Series,750iL,En-US
+2000,BMW,X5,X5,En-US
+2000,Cadillac,Escalade,Escalade,En-US
+2000,Chevrolet,Express,Express 1500,En-US
+2000,Chevrolet,Express,Express 2500,En-US
+2000,Chevrolet,Express,Express 3500,En-US
+2000,Chevrolet,Silverado,Silverado and other C/K1500,En-US
+2000,Chevrolet,Silverado,Silverado and other C/K2500,En-US
+2000,Chevrolet,Silverado,Silverado and other C/K3500,En-US
+2000,Ford,Econoline,E-150 and Econoline 150,En-US
+2000,Ford,Econoline,E-250 and Econoline 250,En-US
+2000,Ford,Econoline,E-350 and Econoline 350,En-US
+2000,Ford,Expedition,Expedition,En-US
+2000,Ford,F-Series,F150,En-US
+2000,Ford,F-Series,F250,En-US
+2000,Ford,F-Series,F350,En-US
+2000,Ford,F-Series,F450,En-US
+2000,GMC,Savana,Savana 1500,En-US
+2000,GMC,Savana,Savana 2500,En-US
+2000,GMC,Savana,Savana 3500,En-US
+2000,GMC,Sierra,Sierra C/K1500,En-US
+2000,GMC,Sierra,Sierra C/K2500,En-US
+2000,GMC,Sierra,Sierra C/K3500,En-US
+2000,GMC,Yukon,Yukon,En-US
+2000,GMC,Yukon,Yukon XL,En-US
+2000,Honda,Accord,Accord,En-US
+2000,Jaguar,XK,XK8,En-US
+2000,Jaguar,XK,XKR,En-US
+2000,Lincoln,Navigator,Navigator,En-US
+2000,Mercedes-Benz,C-Class,C230,En-US
+2000,Mercedes-Benz,C-Class,C280,En-US
+2000,Mercedes-Benz,C-Class,C43 AMG,En-US
+2000,Mercedes-Benz,CL-Class,CL500,En-US
+2000,Mercedes-Benz,E-Class,E320,En-US
+2000,Mercedes-Benz,E-Class,E430,En-US
+2000,Mercedes-Benz,E-Class,E55 AMG,En-US
+2000,Mercedes-Benz,G-Class,G500,En-US
+2000,Mercedes-Benz,M-Class,ML320,En-US
+2000,Mercedes-Benz,M-Class,ML430,En-US
+2000,Mercedes-Benz,M-Class,ML55 AMG,En-US
+2000,Mercedes-Benz,S-Class,S430,En-US
+2000,Mercedes-Benz,S-Class,S500,En-US
+2000,Mercedes-Benz,SL-Class,SL500,En-US
+2000,Mercedes-Benz,SL-Class,SL600,En-US
+2000,Mercedes-Benz,SLK-Class,SLK230,En-US
+2000,Subaru,Impreza,Impreza,En-US
+2000,Volkswagen,Golf,Golf,En-US
+2000,Chevrolet,S Series,S10 Pickup,En-US
+2000,Dodge,Pick-up,Ram 1500 Truck,En-US
+2000,Dodge,Pick-up,Ram 2500 Truck,En-US
+2000,Dodge,Pick-up,Ram 3500 Truck,En-US
+2000,Lexus,GS300/GS400,GS 300,En-US
+2000,Lexus,GS300/GS400,GS 400,En-US
+2000,Lexus,LS Series,LS 400,En-US
+2000,Lexus,SC300/SC400,SC 300,En-US
+2000,Lexus,SC300/SC400,SC 400,En-US
+2000,Mercedes-Benz,CLK-Class,CLK320,En-US
+2000,Mercedes-Benz,CLK-Class,CLK430,En-US
+2000,Volvo,S40/V40,S40,En-US
+2000,Volvo,S40/V40,V40,En-US
+2000,Volvo,S70/V70,S70,En-US
+2000,Volvo,S70/V70,V70,En-US
