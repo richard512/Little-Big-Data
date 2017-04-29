@@ -1,0 +1,976 @@
+{
+  "name": "top",
+      "reps": 1,
+      "dems": 1,
+  "children": [
+    {
+      "name": "Fossil Fuels",
+      "reps": 1582,
+      "dems": 203,
+      "children": [
+        {"name": "Miner", "reps": 200, "dems": 21},
+        {"name": "Oil Worker", "reps": 1097, "dems": 133},
+        {"name": "Petroleum Engineer", "reps": 236, "dems": 38},
+        {"name": "Mining Engineer", "reps": 49, "dems": 11}
+      ]
+    },
+    {
+      "name": "Farming & Forestry",
+      "reps": 12384,
+      "dems": 4733,
+      "children": [
+        {"name": "Cattle Feeder", "reps": 41, "dems": 4},
+        {"name": "Citrus Grower", "reps": 98, "dems": 25},
+        {"name": "Rancher", "reps": 2693, "dems": 718},
+        {"name": "Logger", "reps": 44, "dems": 14},
+        {"name": "Dairy Farmer", "reps": 393, "dems": 148},
+        {"name": "Farmer", "reps": 8908, "dems": 3685},
+        {"name": "Tree Farmer", "reps": 45, "dems": 20},
+        {"name": "Forester", "reps": 117, "dems": 63},
+        {"name": "Retired Farmer", "reps": 45, "dems": 56}
+      ]
+    },
+    {
+      "name": "Surgical Practice",
+      "reps": 3084,
+      "dems": 1389,
+      "children": [
+        {"name": "Oral Surgeon", "reps": 383, "dems": 105},
+        {"name": "Orthopedic Surgeon", "reps": 792, "dems": 271},
+        {"name": "General Surgeon", "reps": 1505, "dems": 760},
+        {"name": "Neurosurgeon", "reps": 224, "dems": 119},
+        {"name": "Plastic Surgeon", "reps": 147, "dems": 85},
+        {"name": "Vascular Surgeon", "reps": 23, "dems": 21},
+        {"name": "Pediatric Surgeon", "reps": 10, "dems": 28}
+      ]
+    },
+    {
+      "name": "Insurance",
+      "reps": 7259,
+      "dems": 3697,
+      "children": [
+        {"name": "Insurance Agent", "reps": 6855, "dems": 3137},
+        {"name": "Claims Adjuster", "reps": 82, "dems": 83},
+        {"name": "Underwriter", "reps": 115, "dems": 130},
+        {"name": "Actuary", "reps": 207, "dems": 347}
+      ]
+    },
+    {
+      "name": "Construction",
+      "reps": 5747,
+      "dems": 3110,
+      "children": [
+        {"name": "Roofer", "reps": 128, "dems": 30},
+        {"name": "Mechanical Contractor", "reps": 115, "dems": 27},
+        {"name": "Electrical Contractor", "reps": 398, "dems": 143},
+        {"name": "HVAC Contractor", "reps": 64, "dems": 29},
+        {"name": "Foreman", "reps": 50, "dems": 24},
+        {"name": "General Contractor", "reps": 1132, "dems": 562},
+        {"name": "Builder", "reps": 1329, "dems": 775},
+        {"name": "Draftsman", "reps": 18, "dems": 11},
+        {"name": "Surveyor", "reps": 181, "dems": 111},
+        {"name": "Construction Manager", "reps": 286, "dems": 237},
+        {"name": "Painting Contractor", "reps": 45, "dems": 38},
+        {"name": "Construction Worker", "reps": 24, "dems": 22},
+        {"name": "Project Engineer", "reps": 50, "dems": 65},
+        {"name": "Building Inspector", "reps": 13, "dems": 18}
+      ]
+    },
+    {
+      "name": "Dentistry",
+      "reps": 6331,
+      "dems": 3742,
+      "children": [
+        {"name": "Orthodontist", "reps": 564, "dems": 208},
+        {"name": "Endodontist", "reps": 107, "dems": 55},
+        {"name": "Dentist", "reps": 5313, "dems": 3214},
+        {"name": "Dental Assistant", "reps": 28, "dems": 17},
+        {"name": "Dental Hygienist", "reps": 129, "dems": 91},
+        {"name": "Pediatric Dentist", "reps": 96, "dems": 77},
+        {"name": "Periodontist", "reps": 94, "dems": 80}
+      ]
+    },
+    {
+      "name": "Home Management",
+      "reps": 69552,
+      "dems": 43834,
+      "children": [
+        {"name": "Homemaker", "reps": 69263, "dems": 43006},
+        {"name": "Stay at Home Dad", "reps": 11, "dems": 24},
+        {"name": "Stay at Home Mom", "reps": 278, "dems": 804}
+      ]
+    },
+    {
+      "name": "Transportation",
+      "reps": 952,
+      "dems": 619,
+      "children": [
+        {"name": "Truck Driver", "reps": 553, "dems": 243},
+        {"name": "Delivery Driver", "reps": 16, "dems": 12},
+        {"name": "School Bus Driver", "reps": 19, "dems": 15},
+        {"name": "Bus Driver", "reps": 34, "dems": 54},
+        {"name": "Courier", "reps": 16, "dems": 31},
+        {"name": "Locomotive Engineer", "reps": 7, "dems": 34},
+        {"name": "Taxi Driver", "reps": 5, "dems": 28}
+      ]
+    },
+    {
+      "name": "Entrepreneurial",
+      "reps": 41661,
+      "dems": 27122,
+      "children": [
+        {"name": "Franchisee", "reps": 154, "dems": 93},
+        {"name": "Business Owner", "reps": 38664, "dems": 24142},
+        {"name": "Entrepreneur", "reps": 2339, "dems": 1849},
+        {"name": "Inventor", "reps": 78, "dems": 84},
+        {"name": "Business Founder", "reps": 426, "dems": 954}
+      ]
+    },
+    {
+      "name": "Sales",
+      "reps": 13498,
+      "dems": 8837,
+      "children": [
+        {"name": "Car Sales", "reps": 1624, "dems": 439},
+        {"name": "Medical Sales", "reps": 163, "dems": 49},
+        {"name": "Auctioneer", "reps": 109, "dems": 54},
+        {"name": "Pharmaceutical Sales", "reps": 66, "dems": 34},
+        {"name": "Technical Sales", "reps": 16, "dems": 20},
+        {"name": "Retail Sales", "reps": 472, "dems": 648},
+        {"name": "Software Sales", "reps": 44, "dems": 67},
+        {"name": "Business Rep", "reps": 46, "dems": 317}
+      ]
+    },
+    {
+      "name": "Military",
+      "reps": 629,
+      "dems": 428,
+      "children": [
+        {"name": "Marines", "reps": 27, "dems": 7},
+        {"name": "Air Force", "reps": 68, "dems": 18},
+        {"name": "Army", "reps": 228, "dems": 181},
+        {"name": "Navy", "reps": 77, "dems": 65}
+      ]
+    },
+    {
+      "name": "Banking/Lending",
+      "reps": 6398,
+      "dems": 4368,
+      "children": [
+        {"name": "Bank Officer", "reps": 114, "dems": 56},
+        {"name": "Credit Manager", "reps": 32, "dems": 19},
+        {"name": "Commercial Banker", "reps": 5302, "dems": 3317},
+        {"name": "Mortgage Lender", "reps": 42, "dems": 27},
+        {"name": "Merchant Banker", "reps": 37, "dems": 27},
+        {"name": "Bail Bondsman", "reps": 45, "dems": 36},
+        {"name": "Loan Officer", "reps": 250, "dems": 216},
+        {"name": "Commercial Lender", "reps": 57, "dems": 61},
+        {"name": "Mortgage Broker", "reps": 400, "dems": 438},
+        {"name": "Teller", "reps": 15, "dems": 21},
+        {"name": "Credit Analyst", "reps": 16, "dems": 39}
+      ]
+    },
+    {
+      "name": "Wholesaling",
+      "reps": 375,
+      "dems": 281,
+      "children": [
+        {"name": "Beer Wholesaler", "reps": 57, "dems": 16},
+        {"name": "Beverage Distributor", "reps": 22, "dems": 7},
+        {"name": "Food Broker", "reps": 46, "dems": 18},
+        {"name": "Distributor", "reps": 110, "dems": 72},
+        {"name": "Wholesaler", "reps": 79, "dems": 54},
+        {"name": "Importer", "reps": 61, "dems": 114}
+      ]
+    },
+    {
+      "name": "Aviation",
+      "reps": 1530,
+      "dems": 1165,
+      "children": [
+        {"name": "Pilot", "reps": 1310, "dems": 791},
+        {"name": "Aircraft Mechanic", "reps": 34, "dems": 21},
+        {"name": "Flight Instructor", "reps": 24, "dems": 15},
+        {"name": "Flight Attendant", "reps": 127, "dems": 226},
+        {"name": "Air Traffic Controller", "reps": 35, "dems": 112}
+      ]
+    },
+    {
+      "name": "Accounting",
+      "reps": 11821,
+      "dems": 9507,
+      "children": [
+        {"name": "CPA", "reps": 6279, "dems": 4176},
+        {"name": "Bookkeeper", "reps": 869, "dems": 785},
+        {"name": "Controller", "reps": 713, "dems": 658},
+        {"name": "Accountant", "reps": 3840, "dems": 3753},
+        {"name": "Tax Accountant", "reps": 106, "dems": 113},
+        {"name": "Accounting Clerk", "reps": 14, "dems": 22}
+      ]
+    },
+    {
+      "name": "Financial Services",
+      "reps": 12297,
+      "dems": 10010,
+      "children": [
+        {"name": "Financial Advisor", "reps": 6202, "dems": 3676},
+        {"name": "Investment Manager", "reps": 1983, "dems": 1762},
+        {"name": "Tax Preparer", "reps": 174, "dems": 193},
+        {"name": "Finance Manager", "reps": 134, "dems": 201},
+        {"name": "Financial Analyst", "reps": 452, "dems": 808},
+        {"name": "Pension Consultant", "reps": 14, "dems": 41}
+      ]
+    },
+    {
+      "name": "Business Leadership",
+      "reps": 108061,
+      "dems": 89890,
+      "children": [
+        {"name": "Insurance Executive", "reps": 261, "dems": 151},
+        {"name": "Chairman", "reps": 3475, "dems": 2230},
+        {"name": "Sales Executive", "reps": 1380, "dems": 1027},
+        {"name": "President/CEO/COO", "reps": 50952, "dems": 42857},
+        {"name": "Financial Executive", "reps": 3970, "dems": 3383},
+        {"name": "Bank Executive", "reps": 52, "dems": 45},
+        {"name": "Healthcare Executive", "reps": 208, "dems": 238},
+        {"name": "Chairwoman", "reps": 17, "dems": 29},
+        {"name": "HR Executive", "reps": 295, "dems": 562},
+        {"name": "Marketing Executive", "reps": 458, "dems": 898},
+        {"name": "Technology Executive", "reps": 352, "dems": 835},
+        {"name": "PR Executive", "reps": 29, "dems": 78},
+        {"name": "Advertising Executive", "reps": 51, "dems": 155},
+        {"name": "Media Executive", "reps": 11, "dems": 59},
+        {"name": "Foundation Executive", "reps": 13, "dems": 95},
+        {"name": "Non-Profit Executive", "reps": 42, "dems": 491}
+      ]
+    },
+    {
+      "name": "Investment Banking",
+      "reps": 12315,
+      "dems": 10744,
+      "children": [
+        {"name": "Broker/Trader", "reps": 1875, "dems": 1405},
+        {"name": "Private Investor", "reps": 5903, "dems": 4753},
+        {"name": "Investment Banker", "reps": 2429, "dems": 2331},
+        {"name": "Private Banker", "reps": 64, "dems": 65},
+        {"name": "Fund Manager", "reps": 110, "dems": 115},
+        {"name": "Hedge Fund Manager", "reps": 80, "dems": 99},
+        {"name": "Investment Analyst", "reps": 193, "dems": 258},
+        {"name": "Venture Capitalist", "reps": 527, "dems": 884}
+      ]
+    },
+    {
+      "name": "Real Estate",
+      "reps": 16224,
+      "dems": 14238,
+      "children": [
+        {"name": "Home Builder", "reps": 829, "dems": 253},
+        {"name": "Commercial Realtor", "reps": 178, "dems": 102},
+        {"name": "Mortgage Banker", "reps": 451, "dems": 307},
+        {"name": "Real Estate Developer", "reps": 4124, "dems": 3397},
+        {"name": "Real Estate Appraiser", "reps": 298, "dems": 257},
+        {"name": "Property Manager", "reps": 1571, "dems": 1366},
+        {"name": "Realtor", "reps": 8476, "dems": 8128},
+        {"name": "Landlord", "reps": 171, "dems": 178},
+        {"name": "Building Manager", "reps": 15, "dems": 24},
+        {"name": "Real Estate Consultant", "reps": 108, "dems": 190},
+        {"name": "Affordable Housing Developer", "reps": 3, "dems": 36}
+      ]
+    },
+    {
+      "name": "Animal Care",
+      "reps": 1023,
+      "dems": 963,
+      "children": [
+        {"name": "Horse Breeder", "reps": 75, "dems": 46},
+        {"name": "Horse Trainer", "reps": 50, "dems": 45},
+        {"name": "Veterinarian", "reps": 886, "dems": 848},
+        {"name": "Dog Trainer", "reps": 12, "dems": 24}
+      ]
+    },
+    {
+      "name": "Law Enforcement",
+      "reps": 783,
+      "dems": 741,
+      "children": [
+        {"name": "Police Sergeant", "reps": 29, "dems": 19},
+        {"name": "Special Agent", "reps": 69, "dems": 47},
+        {"name": "Sheriff", "reps": 163, "dems": 126},
+        {"name": "State Trooper", "reps": 20, "dems": 16},
+        {"name": "Detective", "reps": 28, "dems": 25},
+        {"name": "Police Officer", "reps": 262, "dems": 273},
+        {"name": "Corrections Officer", "reps": 44, "dems": 46},
+        {"name": "Chief of Police", "reps": 25, "dems": 27},
+        {"name": "Criminal Investigator", "reps": 18, "dems": 23},
+        {"name": "Probation Officer", "reps": 14, "dems": 52}
+      ]
+    },
+    {
+      "name": "Hospitality",
+      "reps": 460,
+      "dems": 443,
+      "children": [
+        {"name": "Motel Owner", "reps": 48, "dems": 29},
+        {"name": "Hotelier", "reps": 363, "dems": 289},
+        {"name": "Innkeeper", "reps": 49, "dems": 125}
+      ]
+    },
+    {
+      "name": "Skilled Trade",
+      "reps": 1751,
+      "dems": 1893,
+      "children": [
+        {"name": "Locksmith", "reps": 22, "dems": 11},
+        {"name": "Machinist", "reps": 114, "dems": 74},
+        {"name": "Plumber", "reps": 288, "dems": 190},
+        {"name": "Welder", "reps": 68, "dems": 48},
+        {"name": "Fisherman", "reps": 171, "dems": 147},
+        {"name": "Auto Mechanic", "reps": 207, "dems": 195},
+        {"name": "Machine Operator", "reps": 23, "dems": 22},
+        {"name": "Electrician", "reps": 418, "dems": 416},
+        {"name": "Gemologist", "reps": 19, "dems": 19},
+        {"name": "Millwright", "reps": 13, "dems": 14},
+        {"name": "Home Inspector", "reps": 24, "dems": 26},
+        {"name": "Cabinet Maker", "reps": 32, "dems": 35},
+        {"name": "Lineman", "reps": 18, "dems": 20},
+        {"name": "Handyman", "reps": 29, "dems": 33},
+        {"name": "Electronics Technician", "reps": 48, "dems": 60},
+        {"name": "Carpenter", "reps": 148, "dems": 264},
+        {"name": "Winemaker", "reps": 81, "dems": 212},
+        {"name": "Pipefitter", "reps": 15, "dems": 42},
+        {"name": "Sheet Metal Worker", "reps": 8, "dems": 34},
+        {"name": "Cartographer", "reps": 5, "dems": 31}
+      ]
+    },
+    {
+      "name": "Physicians",
+      "reps": 39333,
+      "dems": 44257,
+      "children": [
+        {"name": "Urologist", "reps": 199, "dems": 62},
+        {"name": "Anesthesiologist", "reps": 1160, "dems": 471},
+        {"name": "Radiologist", "reps": 677, "dems": 444},
+        {"name": "Opthalmologist", "reps": 333, "dems": 236},
+        {"name": "Dermatologist", "reps": 140, "dems": 109},
+        {"name": "Oncologist", "reps": 77, "dems": 60},
+        {"name": "Pathologist", "reps": 198, "dems": 177},
+        {"name": "Cardiologist", "reps": 385, "dems": 371},
+        {"name": "Gastroenterologist", "reps": 39, "dems": 40},
+        {"name": "Radiation Oncologist", "reps": 29, "dems": 30},
+        {"name": "Physician", "reps": 35149, "dems": 40071},
+        {"name": "Neurologist", "reps": 72, "dems": 95},
+        {"name": "Optometric Physician", "reps": 15, "dems": 21},
+        {"name": "Emergency Physician", "reps": 111, "dems": 158},
+        {"name": "Internist", "reps": 40, "dems": 65},
+        {"name": "Nephrologist", "reps": 16, "dems": 27},
+        {"name": "Podiatrist", "reps": 246, "dems": 431},
+        {"name": "Ob/Gyn", "reps": 41, "dems": 73},
+        {"name": "Physician Executive", "reps": 162, "dems": 360},
+        {"name": "Family Physician", "reps": 56, "dems": 146},
+        {"name": "Pediatrician", "reps": 172, "dems": 659},
+        {"name": "Physician-Scientist", "reps": 16, "dems": 151}
+      ]
+    },
+    {
+      "name": "Restaurant & Bar",
+      "reps": 1346,
+      "dems": 1534,
+      "children": [
+        {"name": "Restaurant Manager", "reps": 85, "dems": 64},
+        {"name": "Restaurateur", "reps": 1192, "dems": 1182},
+        {"name": "Barista", "reps": 9, "dems": 19},
+        {"name": "Bar Owner", "reps": 9, "dems": 33},
+        {"name": "Waiter/Waitress", "reps": 43, "dems": 168},
+        {"name": "Bartender", "reps": 8, "dems": 68}
+      ]
+    },
+    {
+      "name": "Support Staff",
+      "reps": 5887,
+      "dems": 7043,
+      "children": [
+        {"name": "Office Manager", "reps": 1939, "dems": 1947},
+        {"name": "Administrative Asst.", "reps": 2906, "dems": 3118},
+        {"name": "Receptionist", "reps": 100, "dems": 149},
+        {"name": "Clerk", "reps": 241, "dems": 369},
+        {"name": "Healthcare Administrator", "reps": 362, "dems": 602},
+        {"name": "Administrative Manager", "reps": 20, "dems": 46},
+        {"name": "Court Reporter", "reps": 75, "dems": 183},
+        {"name": "Legal Assistant", "reps": 244, "dems": 629}
+      ]
+    },
+    {
+      "name": "Labor",
+      "reps": 359,
+      "dems": 489,
+      "children": [
+        {"name": "Caretaker", "reps": 16, "dems": 16},
+        {"name": "Laborer", "reps": 124, "dems": 145},
+        {"name": "Factory Worker", "reps": 22, "dems": 28},
+        {"name": "Security Guard", "reps": 47, "dems": 70},
+        {"name": "Custodian", "reps": 40, "dems": 60},
+        {"name": "Cashier", "reps": 34, "dems": 71},
+        {"name": "Longshoreman", "reps": 5, "dems": 42}
+      ]
+    },
+    {
+      "name": "Business Operations",
+      "reps": 4062,
+      "dems": 5664,
+      "children": [
+        {"name": "Plant Manager", "reps": 158, "dems": 77},
+        {"name": "Safety Director", "reps": 47, "dems": 24},
+        {"name": "Purchasing Agent", "reps": 128, "dems": 94},
+        {"name": "Operations Executive", "reps": 1171, "dems": 1256},
+        {"name": "Regulatory Affairs", "reps": 1639, "dems": 2032},
+        {"name": "Recruiter", "reps": 305, "dems": 600},
+        {"name": "Compliance Officer", "reps": 69, "dems": 174},
+        {"name": "Industrial Hygienist", "reps": 10, "dems": 26},
+        {"name": "Environmental Consultant", "reps": 69, "dems": 343}
+      ]
+    },
+    {
+      "name": "Retail Trade",
+      "reps": 1193,
+      "dems": 1697,
+      "children": [
+        {"name": "Grocer", "reps": 99, "dems": 56},
+        {"name": "Pawnbroker", "reps": 56, "dems": 39},
+        {"name": "Merchant", "reps": 128, "dems": 151},
+        {"name": "Jeweler", "reps": 211, "dems": 264},
+        {"name": "Retail Store Owner", "reps": 437, "dems": 559},
+        {"name": "Convenience Store Owner", "reps": 40, "dems": 55},
+        {"name": "Florist", "reps": 57, "dems": 93},
+        {"name": "Gas Station Owner", "reps": 32, "dems": 53},
+        {"name": "Salon Owner", "reps": 22, "dems": 37},
+        {"name": "Antique Dealer", "reps": 92, "dems": 206},
+        {"name": "Bookseller", "reps": 19, "dems": 184}
+      ]
+    },
+    {
+      "name": "Garden & Landscape",
+      "reps": 428,
+      "dems": 649,
+      "children": [
+        {"name": "Landscape Contractor", "reps": 69, "dems": 33},
+        {"name": "Nurseryman", "reps": 72, "dems": 35},
+        {"name": "Landscaper", "reps": 204, "dems": 192},
+        {"name": "Arborist", "reps": 19, "dems": 19},
+        {"name": "Horticulturist", "reps": 14, "dems": 46},
+        {"name": "Gardener", "reps": 18, "dems": 60},
+        {"name": "Garden Designer", "reps": 7, "dems": 37},
+        {"name": "Landscape Designer", "reps": 25, "dems": 227}
+      ]
+    },
+    {
+      "name": "Medical Services",
+      "reps": 7858,
+      "dems": 12472,
+      "children": [
+        {"name": "Optometrist", "reps": 851, "dems": 708},
+        {"name": "Chiropractor", "reps": 846, "dems": 731},
+        {"name": "Optician", "reps": 35, "dems": 38},
+        {"name": "Sonographer", "reps": 14, "dems": 18},
+        {"name": "Pharmacist", "reps": 1658, "dems": 2151},
+        {"name": "Medical Assistant", "reps": 32, "dems": 44},
+        {"name": "Audiologist", "reps": 54, "dems": 80},
+        {"name": "Physical Therapist", "reps": 482, "dems": 759},
+        {"name": "Respiratory Therapist", "reps": 38, "dems": 61},
+        {"name": "Paramedic", "reps": 18, "dems": 32},
+        {"name": "Pharmacy Technician", "reps": 14, "dems": 26},
+        {"name": "Medical Technologist", "reps": 56, "dems": 105},
+        {"name": "Nurse", "reps": 3103, "dems": 5966},
+        {"name": "Medical Consultant", "reps": 98, "dems": 194},
+        {"name": "Medical Transcriptionist", "reps": 22, "dems": 45},
+        {"name": "Caregiver", "reps": 42, "dems": 91},
+        {"name": "Physician's Assistant", "reps": 120, "dems": 292},
+        {"name": "Speech Therapist", "reps": 154, "dems": 378},
+        {"name": "Nutritionist", "reps": 34, "dems": 93},
+        {"name": "Dietitian", "reps": 37, "dems": 110},
+        {"name": "Clinical Pharmacist", "reps": 9, "dems": 27},
+        {"name": "Radiologic Technologist", "reps": 7, "dems": 27},
+        {"name": "Massage Therapist", "reps": 37, "dems": 210},
+        {"name": "Acupuncturist", "reps": 18, "dems": 161},
+        {"name": "Midwife", "reps": 5, "dems": 45}
+      ]
+    },
+    {
+      "name": "Personal Services",
+      "reps": 1960,
+      "dems": 3117,
+      "children": [
+        {"name": "Exterminator", "reps": 58, "dems": 10},
+        {"name": "Dry Cleaner", "reps": 18, "dems": 14},
+        {"name": "Funeral Director", "reps": 329, "dems": 308},
+        {"name": "Private Investigator", "reps": 73, "dems": 84},
+        {"name": "Cosmetologist", "reps": 23, "dems": 32},
+        {"name": "Interior Designer", "reps": 910, "dems": 1395},
+        {"name": "Travel Agent", "reps": 173, "dems": 293},
+        {"name": "Housekeeper", "reps": 20, "dems": 36},
+        {"name": "Hairdresser/Stylist", "reps": 131, "dems": 254},
+        {"name": "Tour Guide", "reps": 29, "dems": 58},
+        {"name": "Interpreter", "reps": 16, "dems": 41},
+        {"name": "Child Care/Nanny", "reps": 22, "dems": 60},
+        {"name": "Event Planner", "reps": 93, "dems": 272},
+        {"name": "Travel Consultant", "reps": 33, "dems": 111},
+        {"name": "Translator", "reps": 32, "dems": 149}
+      ]
+    },
+    {
+      "name": "Sports & Games",
+      "reps": 127,
+      "dems": 210,
+      "children": [
+        {"name": "Golf Professional", "reps": 29, "dems": 19},
+        {"name": "Coach", "reps": 64, "dems": 92},
+        {"name": "Sports Marketing", "reps": 14, "dems": 23},
+        {"name": "Sports Agent", "reps": 13, "dems": 33},
+        {"name": "Professional Poker Player", "reps": 7, "dems": 43}
+      ]
+    },
+    {
+      "name": "Religion",
+      "reps": 1155,
+      "dems": 2093,
+      "children": [
+        {"name": "Missionary", "reps": 54, "dems": 9},
+        {"name": "Catholic Priest", "reps": 58, "dems": 21},
+        {"name": "Pastor", "reps": 461, "dems": 608},
+        {"name": "Reverend", "reps": 20, "dems": 34},
+        {"name": "Minister", "reps": 306, "dems": 522},
+        {"name": "Priest", "reps": 70, "dems": 127},
+        {"name": "Chaplain", "reps": 38, "dems": 105},
+        {"name": "Bishop", "reps": 12, "dems": 39},
+        {"name": "Clergy", "reps": 75, "dems": 310},
+        {"name": "Rabbi", "reps": 54, "dems": 244},
+        {"name": "Episcopal Priest", "reps": 7, "dems": 74}
+      ]
+    },
+    {
+      "name": "Civil Service",
+      "reps": 404,
+      "dems": 837,
+      "children": [
+        {"name": "Fire Chief", "reps": 23, "dems": 24},
+        {"name": "Postmaster", "reps": 16, "dems": 20},
+        {"name": "Firefighter", "reps": 177, "dems": 313},
+        {"name": "Park Ranger", "reps": 15, "dems": 32},
+        {"name": "Postal Worker", "reps": 87, "dems": 202},
+        {"name": "Fire Captain", "reps": 12, "dems": 28},
+        {"name": "Diplomat", "reps": 63, "dems": 181},
+        {"name": "Patent Examiner", "reps": 11, "dems": 37}
+      ]
+    },
+    {
+      "name": "Public Relations",
+      "reps": 2865,
+      "dems": 6178,
+      "children": [
+        {"name": "Marketing Coordinator", "reps": 20, "dems": 26},
+        {"name": "Customer Service Rep", "reps": 145, "dems": 227},
+        {"name": "Marketer", "reps": 2000, "dems": 3734},
+        {"name": "Brand Manager", "reps": 11, "dems": 24},
+        {"name": "Market Researcher", "reps": 63, "dems": 316},
+        {"name": "Publicist", "reps": 40, "dems": 223}
+      ]
+    },
+    {
+      "name": "Foodservice",
+      "reps": 289,
+      "dems": 660,
+      "children": [
+        {"name": "Foodservice", "reps": 46, "dems": 43},
+        {"name": "Caterer", "reps": 113, "dems": 188},
+        {"name": "Cook", "reps": 30, "dems": 64},
+        {"name": "Baker", "reps": 31, "dems": 74},
+        {"name": "Chef", "reps": 69, "dems": 291}
+      ]
+    },
+    {
+      "name": "Engineering",
+      "reps": 4071,
+      "dems": 10045,
+      "children": [
+        {"name": "Civil Engineer", "reps": 912, "dems": 746},
+        {"name": "Chemical Engineer", "reps": 158, "dems": 135},
+        {"name": "Mechanical Engineer", "reps": 184, "dems": 175},
+        {"name": "Aerospace Engineer", "reps": 65, "dems": 67},
+        {"name": "Electrical Engineer", "reps": 364, "dems": 438},
+        {"name": "Nuclear Engineer", "reps": 22, "dems": 27},
+        {"name": "Structural Engineer", "reps": 89, "dems": 126},
+        {"name": "Electronics Engineer", "reps": 52, "dems": 88},
+        {"name": "Environmental Engineer", "reps": 58, "dems": 147},
+        {"name": "Software Engineer", "reps": 2167, "dems": 8096}
+      ]
+    },
+    {
+      "name": "Publishing",
+      "reps": 508,
+      "dems": 1354,
+      "children": [
+        {"name": "Publisher", "reps": 494, "dems": 1251},
+        {"name": "Music Publisher", "reps": 14, "dems": 53},
+        {"name": "Book Publisher", "reps": 0, "dems": 50}
+      ]
+    },
+    {
+      "name": "Legal",
+      "reps": 44520,
+      "dems": 122431,
+      "children": [
+        {"name": "District Attorney", "reps": 72, "dems": 73},
+        {"name": "Corporate Counsel", "reps": 27, "dems": 30},
+        {"name": "Tax Attorney", "reps": 68, "dems": 79},
+        {"name": "Patent Attorney", "reps": 145, "dems": 207},
+        {"name": "General Counsel", "reps": 320, "dems": 527},
+        {"name": "Assistant U.S. Attorney", "reps": 21, "dems": 36},
+        {"name": "Judge", "reps": 313, "dems": 662},
+        {"name": "Deputy General Counsel", "reps": 48, "dems": 121},
+        {"name": "Assistant District Attorney", "reps": 72, "dems": 198},
+        {"name": "Associate Attorney", "reps": 9, "dems": 26},
+        {"name": "Paralegal", "reps": 214, "dems": 869},
+        {"name": "Trial Lawyer", "reps": 34, "dems": 153},
+        {"name": "Law Clerk", "reps": 22, "dems": 104},
+        {"name": "Mediator/Arbitrator", "reps": 62, "dems": 501},
+        {"name": "Staff Attorney", "reps": 6, "dems": 54},
+        {"name": "Assistant Attorney General", "reps": 3, "dems": 42},
+        {"name": "Public Defender", "reps": 4, "dems": 69},
+        {"name": "Immigration Attorney", "reps": 2, "dems": 35}
+      ]
+    },
+    {
+      "name": "IT",
+      "reps": 1815,
+      "dems": 5114,
+      "children": [
+        {"name": "Network Engineer", "reps": 121, "dems": 280},
+        {"name": "Quality Engineer", "reps": 55, "dems": 129},
+        {"name": "System Administrator", "reps": 140, "dems": 348},
+        {"name": "Technical Consultant", "reps": 456, "dems": 1160},
+        {"name": "IT Analyst", "reps": 261, "dems": 674},
+        {"name": "Database Administrator", "reps": 62, "dems": 180},
+        {"name": "IT Manager", "reps": 223, "dems": 691},
+        {"name": "Tech Support", "reps": 23, "dems": 90},
+        {"name": "IT Architect", "reps": 21, "dems": 101},
+        {"name": "Web Developer", "reps": 84, "dems": 466}
+      ]
+    },
+    {
+      "name": "Planning & Arch.",
+      "reps": 1739,
+      "dems": 5214,
+      "children": [
+        {"name": "Transportation Engineer", "reps": 13, "dems": 26},
+        {"name": "Landscape Architect", "reps": 118, "dems": 290},
+        {"name": "Architect", "reps": 1575, "dems": 4470},
+        {"name": "Architectural Designer", "reps": 3, "dems": 36},
+        {"name": "Urban Planner", "reps": 27, "dems": 343},
+        {"name": "Environmental Planner", "reps": 3, "dems": 49}
+      ]
+    },
+    {
+      "name": "Science & Math",
+      "reps": 1891,
+      "dems": 6534,
+      "children": [
+        {"name": "Petroleum Geologist", "reps": 59, "dems": 9},
+        {"name": "Geologist", "reps": 641, "dems": 413},
+        {"name": "Geophysicist", "reps": 98, "dems": 98},
+        {"name": "Meteorologist", "reps": 25, "dems": 42},
+        {"name": "Chemist", "reps": 213, "dems": 497},
+        {"name": "Medical Physicist", "reps": 20, "dems": 51},
+        {"name": "Hydrogeologist", "reps": 14, "dems": 38},
+        {"name": "Toxicologist", "reps": 13, "dems": 39},
+        {"name": "Biochemist", "reps": 32, "dems": 105},
+        {"name": "Hydrologist", "reps": 12, "dems": 57},
+        {"name": "Statistician", "reps": 45, "dems": 225},
+        {"name": "Physicist", "reps": 138, "dems": 715},
+        {"name": "Environmental Scientist", "reps": 19, "dems": 121},
+        {"name": "Scientist", "reps": 418, "dems": 2786},
+        {"name": "Biologist", "reps": 61, "dems": 426},
+        {"name": "Wildlife Biologist", "reps": 5, "dems": 39},
+        {"name": "Biostatistician", "reps": 8, "dems": 65},
+        {"name": "Computer Scientist", "reps": 33, "dems": 270},
+        {"name": "Mathematician", "reps": 14, "dems": 131},
+        {"name": "Ecologist", "reps": 6, "dems": 80},
+        {"name": "Astronomer", "reps": 5, "dems": 67},
+        {"name": "Epidemiologist", "reps": 10, "dems": 183},
+        {"name": "Oceanographer", "reps": 1, "dems": 37},
+        {"name": "Astrophysicist", "reps": 1, "dems": 40}
+      ]
+    },
+    {
+      "name": "Teaching",
+      "reps": 4375,
+      "dems": 16260,
+      "children": [
+        {"name": "Music Teacher", "reps": 50, "dems": 109},
+        {"name": "Piano Teacher", "reps": 42, "dems": 96},
+        {"name": "Preschool Teacher", "reps": 12, "dems": 34},
+        {"name": "Dance Teacher", "reps": 8, "dems": 24},
+        {"name": "Tutor", "reps": 34, "dems": 144},
+        {"name": "Math Teacher", "reps": 8, "dems": 44},
+        {"name": "Special Ed. Teacher", "reps": 13, "dems": 74},
+        {"name": "Elementary Teacher", "reps": 5, "dems": 29},
+        {"name": "Science Teacher", "reps": 6, "dems": 39},
+        {"name": "Art Teacher", "reps": 15, "dems": 101},
+        {"name": "High School Teacher", "reps": 9, "dems": 61},
+        {"name": "Teaching Assistant", "reps": 8, "dems": 70},
+        {"name": "Instructional Designer", "reps": 6, "dems": 60},
+        {"name": "ESL Teacher", "reps": 3, "dems": 38},
+        {"name": "English Teacher", "reps": 2, "dems": 64},
+        {"name": "Health Educator", "reps": 1, "dems": 83}
+      ]
+    },
+    {
+      "name": "Fundraising & Philan.",
+      "reps": 189,
+      "dems": 760,
+      "children": [
+        {"name": "Fundraising Consultant", "reps": 39, "dems": 151},
+        {"name": "Philanthropist", "reps": 138, "dems": 551},
+        {"name": "Volunteer Coordinator", "reps": 12, "dems": 58}
+      ]
+    },
+    {
+      "name": "Fitness",
+      "reps": 107,
+      "dems": 438,
+      "children": [
+        {"name": "Fitness Instructor", "reps": 34, "dems": 49},
+        {"name": "Personal Trainer", "reps": 49, "dems": 98},
+        {"name": "Pilates Instructor", "reps": 7, "dems": 38},
+        {"name": "Yoga Instructor", "reps": 17, "dems": 253}
+      ]
+    },
+    {
+      "name": "Social Science",
+      "reps": 409,
+      "dems": 1686,
+      "children": [
+        {"name": "Economist", "reps": 358, "dems": 1200},
+        {"name": "Linguist", "reps": 9, "dems": 33},
+        {"name": "Historian", "reps": 31, "dems": 225},
+        {"name": "Archaeologist", "reps": 5, "dems": 76},
+        {"name": "Sociologist", "reps": 3, "dems": 71},
+        {"name": "Anthropologist", "reps": 3, "dems": 81}
+      ]
+    },
+    {
+      "name": "Academic Admin.",
+      "reps": 517,
+      "dems": 2494,
+      "children": [
+        {"name": "Athletic Director", "reps": 18, "dems": 20},
+        {"name": "Headmaster", "reps": 16, "dems": 28},
+        {"name": "College President", "reps": 21, "dems": 37},
+        {"name": "School Director", "reps": 14, "dems": 27},
+        {"name": "Director Of Admissions", "reps": 13, "dems": 30},
+        {"name": "Provost", "reps": 15, "dems": 41},
+        {"name": "Assistant Principal", "reps": 24, "dems": 80},
+        {"name": "Registrar", "reps": 10, "dems": 34},
+        {"name": "Superintendent", "reps": 16, "dems": 69},
+        {"name": "Dean", "reps": 105, "dems": 492},
+        {"name": "School Principal", "reps": 14, "dems": 70},
+        {"name": "Faculty Member", "reps": 103, "dems": 776},
+        {"name": "Head Of School", "reps": 9, "dems": 72}
+      ]
+    },
+    {
+      "name": "Media Production",
+      "reps": 138,
+      "dems": 689,
+      "children": [
+        {"name": "Talk Show Host", "reps": 23, "dems": 19},
+        {"name": "Radio Host", "reps": 17, "dems": 26},
+        {"name": "Music Director", "reps": 10, "dems": 32},
+        {"name": "Video Producer", "reps": 34, "dems": 152},
+        {"name": "Videographer", "reps": 12, "dems": 57},
+        {"name": "Audio Engineer", "reps": 5, "dems": 38},
+        {"name": "Art Director", "reps": 23, "dems": 220},
+        {"name": "TV Editor", "reps": 6, "dems": 60},
+        {"name": "Music Producer", "reps": 8, "dems": 85}
+      ]
+    },
+    {
+      "name": "Visual Arts",
+      "reps": 1473,
+      "dems": 7802,
+      "children": [
+        {"name": "Floral Designer", "reps": 13, "dems": 32},
+        {"name": "Jewelry Designer", "reps": 42, "dems": 116},
+        {"name": "Graphic Artist", "reps": 36, "dems": 125},
+        {"name": "Photographer", "reps": 357, "dems": 1361},
+        {"name": "Woodworker", "reps": 11, "dems": 43},
+        {"name": "Fashion Designer", "reps": 18, "dems": 86},
+        {"name": "Sculptor", "reps": 29, "dems": 158},
+        {"name": "Artist", "reps": 795, "dems": 4767},
+        {"name": "Graphic Designer", "reps": 150, "dems": 907},
+        {"name": "Illustrator", "reps": 9, "dems": 66},
+        {"name": "Potter", "reps": 8, "dems": 66},
+        {"name": "Animator", "reps": 2, "dems": 38}
+      ]
+    },
+    {
+      "name": "Research",
+      "reps": 519,
+      "dems": 3061,
+      "children": [
+        {"name": "Lab Technician", "reps": 39, "dems": 61},
+        {"name": "Clinical Research", "reps": 20, "dems": 43},
+        {"name": "Lab Manager", "reps": 20, "dems": 66},
+        {"name": "Research Director", "reps": 61, "dems": 258},
+        {"name": "Researcher", "reps": 376, "dems": 2587},
+        {"name": "Research Administrator", "reps": 3, "dems": 46}
+      ]
+    },
+    {
+      "name": "Performing Arts",
+      "reps": 538,
+      "dems": 3672,
+      "children": [
+        {"name": "Entertainer", "reps": 55, "dems": 146},
+        {"name": "Model", "reps": 21, "dems": 56},
+        {"name": "Songwriter", "reps": 31, "dems": 87},
+        {"name": "Violinist", "reps": 8, "dems": 33},
+        {"name": "Pianist", "reps": 7, "dems": 29},
+        {"name": "Singer", "reps": 22, "dems": 98},
+        {"name": "Comedian", "reps": 7, "dems": 32},
+        {"name": "Singer-songwriter", "reps": 7, "dems": 33},
+        {"name": "Conductor", "reps": 8, "dems": 45},
+        {"name": "Opera Singer", "reps": 7, "dems": 40},
+        {"name": "Musician", "reps": 177, "dems": 1252},
+        {"name": "Actor/Actress", "reps": 175, "dems": 1646},
+        {"name": "Composer", "reps": 13, "dems": 175}
+      ]
+    },
+    {
+      "name": "Writing",
+      "reps": 1370,
+      "dems": 9953,
+      "children": [
+        {"name": "Speechwriter", "reps": 20, "dems": 36},
+        {"name": "Author", "reps": 264, "dems": 702},
+        {"name": "Novelist", "reps": 15, "dems": 68},
+        {"name": "Grant Writer", "reps": 20, "dems": 97},
+        {"name": "Copywriter", "reps": 11, "dems": 75},
+        {"name": "Technical Writer", "reps": 56, "dems": 391},
+        {"name": "Journalist", "reps": 89, "dems": 660},
+        {"name": "Medical Writer", "reps": 6, "dems": 66},
+        {"name": "Screenwriter", "reps": 26, "dems": 323},
+        {"name": "Poet", "reps": 3, "dems": 70},
+        {"name": "Playwright", "reps": 0, "dems": 62}
+      ]
+    },
+    {
+      "name": "Art Management",
+      "reps": 166,
+      "dems": 1379,
+      "children": [
+        {"name": "Art Gallery Owner", "reps": 29, "dems": 134},
+        {"name": "Art Dealer", "reps": 80, "dems": 504},
+        {"name": "Art Consultant", "reps": 18, "dems": 129},
+        {"name": "Museum Director", "reps": 11, "dems": 86},
+        {"name": "Art Advisor", "reps": 6, "dems": 58},
+        {"name": "Museum Curator", "reps": 13, "dems": 205},
+        {"name": "Art Historian", "reps": 4, "dems": 94},
+        {"name": "Arts Administrator", "reps": 5, "dems": 131},
+        {"name": "Art Conservator", "reps": 0, "dems": 38}
+      ]
+    },
+    {
+      "name": "Academia",
+      "reps": 2491,
+      "dems": 22231,
+      "children": [
+        {"name": "Professor Of Economics", "reps": 19, "dems": 67},
+        {"name": "Professor Of Mathematics", "reps": 11, "dems": 63},
+        {"name": "Professor Of Chemistry", "reps": 6, "dems": 46},
+        {"name": "Professor Of Medicine", "reps": 13, "dems": 107},
+        {"name": "Professor Of Physics", "reps": 14, "dems": 130},
+        {"name": "Professor Of Law", "reps": 85, "dems": 967},
+        {"name": "Professor Of History", "reps": 7, "dems": 134},
+        {"name": "Professor Of English", "reps": 5, "dems": 120}
+      ]
+    },
+    {
+      "name": "Mental Health",
+      "reps": 745,
+      "dems": 7095,
+      "children": [
+        {"name": "Guidance Counselor", "reps": 22, "dems": 89},
+        {"name": "Child Psychiatrist", "reps": 8, "dems": 39},
+        {"name": "Neuropsychologist", "reps": 13, "dems": 67},
+        {"name": "School Counselor", "reps": 19, "dems": 104},
+        {"name": "School Psychologist", "reps": 24, "dems": 136},
+        {"name": "Mental Health Counselor", "reps": 11, "dems": 65},
+        {"name": "Psychiatrist", "reps": 135, "dems": 900},
+        {"name": "Marriage/Family Therapist", "reps": 20, "dems": 159},
+        {"name": "Psychologist", "reps": 402, "dems": 3838},
+        {"name": "Psychoanalyst", "reps": 10, "dems": 179},
+        {"name": "Psychotherapist", "reps": 80, "dems": 1434},
+        {"name": "Mental Health Therapist", "reps": 1, "dems": 41},
+        {"name": "Research Psychologist", "reps": 0, "dems": 44}
+      ]
+    },
+    {
+      "name": "Libraries",
+      "reps": 164,
+      "dems": 1729,
+      "children": [
+        {"name": "School Librarian", "reps": 6, "dems": 42},
+        {"name": "Archivist", "reps": 13, "dems": 97},
+        {"name": "Librarian", "reps": 138, "dems": 1483},
+        {"name": "Library Director", "reps": 5, "dems": 65},
+        {"name": "Law Librarian", "reps": 2, "dems": 42}
+      ]
+    },
+    {
+      "name": "Editorial",
+      "reps": 169,
+      "dems": 1890,
+      "children": [
+        {"name": "Technical Editor", "reps": 4, "dems": 36},
+        {"name": "Editor", "reps": 156, "dems": 1635},
+        {"name": "Magazine Editor", "reps": 3, "dems": 51},
+        {"name": "Copy Editor", "reps": 3, "dems": 57},
+        {"name": "Book Editor", "reps": 2, "dems": 57},
+        {"name": "Freelance Editor", "reps": 1, "dems": 54}
+      ]
+    },
+    {
+      "name": "Film & Stage Prod.",
+      "reps": 223,
+      "dems": 2753,
+      "children": [
+        {"name": "Talent Manager", "reps": 5, "dems": 46},
+        {"name": "TV/Film Executive", "reps": 23, "dems": 217},
+        {"name": "Movie Producer", "reps": 50, "dems": 477},
+        {"name": "Filmmaker", "reps": 74, "dems": 816},
+        {"name": "Film Director", "reps": 13, "dems": 144},
+        {"name": "Casting Director", "reps": 4, "dems": 54},
+        {"name": "Talent Agent", "reps": 11, "dems": 149},
+        {"name": "TV Producer", "reps": 32, "dems": 436},
+        {"name": "Film Editor", "reps": 6, "dems": 141},
+        {"name": "Documentary Filmmaker", "reps": 2, "dems": 49},
+        {"name": "Lighting Designer", "reps": 2, "dems": 51},
+        {"name": "TV Director", "reps": 1, "dems": 44},
+        {"name": "Cinematographer", "reps": 0, "dems": 56},
+        {"name": "Costume Designer", "reps": 0, "dems": 37},
+        {"name": "Choreographer", "reps": 0, "dems": 36}
+      ]
+    },
+    {
+      "name": "Social & Environment",
+      "reps": 283,
+      "dems": 3834,
+      "children": [
+        {"name": "Activist", "reps": 45, "dems": 316},
+        {"name": "Environmentalist", "reps": 9, "dems": 90},
+        {"name": "Social Worker", "reps": 218, "dems": 3019},
+        {"name": "Conservationist", "reps": 7, "dems": 106},
+        {"name": "Union Organizer", "reps": 4, "dems": 303}
+      ]
+    }
+  ]
+}
