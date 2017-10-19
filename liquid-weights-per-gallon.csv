@@ -18,7 +18,6 @@ Diethanolamine 85%,8.96
 Diethanolamine 99%,9.05
 Diethylene Glycol,9.29
 Diisopropanolamine 99%,8.33
-Distilled Water,8.33
 Ethylene Glycol -  Antifreeze Grade,9.28
 Ethylene Glycol -  Industrial Grade,9.26
 Gasoline,6.3
@@ -43,7 +42,6 @@ Petroleum,7.35
 Potassium Carbonate,12.47
 Potassium Hydroxide – 45% Liquid,12.1
 Propylene,8.62
-SaltWater,8.59
 Sodium Hydroxide – 25% Liquid,10.69
 Sodium Hydroxide – 50% Liiquid,12.76
 Sodium Hypochlorite 10 – 12%,10
@@ -59,4 +57,6 @@ Triethanolamine 99%,9.35
 Triethylene Glycol,9.34
 Urine,8.345
 Vinegar,8.43
+Water - Distilled,8.33
+Water - SaltWater,8.59
 Xylene,7.238
