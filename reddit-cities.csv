@@ -1,0 +1,178 @@
+city,state,sub,lt,ln,subreddit,topScore,lastTopScore,subscribers
+houston,texas,/r/houston,29.7604267,-95.3698028,/r/houston,30800,4249,68854
+nyc,new york,/r/nyc,40.7127753,-74.0059728,/r/nyc,10900,3915,132099
+Los Angeles,california,/r/LosAngeles,34.0522342,-118.2436849,/r/LosAngeles,43300,3425,101402
+boston,massachusetts,/r/boston,42.3600825,-71.0588801,/r/boston,18800,3379,79565
+Seattle,washington,/r/Seattle,47.6062095,-122.3320708,/r/Seattle,40900,3240,105337
+Portland,oregon,/r/Portland,45.5230622,-122.6764815,/r/Portland,42200,2882,83076
+Portland,maine,/r/Portland,43.661471,-70.2553259,/r/Portland,42200,2872,83076
+Atlanta,georgia,/r/Atlanta,33.7489954,-84.3879824,/r/Atlanta,70200,2850,61398
+chicago,illinois,/r/chicago,41.8781136,-87.6297982,/r/chicago,8990,2261,104237
+san francisco,california,/r/sanfrancisco,37.7749295,-122.4194155,/r/sanfrancisco,16200,1532,75593
+Denver,colorado,/r/Denver,39.7392358,-104.990251,/r/Denver,59000,1453,54496
+philadelphia,pennsylvania,/r/philadelphia,39.9525839,-75.1652215,/r/philadelphia,54300,1374,53835
+sandy,utah,/r/sandy,40.5649781,-111.8389726,/r/sandy,2723,1308,4476
+Austin,texas,/r/Austin,30.267153,-97.7430608,/r/Austin,2366,1198,77357
+Dallas,texas,/r/Dallas,32.7766642,-96.7969879,/r/Dallas,10900,935,44503
+washington dc,,/r/washingtondc,38.9071923,-77.0368707,/r/washingtondc,9188,896,53672
+san diego,california,/r/sandiego,32.715738,-117.1610838,/r/sandiego,46500,838,44239
+pittsburgh,pennsylvania,/r/pittsburgh,40.4406248,-79.9958864,/r/pittsburgh,18500,667,33294
+phoenix,arizona,/r/phoenix,33.4483771,-112.0740373,/r/phoenix,8999,535,26201
+St Louis,missouri,/r/StLouis,38.6270025,-90.1994042,/r/StLouis,69700,506,26231
+Columbus,georgia,/r/Columbus,32.4609764,-84.9877094,/r/Columbus,59900,484,24881
+Columbus,ohio,/r/Columbus,39.9611755,-82.9987942,/r/Columbus,59900,481,24881
+Salt Lake City,utah,/r/SaltLakeCity,40.7607793,-111.8910474,/r/SaltLakeCity,11900,436,19555
+baltimore,maryland,/r/baltimore,39.2903848,-76.6121893,/r/baltimore,6586,425,24600
+kansas city,missouri,/r/kansascity,39.0997265,-94.5785667,/r/kansascity,42200,418,23127
+orlando,florida,/r/orlando,28.5383355,-81.3792365,/r/orlando,1970,396,22716
+nashville,tennessee,/r/nashville,36.1626638,-86.7816016,/r/nashville,16400,385,21283
+Minneapolis,minnesota,/r/Minneapolis,44.977753,-93.2650108,/r/Minneapolis,756,376,24074
+New Orleans,louisiana,/r/NewOrleans,29.9510658,-90.0715323,/r/NewOrleans,6947,365,23001
+Detroit,michigan,/r/Detroit,42.331427,-83.0457538,/r/Detroit,4065,342,22946
+Cleveland,ohio,/r/Cleveland,41.49932,-81.6943605,/r/Cleveland,62100,326,17801
+cincinnati,ohio,/r/cincinnati,39.1031182,-84.5120196,/r/cincinnati,663,321,20001
+Sacramento,california,/r/Sacramento,38.5815719,-121.4943996,/r/Sacramento,5669,301,17272
+san antonio,texas,/r/sanantonio,29.4241219,-98.4936282,/r/sanantonio,1879,288,16864
+Charlotte,,/r/Charlotte,35.2270869,-80.8431267,/r/Charlotte,3154,277,18335
+corpus christi,texas,/r/corpuschristi,27.8005828,-97.396381,/r/tampa,2260,272,19604
+vegas,nevada,/r/vegas,36.1699412,-115.1398296,/r/vegas,42900,259,21197
+raleigh,north carolina,/r/raleigh,35.7795897,-78.6381787,/r/raleigh,1475,259,17563
+Louisville,kentucky,/r/Louisville,38.2526647,-85.7584557,/r/Louisville,63400,253,13911
+indianapolis,indiana,/r/indianapolis,39.768403,-86.158068,/r/indianapolis,1069,232,15092
+milwaukee,wisconsin,/r/milwaukee,43.0389025,-87.9064736,/r/milwaukee,488,225,13696
+Buffalo,new york,/r/Buffalo,42.8864468,-78.8783689,/r/Buffalo,1047,218,11785
+Tucson,arizona,/r/Tucson,32.2217429,-110.926479,/r/Tucson,1222,194,11023
+Omaha,nebraska,/r/Omaha,41.2523634,-95.9979883,/r/Omaha,670,193,10263
+San Jose,california,/r/SanJose,37.3382082,-121.8863286,/r/SanJose,491,192,14865
+Rochester,minnesota,/r/Rochester,44.0121221,-92.4801989,/r/Rochester,430,192,11327
+Rochester,new york,/r/Rochester,43.16103,-77.6109219,/r/Rochester,431,191,11327
+Albuquerque,new mexico,/r/Albuquerque,35.0853336,-106.6055534,/r/Albuquerque,337,178,8615
+grand rapids,michigan,/r/grandrapids,42.9633599,-85.6680863,/r/grandrapids,1423,164,11426
+Birmingham,alabama,/r/Birmingham,33.5206608,-86.80249,/r/Birmingham,22100,159,11316
+oakland,california,/r/oakland,37.8043637,-122.2711137,/r/oakland,469,156,12161
+tulsa,oklahoma,/r/tulsa,36.1539816,-95.992775,/r/tulsa,402,150,7741
+Fort Worth,texas,/r/FortWorth,32.7554883,-97.3307658,/r/FortWorth,396,141,9366
+jacksonville,florida,/r/jacksonville,30.3321838,-81.655651,/r/jacksonville,291,139,7990
+chattanooga,tennessee,/r/chattanooga,35.0456297,-85.3096801,/r/chattanooga,11800,137,8787
+charleston,south carolina,/r/charleston,32.7764749,-79.9310512,/r/charleston,268,133,8515
+Boise,idaho,/r/Boise,43.6187102,-116.2146068,/r/Boise,369,131,6719
+memphis,tennessee,/r/memphis,35.1495343,-90.0489801,/r/memphis,210,130,7898
+Huntsville Alabama,,/r/HuntsvilleAlabama,34.7303688,-86.5861037,/r/HuntsvilleAlabama,753,123,7776
+fort collins,colorado,/r/fortcollins,40.5852602,-105.084423,/r/fortcollins,429,123,7234
+eugene,oregon,/r/Eugene,44.0520691,-123.0867536,/r/Eugene,235,123,8406
+Knoxville,tennessee,/r/Knoxville,35.9606384,-83.9207392,/r/Knoxville,39600,122,7655
+tacoma,washington,/r/Tacoma,47.2528768,-122.4442906,/r/Tacoma,243,118,6991
+asheville,tennessee,/r/asheville,35.5950581,-82.5514869,/r/asheville,189,116,9373
+Colorado Springs,,/r/ColoradoSprings,38.8338816,-104.8213634,/r/ColoradoSprings,337,115,8425
+spokane,washington,/r/spokane,47.6587802,-117.4260465,/r/spokane,292,115,6248
+des moines,iowa,/r/desmoines,41.6005448,-93.6091064,/r/desmoines,9760,107,5272
+reno,nevada,/r/Reno,39.5296329,-119.8138027,/r/Reno,257,105,5534
+albany,new york,/r/albany,42.6525793,-73.7562317,/r/albany,215,104,6276
+lexington,virginia,/r/lexington,38.0405837,-84.5037164,/r/lexington,394,102,6724
+Las Vegas,nevada,/r/LasVegas,36.1699412,-115.1398296,/r/LasVegas,235,83,9681
+long beach,california,/r/longbeach,33.7700504,-118.1937395,/r/longbeach,217,83,5997
+lincoln,nebraska,/r/lincoln,40.8257625,-96.6851982,/r/lincoln,129,81,3995
+pensacola,florida,/r/pensacola,30.421309,-87.2169149,/r/pensacola,732,76,4200
+wichita,kansas,/r/wichita,37.6871761,-97.330053,/r/wichita,122,76,4024
+toledo,ohio,/r/toledo,41.6639383,-83.555212,/r/toledo,180,75,3259
+fresno,california,/r/fresno,36.7468422,-119.7725868,/r/fresno,144,72,3984
+providence,rhode island,/r/providence,41.8239891,-71.4128343,/r/providence,127,72,5197
+El Paso,texas,/r/ElPaso,31.7618778,-106.4850217,/r/ElPaso,145,70,3526
+baton rouge,louisiana,/r/batonrouge,30.4582829,-91.1403196,/r/batonrouge,144,68,5054
+iowa city,iowa,/r/iowacity,41.6611277,-91.5301683,/r/iowacity,2796,66,3790
+lubbock,texas,/r/lubbock,33.5778631,-101.8551665,/r/lubbock,189,64,3565
+olympia,washington,/r/olympia,47.0378741,-122.9006951,/r/olympia,113,64,4128
+savannah,georgia,/r/savannah,32.0835407,-81.0998342,/r/savannah,116,63,4034
+Little Rock,arkansas,/r/LittleRock,34.7464809,-92.2895948,/r/LittleRock,770,59,3235
+Bakersfield,california,/r/Bakersfield,35.3732921,-119.0187125,/r/Bakersfield,171,59,2882
+duluth,minnesota,/r/duluth,46.7866719,-92.1004852,/r/duluth,107,57,2767
+Tallahassee,florida,/r/Tallahassee,30.4382559,-84.2807329,/r/Tallahassee,111,52,4497
+bozeman,montana,/r/bozeman,45.6769979,-111.0429339,/r/bozeman,244,50,2387
+fayetteville,,/r/fayetteville,35.0526641,-78.8783585,/r/fayetteville,143,50,3565
+fort wayne,indiana,/r/fortwayne,41.079273,-85.1393513,/r/fortwayne,119,50,2827
+jersey city,new jersey,/r/jerseycity,40.7281575,-74.0776417,/r/jerseycity,102,48,3969
+missoula,montana,/r/missoula,46.8787176,-113.996586,/r/missoula,83,45,2422
+cedar rapids,iowa,/r/cedarrapids,41.9778795,-91.6656232,/r/cedarrapids,321,43,2357
+roanoke,virginia,/r/roanoke,37.2709704,-79.9414266,/r/roanoke,79,42,2034
+SALEM,oregon,/r/SALEM,42.51954,-70.8967155,/r/SALEM,89,40,2461
+bend,oregon,/r/bend,44.0581728,-121.3153096,/r/bend,13400,39,2675
+sioux falls,south dakota,/r/siouxfalls,43.5445959,-96.7311034,/r/siouxfalls,70,39,2021
+fort lauderdale,florida,/r/fortlauderdale,26.1224386,-80.1373174,/r/fortlauderdale,171,34,3418
+columbia,missouri,/r/columbia,38.9517053,-92.3340724,/r/columbia,75,34,2696
+shreveport,,/r/shreveport,32.5251516,-93.7501789,/r/shreveport,60,34,1872
+arlington,virginia,/r/arlington,35.0484372,-106.6165357,/r/arlington,111,33,2447
+kennewick,washington,/r/kennewick,46.2112458,-119.1372338,/r/TriCitiesWA,92,33,1545
+plano,texas,/r/plano,33.0198431,-96.6988856,/r/plano,61,32,2988
+amarillo,texas,/r/amarillo,35.2219971,-101.8312969,/r/amarillo,56,30,1186
+evansville,indiana,/r/evansville,37.9715592,-87.5710898,/r/evansville,72,29,1466
+everett,washington,/r/everett,47.9789848,-122.2020795,/r/everett,65,29,1385
+Virginia Beach,,/r/VirginiaBeach,36.8529263,-75.977985,/r/VirginiaBeach,79,27,2969
+rockford,illinois,/r/rockford,42.2711311,-89.0939952,/r/rockford,61,27,1284
+Modesto,california,/r/Modesto,37.6390972,-120.9968782,/r/Modesto,95,26,1175
+green bay,wisconsin,/r/greenbay,44.519159,-88.019826,/r/greenbay,54,23,1297
+myrtle beach,south carolina,/r/myrtlebeach,33.6890603,-78.8866943,/r/myrtlebeach,46,22,1568
+tuscaloosa,alabama,/r/tuscaloosa,33.2098407,-87.5691735,/r/tuscaloosa,61,21,1674
+Newark,,/r/Newark,40.6895314,-74.1744624,/r/Newark,36,21,1322
+saintpaul,minnesota,/r/saintpaul,44.9537029,-93.0899578,/r/saintpaul,39,20,1995
+Hartford,connecticut,/r/Hartford,41.7637111,-72.6850932,/r/Hartford,78,19,1961
+ogden,utah,/r/ogden,41.223,-111.9738304,/r/ogden,51,19,1071
+galveston,texas,/r/galveston,29.3013479,-94.7976958,/r/galveston,47,19,1555
+lafayette,,/r/lafayette,30.2240897,-92.0198427,/r/lafayette,40,19,1413
+irvine,california,/r/irvine,33.6845673,-117.8265049,/r/irvine,136,18,1917
+daytona beach,florida,/r/daytonabeach,29.2108147,-81.0228331,/r/daytonabeach,48,17,1018
+naperville,illinois,/r/naperville,41.7508391,-88.1535352,/r/naperville,44,17,1216
+rapid city,south dakota,/r/rapidcity,44.0805434,-103.2310149,/r/rapidcity,40,17,664
+santa fe,new mexico,/r/santafe,35.6869752,-105.937799,/r/santafe,34,17,1432
+pueblo,colorado,/r/pueblo,38.2544472,-104.6091409,/r/pueblo,24,16,611
+medford,oregon,/r/Medford,42.3265152,-122.8755949,/r/Medford,38,15,797
+topeka,kansas,/r/topeka,39.0558235,-95.6890185,/r/topeka,54,14,725
+Fremont,california,/r/Fremont,41.890609,-87.628692,/r/Fremont,46,14,1157
+Scottsdale,arizona,/r/Scottsdale,33.4941704,-111.9260519,/r/Scottsdale,35,14,1716
+las cruces,new mexico,/r/lascruces,32.3199396,-106.7636538,/r/lascruces,41,13,874
+billings,montana,/r/billings,45.7832856,-108.5006904,/r/billings,35,12,799
+greensboro,north carolina,/r/greensboro,36.0726354,-79.7919754,/r/greensboro,12,12,100
+oshkosh,wisconsin,/r/oshkosh,44.0247062,-88.5426136,/r/oshkosh,31,11,452
+montgomery,alabama,/r/montgomery,32.3668052,-86.2999689,/r/montgomery,30,11,772
+laredo,texas,/r/laredo,27.5305671,-99.4803241,/r/laredo,29,11,485
+mobile,alabama,/r/mobile,30.6953657,-88.0398912,/r/mobile,28,11,5010
+abilene,texas,/r/abilene,32.4487364,-99.7331439,/r/abilene,27,11,411
+sioux city,iowa,/r/siouxcity,42.4999942,-96.4003069,/r/siouxcity,23,11,371
+springfield,illinois,/r/springfield,39.7817213,-89.6501481,/r/springfield,20,11,592
+bismarck,north dakota,/r/bismarck,46.8083268,-100.7837392,/r/bismarck,34,10,425
+beaumont,texas,/r/beaumont,30.080174,-94.1265562,/r/beaumont,29,10,600
+helena,montana,/r/helena,46.5883707,-112.0245054,/r/helena,20,10,418
+springfield,missouri,/r/springfield,37.2089572,-93.2922989,/r/springfield,18,10,592
+yakima,washington,/r/yakima,46.6020711,-120.5058987,/r/yakima,39,9,661
+grand junction,colorado,/r/grandjunction,39.0638705,-108.5506486,/r/grandjunction,24,9,540
+grand forks,north dakota,/r/grandforks,47.9252568,-97.0328547,/r/grandforks,21,9,463
+idaho falls,idaho,/r/idahofalls,43.4916514,-112.0339645,/r/idahofalls,13,8,424
+minot,north dakota,/r/minot,48.2329668,-101.2922906,/r/minot,20,7,353
+twin falls,idaho,/r/twinfalls,42.5629668,-114.4608711,/r/twinfalls,14,7,228
+oklahoma city,oklahoma,/r/oklahomacity,35.4675602,-97.5164276,/r/oklahomacity,18,6,668
+brownsville,texas,/r/brownsville,25.9017472,-97.4974838,/r/brownsville,10,6,235
+butte,montana,/r/butte,46.0038232,-112.5347775,/r/butte,11,5,171
+casper,wyoming,/r/casper,42.866632,-106.313081,/r/casper,10,5,182
+Chesapeake,,/r/Chesapeake,36.7160152,-76.2499034,/r/Chesapeake,14,4,381
+tampa,florida,/r/tampa,27.950575,-82.4571776,/r/corpuschristi,10,4,321
+great falls,montana,/r/greatfalls,47.4941836,-111.2833449,/r/greatfalls,10,4,257
+madison,wisconsin,/r/madison,43.0730517,-89.4012302,/r/madison,3,3,305
+st george,utah,/r/stgeorge,37.0965278,-113.5684164,/r/stgeorge,11,2,289
+mcallen,texas,/r/mcallen,26.2034071,-98.2300124,/r/mcallen,10,2,254
+dickinson,north dakota,/r/dickinson,46.8791756,-102.7896242,/r/dickinson,10,2,97
+nampa,idaho,/r/nampa,43.5407172,-116.5634625,/r/nampa,6,2,72
+jackson,wyoming,/r/jackson,43.4799291,-110.7624282,/r/jackson,3,2,9
+branson,missouri,/r/branson,36.6436731,-93.2185144,/r/branson,3,1,46
+st cloud,minnesota,/r/stcloud,45.5579451,-94.1632404,/r/stcloud,1,1,4
+Richmond,,/r/Richmond,37.5407246,-77.4360481,/r/Richmond,11,0,379
+peoria,illinois,/r/peoria,40.6936488,-89.5889864,/r/peoria,8,0,111
+williston,north dakota,/r/williston,48.1469683,-103.6179745,/r/williston,5,0,90
+midland,texas,/r/midland,31.9973456,-102.0779146,/r/midland,4,0,44
+norman,oklahoma,/r/norman,35.2225668,-97.4394777,/r/norman,3,0,60
+Miami,florida,/r/Miami,25.7616798,-80.1917902,,,,
+wast palm beach,florida,/r/wastpalmbeach,26.7153424,-80.0533746,/r/wastpalmbeach,,,
+pana city beach,florida,/r/panacitybeach,30.1765914,-85.8054879,/r/panacitybeach,,,
+odessa,texas,/r/odessa,31.8456816,-102.3676431,,,,
+jackston,mississippi,/r/jackston,32.2987573,-90.1848103,/r/jackston,,,
+provo,utah,/r/provo,40.2338438,-111.6585337,,,,
+pacatello,idaho,/r/pacatello,42.8713032,-112.4455344,/r/pacatello,,,
+miles city,montana,/r/milescity,46.4083362,-105.8405582,/r/milescity,,,
