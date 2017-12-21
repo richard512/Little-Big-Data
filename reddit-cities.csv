@@ -1,4 +1,4 @@
-city,state,sub,lt,ln,subreddit,topScore,lastTopScore,subscribers
+city,state,subreddit,lat,lng,subreddit,AllTimeTopScore,lowestAllTimeTopScore,subscribers
 houston,texas,/r/houston,29.7604267,-95.3698028,/r/houston,30800,4249,68854
 nyc,new york,/r/nyc,40.7127753,-74.0059728,/r/nyc,10900,3915,132099
 Los Angeles,california,/r/LosAngeles,34.0522342,-118.2436849,/r/LosAngeles,43300,3425,101402
