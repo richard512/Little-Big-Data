@@ -1,2 +1,3 @@
 # Little Big Data
-a random collection of interesting data
+
+Data describing topics ranging from Cars and Air Travel to Billionaires and Celebrities
