@@ -1,0 +1,52 @@
+State,BaseFee,MoreFees,TimeFrame,Notes,SeniorDiscount,ElectricFee
+Alabama,23,,Annual,"Additional $50 fee for passenger vehicles over 8,000 lbs. GVW. For most vehicles, ad valorem (property) tax and local issuance fees will also apply.",No,No
+Alaska,100,,Biennial,"In addition, some municipalities and boroughs levy a Motor Vehicle Registration Tax (MVRT). The tax is based on the class, year of the vehicle and the owner's residence address, with a new passenger vehicle and a passenger vehicle that is up to its second year of age having a MVRT tax of $150.00 if the owner resides in Anchorage. ",Yes,No
+Arizona,9.5,,"Annual, with multi-year options",Vehicle owners are able to register for a two-year period and pay only one registration fee ($8) but the vehicle license tax is still charged for both years. Certain vehicles qualify for a fiveyear registration for the price of a standard one-year registration,No,$4 per $100 of assessed value
+Arkansas,20,24 if heavy,Annual,,No,No
+California,46,Up to $175 if fancy,Annual,24 chp fee + 0.65% value first 11 years,No,100 starting 2020
+Colorado,60,2.1% if new,Annual,Age and weight,No,50
+Connecticut,80,,Biennial,,No,38
+Delaware,40,,Annual,,No,No
+District of Columbia,72,155 if heavy,Annual,,No,Discount 36 first time only
+Florida,15,33 if heavy,,225 first time,No,No
+Georgia,20,,Annual,new cars pay more,No,200
+Hawaii,45,85; more if heavy,Annual,,No,No
+Idaho,45,69 if new,Annual,,No,140
+Illinois,101,,Annual,,Yes,Discount 35 if biennial
+Indiana,37,12 to 532,Annual,,No,150; 50 hybrid
+Iowa,70,,Annual,,No,"Discount 25, 15 if old"
+Kansas,30,40 if heavy,Annual,,No,No
+Kentucky,21,,Annual,,No,No
+Louisiana,60,,Biennial,,No,No
+Maine,35,,Annual,,No,No
+Maryland,135,187 if heavy,Biennial,,No,No
+Massachusetts,60,,Biennial,,No,No
+Michigan,60,150 if new,Annual,,No,48; 235 if heavy
+Minnesota,60,,Annual,,No,75
+Mississippi,15,,Annual,,No,No
+Missouri,51,,Annual,,No,75
+Montana,28,217 if new,Annual,,No,No
+Nebraska,15,,Annual,,No,75
+Nevada,33,,Annual,,No,No
+New Hampshire,35,70 if heavy,Annual,,No,No
+New Jersey,34,84 if new or heavy,Annual,,Yes,No
+New Mexico,27,62 if new or heavy,Annual,,No,No
+New York,60,,Biennial,,No,No
+North Carolina,36,,Annual,,No,130
+North Dakota,49,274 if new or heavy,Annual,,No,No
+Ohio,35,,Annual,,No,No
+Oklahoma,55,85 if new,Annual,,No,No
+Oregon,43,,Biennial,,No,110
+Pennsylvania,36,,Annual,,Yes,No
+Rhode Island,35,48 if heavy,Biennial,,No,No
+South Carolina,80,250 if out of state,Biennial,,Yes,120
+South Dakota,72,108 if heavy,Annual,,No,No
+Tennessee,24,,Annual,,No,100
+Texas,51,,Annual,,No,No
+Utah,43,,Annual,,No,No
+Vermont,76,,Annual,,No,No
+Virginia,45,,Annual,,No,64
+Washington,30,60 if new or heavy,Annual,,No,150
+West Virginia,30,,Annual,,No,200; 100 hybrid
+Wisconsin,85,,Annual,,No,100; 75 hybrid
+Wyoming,30,,Annual,,No,50
