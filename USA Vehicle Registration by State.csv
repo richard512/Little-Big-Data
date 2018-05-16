@@ -1,52 +1,52 @@
-state,latitude,longitude,BaseFee,MoreFees,TimeFrame,Notes,SeniorDiscount,ElectricFee
-Alabama,32.318231,-86.902298,23,,Annual,"Additional $50 fee for passenger vehicles over 8,000 lbs. GVW. For most vehicles, ad valorem (property) tax and local issuance fees will also apply.",No,No
-Alaska,64.200841,-149.493673,100,,Biennial,"In addition, some municipalities and boroughs levy a Motor Vehicle Registration Tax (MVRT). The tax is based on the class, year of the vehicle and the owner's residence address, with a new passenger vehicle and a passenger vehicle that is up to its second year of age having a MVRT tax of $150.00 if the owner resides in Anchorage. ",Yes,No
-Arizona,34.048928,-111.093731,9.5,,"Annual, with multi-year options",Vehicle owners are able to register for a two-year period and pay only one registration fee ($8) but the vehicle license tax is still charged for both years. Certain vehicles qualify for a fiveyear registration for the price of a standard one-year registration,No,$4 per $100 of assessed value
-Arkansas,35.20105,-91.831833,20,24 if heavy,Annual,,No,No
-California,36.778261,-119.417932,46,Up to $175 if fancy,Annual,24 chp fee + 0.65% value first 11 years,No,100 starting 2020
-Colorado,39.550051,-105.782067,60,2.1% if new,Annual,Age and weight,No,50
-Connecticut,41.603221,-73.087749,80,,Biennial,,No,38
-Delaware,38.910833,-75.52767,40,,Annual,,No,No
-District of Columbia,38.890418,-77.031961,72,155 if heavy,Annual,,No,Discount 36 first time only
-Florida,27.664827,-81.515754,15,33 if heavy,,225 first time,No,No
-Georgia,32.165622,-82.900075,20,,Annual,new cars pay more,No,200
-Hawaii,19.896766,-155.582782,45,85; more if heavy,Annual,,No,No
-Idaho,44.068202,-114.742041,45,69 if new,Annual,,No,140
-Illinois,40.113978,-89.158773,101,,Annual,,Yes,Discount 35 if biennial
-Indiana,40.267194,-86.134902,37,12 to 532,Annual,,No,150; 50 hybrid
-Iowa,41.878003,-93.097702,70,,Annual,,No,"Discount 25, 15 if old"
-Kansas,39.011902,-98.484246,30,40 if heavy,Annual,,No,No
-Kentucky,37.839333,-84.270018,21,,Annual,,No,No
-Louisiana,30.984298,-91.962333,60,,Biennial,,No,No
-Maine,45.253783,-69.445469,35,,Annual,,No,No
-Maryland,39.045755,-76.641271,135,187 if heavy,Biennial,,No,No
-Massachusetts,42.407211,-71.382437,60,,Biennial,,No,No
-Michigan,44.314844,-85.602364,60,150 if new,Annual,,No,48; 235 if heavy
-Minnesota,46.729553,-94.6859,60,,Annual,,No,75
-Mississippi,32.354668,-89.398528,15,,Annual,,No,No
-Missouri,37.964253,-91.831833,51,,Annual,,No,75
-Montana,46.879682,-110.362566,28,217 if new,Annual,,No,No
-Nebraska,41.492537,-99.901813,15,,Annual,,No,75
-Nevada,38.80261,-116.419389,33,,Annual,,No,No
-New Hampshire,43.61027,-71.582999,35,70 if heavy,Annual,,No,No
-New Jersey,40.058324,-74.405661,34,84 if new or heavy,Annual,,Yes,No
-New Mexico,34.51994,-105.87009,27,62 if new or heavy,Annual,,No,No
-New York,40.712775,-74.005973,60,,Biennial,,No,No
-North Carolina,35.759573,-79.0193,36,,Annual,,No,130
-North Dakota,47.551493,-101.002012,49,274 if new or heavy,Annual,,No,No
-Ohio,40.417287,-82.907123,35,,Annual,,No,No
-Oklahoma,35.007752,-97.092877,55,85 if new,Annual,,No,No
-Oregon,43.804133,-120.554201,43,,Biennial,,No,110
-Pennsylvania,41.203322,-77.194525,36,,Annual,,Yes,No
-Rhode Island,41.580095,-71.477429,35,48 if heavy,Biennial,,No,No
-South Carolina,33.836081,-81.163724,80,250 if out of state,Biennial,,Yes,120
-South Dakota,43.969515,-99.901813,72,108 if heavy,Annual,,No,No
-Tennessee,35.517491,-86.580447,24,,Annual,,No,100
-Texas,31.968599,-99.901813,51,,Annual,,No,No
-Utah,39.32098,-111.093731,43,,Annual,,No,No
-Vermont,44.558803,-72.577841,76,,Annual,,No,No
-Virginia,37.431573,-78.656894,45,,Annual,,No,64
-Washington,47.751074,-120.740138,30,60 if new or heavy,Annual,,No,150
-West Virginia,38.597626,-80.454903,30,,Annual,,No,200; 100 hybrid
-Wisconsin,43.78444,-88.787868,85,,Annual,,No,100; 75 hybrid
-Wyoming,43.075968,-107.290284,30,,Annual,,No,50
+state,latitude,longitude,TheGist,BaseFee,MoreFees,TimeFrame,Notes,SeniorDiscount,ElectricFee
+Maryland,39.045755,-76.641271,Expensive,135,187 if heavy,Biennial,,No,No
+Illinois,40.113978,-89.158773,Expensive,101,,Annual,,Yes,Discount 35 if biennial
+Alaska,64.200841,-149.493673,Expensive,100,,Biennial,"In addition, some municipalities and boroughs levy a Motor Vehicle Registration Tax (MVRT). The tax is based on the class, year of the vehicle and the owner's residence address, with a new passenger vehicle and a passenger vehicle that is up to its second year of age having a MVRT tax of $150.00 if the owner resides in Anchorage. ",Yes,No
+Wisconsin,43.78444,-88.787868,Expensive,85,,Annual,,No,100; 75 hybrid
+Connecticut,41.603221,-73.087749,Expensive,80,,Biennial,,No,38
+South Carolina,33.836081,-81.163724,Expensive,80,250 if out of state,Biennial,,Yes,120
+Vermont,44.558803,-72.577841,Expensive,76,,Annual,,No,No
+District of Columbia,38.890418,-77.031961,Expensive,72,155 if heavy,Annual,,No,Discount 36 first time only
+South Dakota,43.969515,-99.901813,Expensive,72,108 if heavy,Annual,,No,No
+Iowa,41.878003,-93.097702,Expensive,70,,Annual,,No,"Discount 25, 15 if old"
+Colorado,39.550051,-105.782067,Mid-range,60,2.1% if new,Annual,Age and weight,No,50
+Louisiana,30.984298,-91.962333,Mid-range,60,,Biennial,,No,No
+Massachusetts,42.407211,-71.382437,Mid-range,60,,Biennial,,No,No
+Michigan,44.314844,-85.602364,Mid-range,60,150 if new,Annual,,No,48; 235 if heavy
+Minnesota,46.729553,-94.6859,Mid-range,60,,Annual,,No,75
+New York,40.712775,-74.005973,Mid-range,60,,Biennial,,No,No
+Oklahoma,35.007752,-97.092877,Mid-range,55,85 if new,Annual,,No,No
+Missouri,37.964253,-91.831833,Mid-range,51,,Annual,,No,75
+Texas,31.968599,-99.901813,Mid-range,51,,Annual,,No,No
+North Dakota,47.551493,-101.002012,Mid-range,49,274 if new or heavy,Annual,,No,No
+California,36.778261,-119.417932,Mid-range,46,Up to $175 if fancy,Annual,24 chp fee + 0.65% value first 11 years,No,100 starting 2020
+Hawaii,19.896766,-155.582782,Mid-range,45,85; more if heavy,Annual,,No,No
+Idaho,44.068202,-114.742041,Mid-range,45,69 if new,Annual,,No,140
+Virginia,37.431573,-78.656894,Mid-range,45,,Annual,,No,64
+Oregon,43.804133,-120.554201,Cheap,43,,Biennial,,No,110
+Utah,39.32098,-111.093731,Cheap,43,,Annual,,No,No
+Delaware,38.910833,-75.52767,Cheap,40,,Annual,,No,No
+Indiana,40.267194,-86.134902,Cheap,37,12 to 532,Annual,,No,150; 50 hybrid
+North Carolina,35.759573,-79.0193,Cheap,36,,Annual,,No,130
+Pennsylvania,41.203322,-77.194525,Cheap,36,,Annual,,Yes,No
+Maine,45.253783,-69.445469,Cheap,35,,Annual,,No,No
+New Hampshire,43.61027,-71.582999,Cheap,35,70 if heavy,Annual,,No,No
+Ohio,40.417287,-82.907123,Cheap,35,,Annual,,No,No
+Rhode Island,41.580095,-71.477429,Cheap,35,48 if heavy,Biennial,,No,No
+New Jersey,40.058324,-74.405661,Cheap,34,84 if new or heavy,Annual,,Yes,No
+Nevada,38.80261,-116.419389,Cheap,33,,Annual,,No,No
+Kansas,39.011902,-98.484246,Cheap,30,40 if heavy,Annual,,No,No
+Washington,47.751074,-120.740138,Cheap,30,60 if new or heavy,Annual,,No,150
+West Virginia,38.597626,-80.454903,Cheap,30,,Annual,,No,200; 100 hybrid
+Wyoming,43.075968,-107.290284,Cheap,30,,Annual,,No,50
+Montana,46.879682,-110.362566,Very cheap,28,217 if new,Annual,,No,No
+New Mexico,34.51994,-105.87009,Very cheap,27,62 if new or heavy,Annual,,No,No
+Tennessee,35.517491,-86.580447,Very cheap,24,,Annual,,No,100
+Alabama,32.318231,-86.902298,Very cheap,23,,Annual,"Additional $50 fee for passenger vehicles over 8,000 lbs. GVW. For most vehicles, ad valorem (property) tax and local issuance fees will also apply.",No,No
+Kentucky,37.839333,-84.270018,Very cheap,21,,Annual,,No,No
+Arkansas,35.20105,-91.831833,Very cheap,20,24 if heavy,Annual,,No,No
+Georgia,32.165622,-82.900075,Very cheap,20,,Annual,new cars pay more,No,200
+Florida,27.664827,-81.515754,Very cheap,15,33 if heavy,,225 first time,No,No
+Mississippi,32.354668,-89.398528,Very cheap,15,,Annual,,No,No
+Nebraska,41.492537,-99.901813,Very cheap,15,,Annual,,No,75
+Arizona,34.048928,-111.093731,Very cheap,9.5,,"Annual, with multi-year options",Vehicle owners are able to register for a two-year period and pay only one registration fee ($8) but the vehicle license tax is still charged for both years. Certain vehicles qualify for a fiveyear registration for the price of a standard one-year registration,No,$4 per $100 of assessed value
