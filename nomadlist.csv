@@ -1,0 +1,961 @@
+nomadscore,cost,internet,fun,safety,city,country
+48,20,80,43.6364,42.0435,Samara,Russia
+50,50,40,40,86.575,Shaoxing,China
+50,50,40,46.6667,49.9773,Ibadan,Nigeria
+50,50,60,60,56.2143,Tamarindo,Costa Rica
+50,50,80,58.1818,91.25,Hof,Germany
+50,50,80,65,90.725,Arrecife Lanzarote,Spain
+50,50,60,80,78.4545,Paphos,Cyprus
+50,50,80,54.4444,88.7857,Palermo,Italy
+50,50,60,61.8182,88.15,Patras,Greece
+50,50,80,60,90,Palermo Sicily,Italy
+50,50,80,60,94.975,Naha Okinawa,Japan
+50,50,80,80,96.25,Nuremberg,Germany
+50,50,60,60,71,Beersheba,Israel
+50,50,20,20,40,Lubumbashi,DR Congo
+50,50,60,40,68.7609,Dammam,Saudi Arabia
+50,50,80,60,91.25,Erlangen,Germany
+50,50,80,50,77.2727,"Chattanooga, TN",United States
+50,50,80,60,80,"Bloomington, IN",United States
+50,50,80,70.8333,95.4,Cologne,Germany
+50,50,20,40,36.825,Port Moresby,Papua New Guinea
+50,50,80,82.5532,90.6098,Berlin,Germany
+50,50,80,61.8182,87.8333,Amalfi,Italy
+50,50,80,60,89.15,Huddersfield,United Kingdom
+50,50,80,80,77.5,"Albuquerque, NM",United States
+50,50,80,64.7619,79.2857,"Dallas, TX",United States
+50,50,60,50,80,"Boise, ID",United States
+50,50,80,60,76.6667,"Syracuse, NY",United States
+50,50,80,58.1818,80,"Beacon, NY",United States
+50,50,80,63.6364,70,"Reno, NV",United States
+50,50,80,66.6667,98.0682,Vienna,Austria
+50,50,80,58.6667,80,"San Antonio, TX",United States
+50,50,80,61.6667,96.4286,Bremen,Germany
+50,50,80,80,90.6304,Alicante,Spain
+50,50,80,51.1111,70.7143,"Richmond, VA",United States
+50,50,40,60,40.475,Port-au-Prince,Haiti
+50,50,80,76.3636,71.6667,"Jacksonville, FL",United States
+50,50,80,66.1538,86.1136,Granada,Spain
+50,50,80,45.4545,79.1667,"Memphis, TN",United States
+50,50,80,60,70,"Rochester, NY",United States
+50,50,80,54.2857,79.0909,"Ann Arbor, MI",United States
+50,50,40,81.8182,65.1538,Accra,Ghana
+50,50,80,85.7143,87.1,Kitchener,Canada
+50,50,80,40,96.575,Adelaide,Australia
+50,40,40,40,50,Cayenne,French Guiana
+50,50,60,100,94.975,Okinawa Okinawa,Japan
+50,50,20,40,60,Hamhung,North Korea
+50,50,60,40,47.975,Port Harcourt,Nigeria
+50,50,20,40,100,Stanley,Falkland Islands
+50,50,80,61.6667,66.6667,Gibraltar,Gibraltar
+50,50,100,75.2381,97.22,Singapore,Singapore
+50.0165,70,60,52,34.9167,Santa Marta,Colombia
+50.0499,80,40,63.0769,64.5435,Thiruvananthapuram,India
+50.0608,70,40,60,69,Tangier,Morocco
+50.0756,70,80,67.1429,85.925,Katowice,Poland
+50.0849,60,60,60,94.15,Hull,United Kingdom
+50.1354,80,80,60,73.2,Mui Ne,Vietnam
+50.175,40,80,77.3684,50.175,Moscow,Russia
+50.1859,80,80,46.1538,42.6538,Aguascalientes,Mexico
+50.1968,70,100,96.6667,75.6429,Constanta,Romania
+50.2278,60,40,93.8462,61.6591,Makati,Philippines
+50.3257,30,40,60,70,Road Town,British Virgin Islands
+50.3436,70,40,80,79.375,Seminyak Bali,Indonesia
+50.4664,40,60,80,74.5714,Nicosia,Cyprus
+50.4815,100,40,34.2857,50.4815,Damascus,Syria
+50.5153,70,40,80,86.575,Haikou,China
+50.541,70,60,40,70,Banja Luka,Bosnia
+50.6179,70,80,63.6364,91.1667,Tarifa,Spain
+50.6443,50,40,78.1818,86.575,Nanjing,China
+50.7842,40,80,83.3333,92.6,Queenstown,New Zealand
+50.8238,70,80,63.6364,76.025,Chamonix,France
+50.8673,70,80,58.3333,91.1905,Hagen,Germany
+50.8844,70,60,60,71.875,Siem Reap,Cambodia
+50.9271,60,80,80,30.7273,Port of Spain,Trinidad and Tobago
+50.9341,40,60,76.3636,89.225,Genoa,Italy
+50.9699,50,80,60,91.25,Darmstadt,Germany
+51.011,70,60,60,40.4,Salento,Colombia
+51.06,50,80,66.6667,92.875,Innsbruck,Austria
+51.0623,80,40,45.4545,67.8333,Jaipur,India
+51.0988,50,80,66.1538,91.25,Heidelberg,Germany
+51.1556,20,80,80,89.15,Southampton,United Kingdom
+51.1765,70,60,41.6667,81.3636,Bandar Seri Begawan,Brunei
+51.2791,50,80,60,96.4286,Bielefeld,Germany
+51.3319,80,20,60,71.725,Varanasi,India
+51.3824,70,60,60,66.7045,Phnom Penh,Cambodia
+51.4399,50,80,53.3333,85.1364,Belfast,United Kingdom
+51.45,70,80,100,51.45,Cancun,Mexico
+51.4617,50,60,68.5714,88.2,Split,Croatia
+51.4998,30,80,98.1818,89.7381,Venice,Italy
+51.6552,80,60,56.9231,72.0714,Konya,Turkey
+51.7103,30,80,60,80,"Monterey, CA",United States
+51.7601,60,80,60,90.725,Pamplona,Spain
+51.7849,70,60,63.6364,33.025,Salvador,Brazil
+51.8339,80,80,43.3333,64.94,Ivano-Frankivsk,Ukraine
+51.8665,80,60,60,56.825,General Santos,Philippines
+51.8696,70,60,46.1538,75.625,Astana,Kazakhstan
+51.959,70,80,66.1538,94.0227,Lublin,Poland
+51.9838,30,60,40,70,George Town,Cayman Islands
+51.9885,50,80,66.6667,76.025,Annecy,France
+52.0359,70,80,40,87.1,St. Catharines,Canada
+52.0701,40,100,60,76.025,Avignon,France
+52.2332,40,60,60,96.575,Perth,Australia
+52.3311,70,80,40,87.1,Chatham,Canada
+52.3342,50,80,72.8571,65.5556,"Atlanta, GA",United States
+52.3886,70,40,63.6364,32.9524,Port Elizabeth,South Africa
+52.4306,50,80,60,94.15,Portsmouth,United Kingdom
+52.5106,80,60,60,79.375,Cirebon,Indonesia
+52.6217,30,80,100,100,Monaco,Monaco
+52.6963,80,80,48.5714,60.9792,Kharkiv,Ukraine
+52.8214,70,40,41.8182,52.8214,Islamabad,Pakistan
+52.8921,70,60,64,71.7857,Almaty,Kazakhstan
+52.9263,70,80,55,63.0238,Odesa,Ukraine
+52.975,70,40,40,52.975,Benin City,Nigeria
+52.9931,70,80,80,47.4762,Krasnoyarsk,Russia
+53.0491,70,60,100,32.2955,Recife,Brazil
+53.1306,70,40,65,63.5952,Ulaanbaatar,Mongolia
+53.1314,50,80,60,92.875,Graz,Austria
+53.133,70,60,80,70.025,Kandy,Sri Lanka
+53.2045,50,80,60.3636,80,"Des Moines, IA",United States
+53.2301,70,60,56.25,90.8333,Brno,Czechia
+53.2371,40,80,46.6667,44.4091,Kaliningrad,Russia
+53.2923,50,100,47.1429,80,"Provo, UT",United States
+53.3008,70,80,68,47.5652,Monterrey,Mexico
+53.3397,30,60,60,71.4286,Saint Helier,Jersey
+53.3544,30,80,60,80,"San Mateo, CA",United States
+53.3731,40,80,81.5385,93.2609,Stuttgart,Germany
+53.4049,50,60,61.4286,93.5323,Osaka,Japan
+53.4104,70,40,93.3333,34.06,Kingston,Jamaica
+53.4181,70,80,81.8182,53.56,Puerto Vallarta,Mexico
+53.4383,50,80,23.3333,87.625,Jyvaskyla,Finland
+53.4508,70,80,61.8182,50.8636,San Miguel de Allende,Mexico
+53.5013,70,80,80,60,Kralendijk,Bonaire
+53.5036,70,20,46.9231,48.98,Khartoum,Sudan
+53.5626,70,40,43.6364,50.9524,Tripoli,Libya
+53.6442,50,80,60,89.6667,Norwich,United Kingdom
+53.6761,30,60,56.3636,80,"Menlo Park, CA",United States
+53.775,70,20,80,53.775,Douala,Cameroon
+53.7786,60,80,60,87.1,Saskatoon,Canada
+53.8095,30,80,80,53.8095,Nassau,The Bahamas
+53.8095,80,40,41.8182,53.8095,Lusaka,Zambia
+53.8354,70,100,48,73.7381,Craiova,Romania
+53.8773,80,60,61.8182,63.8409,Kollam,India
+53.913,80,40,53.913,60.8333,Bishkek,Kyrgyzstan
+54.0553,80,60,65,77.325,Kuching,Malaysia
+54.1042,40,80,65,76.025,Montpellier,France
+54.1516,70,60,38.3333,86.4286,Osijek,Croatia
+54.1516,60,80,74.5455,96.4545,Christchurch,New Zealand
+54.3917,50,80,60,80,"Fargo, ND",United States
+54.4803,30,80,66.6667,89.0909,"Santa Monica, CA",United States
+54.5455,40,80,54.5455,70,"Orlando, FL",United States
+54.5751,40,60,60,40,Philipsburg Sint Maarten,Sint Maarten
+54.6271,30,20,58.1818,66.6364,Kigali,Rwanda
+54.6908,70,60,64.2857,66.6481,Mumbai,India
+54.8,70,40,45.4545,54.8,Dar es Salaam,Tanzania
+54.8998,70,80,81.7391,48.4545,Playa del Carmen,Mexico
+54.9814,70,60,76.6667,71.1667,Casablanca,Morocco
+54.9892,70,80,64,76.3864,Nantes,France
+55.0273,20,80,80,96.25,Trondheim,Norway
+55.0576,50,80,70.6667,53.975,San Juan,Puerto Rico
+55.1011,40,80,60,94.15,Bournemouth,United Kingdom
+55.1679,70,80,66.1538,86.5952,Poznan,Poland
+55.2153,70,80,78.1818,77.2727,"Tulsa, OK",United States
+55.2953,70,80,61.5385,74.04,Minsk,Belarus
+55.3062,40,80,60,89.15,Cheltenham,United Kingdom
+55.4305,20,80,88,95.4,Munich,Germany
+55.5214,30,80,74.5455,80,"Mountain View, CA",United States
+55.6146,20,100,41.8182,96.075,Deventer,Netherlands
+55.6768,40,80,60,96.25,Hannover,Germany
+55.69,20,80,70,88.8913,Milan,Italy
+55.7436,70,20,60,44.35,Abidjan,Ivory Coast
+55.8027,80,80,80,74,Nha Trang,Vietnam
+55.8454,70,80,60,39.381,Saratov,Russia
+55.8485,30,100,61.8182,77.425,Bruges,Belgium
+55.8835,80,60,52.7778,68.375,Bangalore,India
+55.8889,70,40,71.4286,55.8889,Lahore,Pakistan
+56.0187,70,40,45.4545,86.575,Xiamen,China
+56.0451,70,80,60,86.7381,Tianjin,China
+56.0529,70,60,70,88.8261,Thessaloniki,Greece
+56.0902,40,80,60,80.9091,"Colorado Springs, CO",United States
+56.1508,70,80,80,68,Chiang Rai,Thailand
+56.1531,60,80,43.6364,82.1,Fredericton,Canada
+56.2378,80,60,80,68.4,Fes,Morocco
+56.3062,30,100,100,80,Kauai Hawaii,United States
+56.3124,20,80,80,92.3077,Sliema,Malta
+56.359,40,100,40,96.075,Arnhem,Netherlands
+56.3621,60,60,61.6667,83.1346,Beijing,China
+56.3636,80,80,56.3636,67.0476,Krabi,Thailand
+56.394,20,80,64.2857,61.5789,"Chicago, IL",United States
+56.4281,40,80,80,89.225,Modena,Italy
+56.446,70,60,60,71.725,Visakhapatnam,India
+56.4483,70,40,45,87.2143,Jiaxing,China
+56.5532,70,20,60,59.475,Dushanbe,Tajikistan
+56.5851,100,40,43.6364,67.8333,Vasai,India
+56.6449,30,80,60,80,Ajaccio Corsica,France
+56.6667,70,40,56.6667,66.725,Bhubaneswar,India
+56.6667,70,20,56.6667,61.1,Algiers,Algeria
+56.6667,20,80,56.6667,89.225,Como,Italy
+56.676,70,80,60,83.8636,Nis,Serbia
+56.7281,40,100,60,96.075,Leeuwarden,Netherlands
+56.7343,80,60,66.6667,68.6739,Coimbatore,India
+56.8058,30,100,60,96.075,Lelystad,Netherlands
+56.906,30,100,80,80,"Lake Tahoe, CA",United States
+56.9091,20,100,55,66.1111,"Houston, TX",United States
+56.9619,70,80,61.5385,82.4762,Quebec City,Canada
+57.094,70,60,100,74.375,El Gouna,Egypt
+57.25,100,20,45,57.25,Banjul,Gambia
+57.275,80,20,40,57.275,Lom�,Togo
+57.2883,70,60,60,48.1667,Jarabacoa,Dominican Republic
+57.3007,50,80,80,90,"Oxnard, CA",United States
+57.3504,70,60,58.75,75,Skopje,Macedonia
+57.3761,50,60,78.3333,71.6957,Doha,Qatar
+57.4413,70,60,80,71.1667,Amritsar,India
+57.4553,40,80,72.3077,92.5238,Luton,United Kingdom
+57.475,70,20,20,57.475,Freetown,Sierra Leone
+57.4841,60,80,64.6154,90.6905,A Coruna,Spain
+57.5144,60,60,80.9091,86.1667,Manama,Bahrain
+57.5276,40,80,60,80,"Bedford, OH",United States
+57.6193,30,80,83.0769,91.1364,Oslo,Norway
+57.6471,70,80,57.6471,92.4545,Braga,Portugal
+57.7857,80,80,40,57.7857,Krivoy-Rog,Ukraine
+57.8143,40,60,80,90,Hilo Hawaii,United States
+57.825,70,40,31.6667,57.825,Vientiane,Laos
+57.8477,70,60,100,69.9091,Marrakesh,Morocco
+57.9184,70,20,81.8182,68.1429,Khulna,Bangladesh
+57.9736,50,80,66.1538,86.5682,Bilbao,Spain
+57.9941,70,60,65,27.12,Cali,Colombia
+58.1709,40,80,74.5455,90,"Riverside, CA",United States
+58.1818,40,80,58.1818,89.225,Monza,Italy
+58.1818,80,40,58.1818,81.575,Zhengzhou,China
+58.23,70,40,60,26.0217,San Salvador,El Salvador
+58.3325,70,40,67.6923,53.6154,Nairobi,Kenya
+58.3341,70,80,91.4286,81.2115,Bansko,Bulgaria
+58.3551,70,60,74.8387,71.5635,Istanbul,Turkey
+58.3667,70,60,60,56.7727,Rosario,Argentina
+58.3667,20,80,90.6667,96.4286,Hamburg,Germany
+58.4351,30,80,57.3333,70,"Charleston, SC",United States
+58.4467,20,80,80,70.9545,Haifa,Israel
+58.4522,80,60,100,43.56,Tijuana,Mexico
+58.5042,70,60,60,39.0714,Brasilia,Brazil
+58.5446,20,100,81.8182,96.075,The Hague,Netherlands
+58.5602,40,80,80,94.15,Liverpool,United Kingdom
+58.5714,70,80,58.5714,75.1522,Iasi,Romania
+58.5928,80,40,95,70.0968,Kathmandu,Nepal
+58.6107,20,80,60,70,"Salem, MA",United States
+58.641,50,100,63.6364,77.425,Leuven,Belgium
+58.8333,40,80,70,58.8333,Panama City,Panama
+58.8593,70,60,58.1818,73.4,El Jadida,Morocco
+58.9098,70,60,45.4545,37.1667,Joao Pessoa,Brazil
+58.9474,80,40,58.9474,66.9107,Shiraz,Iran
+58.9961,40,80,83.3333,95.725,Marbella,Spain
+59.0372,80,40,60,86.575,Shantou,China
+59.0543,30,80,76.3636,97.3095,Aarhus,Denmark
+59.146,70,80,71.25,88.6167,Wroc%u0142aw,Poland
+59.1507,40,100,80,80,"Boulder, CO",United States
+59.1678,70,60,91.6667,40.8519,Cartagena,Colombia
+59.2284,40,80,53.75,96.25,Dusseldorf,Germany
+59.2323,20,80,86.6667,78.1818,"Nashville, TN",United States
+59.369,70,60,60,66.175,Alanya,Turkey
+59.4498,50,80,74.7368,95.9286,Seville,Spain
+59.4793,30,80,65.5556,94.4167,Dublin,Ireland
+59.6122,30,80,40,91.575,Darwin,Australia
+59.6705,20,80,60,89.15,York,United Kingdom
+59.707,70,60,80,57.6538,Lima,Peru
+59.7311,70,80,83.0769,62.4565,Cebu,Philippines
+59.7964,60,20,40,50.2143,Conakry,Guinea
+59.8422,50,80,40,91.575,Cairns,Australia
+59.9044,70,60,94.2857,75.3148,Antalya,Turkey
+59.9494,40,80,60,80,"Ithaca, NY",United States
+59.9541,20,80,58.3333,91.075,Nijmegen,Netherlands
+60,40,60,80,62.119,Bhopal,India
+60,40,40,60,66.725,Kalyan,India
+60,30,60,80,88.15,Santorini,Greece
+60,70,40,60,61.725,Rajkot,India
+60,70,40,60,62.5952,Kannur,India
+60,70,60,60,67.6905,Mecca,Saudi Arabia
+60,70,60,40,86.575,Yiwu,China
+60,70,60,80,67.3571,Surat,India
+60,80,40,60,66.3478,Chittagong,Bangladesh
+60,70,60,63.6364,63.0714,Kozhikode,India
+60,80,40,60,66.725,Gwalior,India
+60,70,60,100,66.2826,Goa,India
+60,70,60,40,61.725,Vijayawada,India
+60,40,20,60,40,Victoria,Seychelles
+60,70,60,44.6154,75.119,Gili Air,Indonesia
+60,80,60,48.3333,66.725,McLeod Ganj,India
+60,70,40,60,66.725,Lucknow,India
+60,80,60,40,74.375,Mataram Lombok,Indonesia
+60,70,60,61.5385,67.1087,Bursa,Turkey
+60,70,60,80,66.725,Indore,India
+60,60,80,40,44.619,Ufa,Russia
+60,80,60,32.3077,61.0577,Dahab,Egypt
+60,80,60,40,86.575,Zhangjiagang,China
+60,70,60,54.2857,68.413,Bodrum,Turkey
+60,80,60,76.3636,67.8333,Vadodara,India
+60,80,60,29.1892,83.4677,Denpasar Bali,Indonesia
+60,80,60,60,66.725,Ludhiana,India
+60,40,60,61.8182,88.15,Chania Crete,Greece
+60,80,60,53.3333,64.2955,Hyderabad,India
+60,70,60,65,67.3788,Adana,Turkey
+60,70,60,32.3077,59.413,Boracay,Philippines
+60,70,60,40,74.375,Sengigi Lombok,Indonesia
+60,70,80,60,64.4545,Hua Hin,Thailand
+60,60,60,40,47.975,Abuja,Nigeria
+60,100,60,41.8182,63.3864,Kochi,India
+60,70,60,40,81.575,Xuzhou,China
+60,40,60,80,83.9524,Rhodes,Greece
+60,60,80,61.6667,45.3182,Yekaterinburg,Russia
+60,80,60,60,61.725,Madurai,India
+60,70,40,60,40.75,Georgetown,Guyana
+60,80,20,60,67.3261,Tashkent,Uzbekistan
+60,70,60,60,66.725,Guwahati,India
+60,80,40,60,66.725,Aurangabad,India
+60,60,20,60,80,Apia,Samoa
+60,80,80,60,36.45,Torreon,Mexico
+60,40,60,60,90.75,Dubrovnik,Croatia
+60,60,60,40,35.65,Belize City,Belize
+60,70,80,60,86.575,Zhoukou,China
+60,60,60,80,50.0238,Puerto Viejo,Costa Rica
+60,70,60,60,67.325,Ipoh,Malaysia
+60,60,40,40,86.575,Putian,China
+60,80,40,60,65.6042,Mysore,India
+60,80,40,60,67.3571,Nasik,India
+60,80,60,35.7143,75.119,Kuta Bali,Indonesia
+60,70,60,60,86.575,Taiyuan,China
+60,70,60,45.4545,37.1042,Goiania,Brazil
+60,40,80,60,64.125,Punta del Este,Uruguay
+60,80,40,60,66.725,Jamshedpur,India
+60,70,60,61.8182,62.8043,Delhi,India
+60,70,60,80,57.6818,Mar del Plata,Argentina
+60,70,60,70,77.9259,Tbilisi,Georgia
+60,80,60,60,61.725,Noida,India
+60,60,60,60,50,Basse-Terre,Guadeloupe
+60,80,60,54.2857,65.7222,Chennai,India
+60,60,40,60,32.1,Durban,South Africa
+60,60,80,56.9231,74.0682,Budva,Montenegro
+60,70,60,41.8182,56.7727,Mendoza,Argentina
+60,70,60,100,35.65,San Pedro,Belize
+60,40,80,60,89.225,Lucca,Italy
+60,70,60,91.6667,66.725,Gurgaon,India
+60,70,60,80,62.825,Luang Prabang,Laos
+60,70,20,60,55.1591,Harare,Zimbabwe
+60,70,60,61.0526,91.7308,Zagreb,Croatia
+60,60,80,60,64.65,Klaipeda,Lithuania
+60,100,40,60,66.7045,Giza,Egypt
+60,80,60,80,77.4524,Kota Kinabalu,Malaysia
+60,60,80,45.4545,90,Nuku'alofa,Tonga
+60,80,60,40,86.575,Guiyang,China
+60,80,60,65,69.1087,Pune,India
+60,80,60,80,62,Thane,India
+60,70,60,60,43.5909,Mexicali,Mexico
+60,70,60,49.2308,68.2679,Riyadh,Saudi Arabia
+60,80,60,40,86.575,Weifang,China
+60,70,20,60,80,Pristina,Kosovo
+60,70,80,60,74.0682,Podgorica,Montenegro
+60,60,80,60,93.8571,Gwangju,South Korea
+60,60,60,80,35.65,Caye Caulker,Belize
+60,70,60,40,86.575,Zhuhai,China
+60,70,60,20,43.35,Izhevsk,Russia
+60,70,60,65.4545,79.3548,Yerevan,Armenia
+60,60,80,60,94.975,Kitakyushu,Japan
+60,80,60,61.8182,51.8571,Oaxaca,Mexico
+60,70,60,40,86.575,Wuxi,China
+60,40,80,60,89.225,Rimini,Italy
+60,80,60,20,47.875,Asmara,Eritrea
+60,60,80,81.8182,94.975,Fukuoka,Japan
+60,60,80,96.6667,94.975,Kyoto,Japan
+60,20,80,20,60,"Baton Rouge, LA",United States
+60,80,60,40,86.575,Yinchuan,China
+60,70,60,40,86.575,Harbin,China
+60,60,60,63.6364,73.8913,Bar,Montenegro
+60,60,40,65,32.3636,Johannesburg,South Africa
+60,60,20,40,42.625,Bamako,Mali
+60,70,60,40,80,Ramallah,Palestine
+60,20,80,60,43.25,Bridgetown,Barbados
+60,70,60,63.3333,69,Agadir,Morocco
+60,70,80,60,66.9,Ao Nang,Thailand
+60,70,60,83.3333,81.7857,Canggu Bali,Indonesia
+60,80,60,60,30.4,Pasto,Colombia
+60,70,60,60,44.0455,Puebla,Mexico
+60,70,60,60,81.575,Dalian,China
+60,70,40,60,86.575,Suzhou,China
+60,60,80,0,71.1364,La Serena,Chile
+60,60,60,48.75,71.9815,Ankara,Turkey
+60,20,60,0,84.225,Ferrara,Italy
+60,60,80,94.5455,92.0952,Aveiro,Portugal
+60,60,60,60,91.7,Portim�o,Portugal
+60,70,60,40,86.575,Qinhuangdao,China
+60,80,80,60,63.2381,Ko Chang,Thailand
+60,70,60,40,86.575,Qiqihar,China
+60,70,60,63.3333,68.4773,Malacca,Malaysia
+60,70,80,60,66.9,Ko Lipe,Thailand
+60,30,60,61.8182,75.119,Pekanbaru Sumatra,Indonesia
+60,80,60,40,86.575,Zhangzhou,China
+60,70,60,40,33.8333,Uberlandia,Brazil
+60,30,40,60,86.575,Taizhou,China
+60,70,60,40,33.025,An�polis,Brazil
+60,60,40,40,86.575,Changshu,China
+60,70,60,40,86.575,Jiamusi,China
+60,70,60,60,86.575,Cixi,China
+60,70,80,60,33.025,Itapema,Brazil
+60,80,60,60,74.375,Palembang Sumatra,Indonesia
+60,80,60,40,86.575,Wenling,China
+60,80,60,40,86.575,Zibo,China
+60,60,40,80,86.575,Datong,China
+60,80,60,40,86.575,Xiangtan,China
+60,70,60,60,86.575,Huainan,China
+60,80,60,60,74.6429,Makassar,Indonesia
+60,80,40,60,23.175,Maracay,Venezuela
+60,30,80,60,80,"Bridgeton, MO",United States
+60,70,60,40,81.575,Ningbo,China
+60,60,60,80,57.45,Ushuaia,Argentina
+60,30,40,60,86.575,Changzhou,China
+60,60,80,100,95.725,Corralejo Canary Islands,Spain
+60,80,60,60,71.175,Gaziantep,Turkey
+60,60,20,45.4545,76.381,Ouagadougou,Burkina Faso
+60,60,80,69.0303,87.36,Porto,Portugal
+60,60,80,75.4545,90.6667,Lisbon,Portugal
+60,70,60,61.8182,74.9565,Da Nang,Vietnam
+60,60,60,100,60.9286,Buenos Aires,Argentina
+60,80,60,46.6667,68.1087,Johor Bahru,Malaysia
+60,70,60,62.5,57.5217,Asuncion,Paraguay
+60,40,60,38.4615,66.86,Jeddah,Saudi Arabia
+60,70,60,57.1429,36.2143,Belo Horizonte,Brazil
+60,60,80,60,89.975,Hiroshima,Japan
+60,70,40,60,86.575,Foshan,China
+60,70,60,80,84.2391,Ubud Bali,Indonesia
+60,70,40,60,56.0476,Windhoek,Namibia
+60,70,60,60,33.6591,Sao Luis,Brazil
+60,70,60,93.3333,40.0172,Florianopolis,Brazil
+60,40,60,81.8182,68.5455,Rabat,Morocco
+60,40,60,100,83.8,Limassol,Cyprus
+60,70,40,60,86.575,Quanzhou,China
+60,60,80,80,94.975,Nagoya,Japan
+60,70,60,51.4286,52.26,Manila,Philippines
+60,70,60,98.3333,42.6481,Santo Domingo,Dominican Republic
+60,60,80,98.3333,88.8462,Prague,Czechia
+60,70,60,60,33.8333,S�o Jos� dos Campos,Brazil
+60,80,60,40,86.575,Baoding,China
+60,60,80,76.3636,76.7619,Abbotsford,Canada
+60,80,60,56.3636,86.575,Shijiazhuang,China
+60,70,60,48.4615,71.9,Pai,Thailand
+60,70,60,45.4545,38.35,Ulyanovsk,Russia
+60,60,80,58.9474,91.25,Leipzig,Germany
+60,70,80,60,89.975,Okayama,Japan
+60,60,20,60,66.7381,Maputo,Mozambique
+60,60,60,80,89.2619,Padova,Italy
+60,60,80,77.2222,92.0865,Las Palmas Canary Islands,Spain
+60,70,80,60,94.975,Sendai,Japan
+60,70,60,62.6667,70.1,Amman,Jordan
+60,70,60,60,34.3095,Vit�ria,Brazil
+60,70,60,83.3333,67.1818,Pattaya,Thailand
+60,70,60,96.9231,33.803,Porto Alegre,Brazil
+60,60,60,37.1429,41.4286,Erbil,Kurdistan
+60,70,60,51.4286,82.4524,Hangzhou,China
+60,60,80,80,94.975,Sapporo,Japan
+60,60,80,60,96.25,Jena,Germany
+60,80,40,60,87.2143,Wuhan,China
+60,60,80,63.3333,80,"Knoxville, TN",United States
+60,30,40,60,70,Noum�a,New Caledonia
+60,70,60,40,86.575,Huizhou,China
+60,40,80,60,96.4286,Karlsruhe,Germany
+60,40,80,60,80,"Phoenix, AZ",United States
+60,70,60,27.2727,43.6667,Novosibirsk,Russia
+60,60,80,83.8095,92.15,Valencia,Spain
+60,70,60,70,40.9107,Curitiba,Brazil
+60,40,80,60,84.15,Reading,United Kingdom
+60,70,20,40,60,Dili,East Timor
+60,80,60,54.4444,75.1429,Hanoi,Vietnam
+60,60,80,77.5,83.1304,Montreal,Canada
+60,60,80,65.8824,65.5208,Montevideo,Uruguay
+60,20,60,80,60,Praia,Cape Verde
+60,80,60,27.2727,58.2174,Chachapoyas,Peru
+60,60,80,20,82.1,Barrie,Canada
+60,60,60,87.7778,89.0172,Shanghai,China
+60,20,60,56.6667,89.15,Aberdeen,United Kingdom
+60,30,60,58.1818,70,Hamilton,Bermuda
+60,40,80,60,86.575,Gold Coast,Australia
+60,70,80,60,95.7619,Daejeon,South Korea
+60,80,60,71.4286,78.4375,Malang East Java,Indonesia
+60,70,60,60,35.0227,Sorocaba,Brazil
+60,70,60,50,83.5435,Shenzhen,China
+60,70,60,81.8182,79.075,Muscat,Oman
+60,80,60,35,42.6818,San Luis Potosi,Mexico
+60,70,60,40,86.575,Fushun,China
+60,60,80,61.8182,85.0909,Winnipeg,Canada
+60,70,60,100,55.06,Palawan,Philippines
+60,70,40,60,28.2143,Guatemala City,Guatemala
+60,60,80,65,86.1739,Ottawa,Canada
+60,80,60,60,42.6818,Toluca,Mexico
+60,70,60,40,56.175,Monrovia,Liberia
+60,70,60,61.6667,59.2045,Quito,Ecuador
+60,60,60,90.8333,81.6613,Macau,China
+60,70,60,98.3333,57.5455,Dakar,Senegal
+60,80,60,40,75.119,Surakarta,Indonesia
+60,70,60,66.4516,74.1625,Kuala Lumpur,Malaysia
+60,80,60,60,86.575,Xian,China
+60,60,100,79.1667,95.4231,Seoul,South Korea
+60,30,80,60,97.275,Lausanne,Switzerland
+60,70,60,78.1818,59.1667,Cuenca,Ecuador
+60,20,80,60,60.6667,"Baltimore, MD",United States
+60,30,60,95.7895,85.4,London,United Kingdom
+60,60,60,96,30.8714,Rio de Janeiro,Brazil
+60,60,20,40,46.95,Huambo,Angola
+60,70,60,40,86.575,Wuhu,China
+60,20,60,74.1176,92.371,Dubai,United Arab Emirates
+60,20,80,60,91.575,Sydney,Australia
+60,70,60,81.0526,38.8929,Medell�n,Colombia
+60,60,80,50.7692,80,"Oklahoma City, OK",United States
+60,80,60,40,74.375,Semarang,Indonesia
+60,80,60,40,42.381,Le�n,Nicaragua
+60,100,60,23.0769,49.7083,Aleppo,Syria
+60,70,20,40,60,Benghazi,Libya
+60,70,20,40,60,Sinuiju,North Korea
+60,70,20,100,60,Wonsan,North Korea
+60,70,20,40,60,Nampo,North Korea
+60,100,60,20,47.65,Hama,Syria
+60,60,40,36,65.5192,Isfahan,Iran
+60,20,60,20,100,King Edward Point,South Georgia and the South Sandwich Islands
+60,100,60,20,40,Kananga,DR Congo
+60,70,20,40,60,Tanchon,North Korea
+60,60,60,33.8462,58.2619,Ahvaz,Iran
+60,70,20,40,60,Sariwon,North Korea
+60,80,60,45.4545,40,Kisangani,DR Congo
+60,70,20,40,60,Kaechon,North Korea
+60,60,60,66.6667,67.7833,Tehran,Iran
+60,70,60,40,20,Kirkuk,Kurdistan
+60,70,80,60,74.975,Dorob%u014D,Japan
+60,70,20,40,60,Chongjin,North Korea
+60,80,40,60,66.725,Bareilly,India
+60,80,20,60,42.8095,Peshawar,Pakistan
+60,70,20,40,60,Funafuti,Tuvalu
+60,70,60,40,44.619,Rostov-on-Don,Russia
+60,80,40,60,66.725,Hubli,India
+60,70,60,63.6364,60,Duhok,Kurdistan
+60,100,40,60,64.2391,Constantine,Algeria
+60,80,40,60,66.725,Asansol,India
+60,80,60,40,86.575,Wenzhou,China
+60,70,60,60,33.025,Campos dos Goytacazes,Brazil
+60,80,40,60,71.725,Durg,India
+60,70,60,40,86.575,Changchun,China
+60,100,60,23.6364,61.725,Tirupur,India
+60,30,60,81.8182,88.7143,Mikonos,Greece
+60,70,60,60,29.5476,Manaus,Brazil
+60,80,60,60,81.575,Anyang,China
+60,100,60,40,86.575,Nanyang,China
+60,70,60,60,61.725,Kanpur,India
+60,80,60,40,61.675,Qom,Iran
+60,80,60,40,60.1957,Srinagar,India
+60,70,20,80,60,Kaesong,North Korea
+60,100,40,60,61.725,Moradabad,India
+60,80,40,60,61.725,Meerut,India
+60,80,40,60,63.0714,Malappuram,India
+60,100,40,60,66.725,Dhanbad,India
+60,100,60,58.1818,40,Kinshasa,DR Congo
+60,70,60,45.5556,57.45,Cusco,Peru
+60,70,80,60,32.4048,Jundia�,Brazil
+60.0054,40,60,61.8182,80.9091,"Scottsdale, AZ",United States
+60.0753,50,80,58.1818,94.15,Sheffield,United Kingdom
+60.0986,20,80,80,96.075,Tilburg,Netherlands
+60.1452,70,80,98.1818,49.9318,Bocas del Toro,Panama
+60.146,60,80,66.1538,96.25,Dresden,Germany
+60.1716,20,80,67.6923,88.2381,Brighton,United Kingdom
+60.2097,60,80,60,70,"Battle Creek, MI",United States
+60.2353,70,60,72,61.6957,Cordoba,Argentina
+60.334,80,60,60,56.619,Arequipa,Peru
+60.6136,70,80,23.6364,60.6136,Dnipro,Ukraine
+60.6425,70,60,0,65.3077,Essaouira,Morocco
+60.6604,40,80,63.6364,90.2045,Cagliari Sardinia,Italy
+60.6751,80,20,65.7143,43.9318,Kampala,Uganda
+60.6844,40,80,96.8,85.4674,Hong Kong,China
+60.6922,60,80,60,61.25,"Detroit, MI",United States
+60.7287,20,80,98.1818,81.0714,Gothenburg,Sweden
+60.7854,20,80,41.8182,96.075,Zwolle,Netherlands
+60.875,40,20,40,60.875,Oran,Algeria
+60.875,80,40,40,60.875,Boumerdas,Algeria
+60.875,80,40,45.4545,60.875,Tebessa,Algeria
+60.9579,40,80,69.4118,93.4167,Wellington,New Zealand
+60.963,70,40,36.4706,60.963,Dhaka,Bangladesh
+60.9634,20,80,55,96.8333,Aalborg,Denmark
+60.9642,60,100,80,84.881,Malmo,Sweden
+61.0325,80,60,60,80.6818,Sanur Bali,Indonesia
+61.0815,40,80,80,87.625,Espoo,Finland
+61.1382,40,100,60,96.25,Aalesund,Norway
+61.1421,60,100,61.8182,82.1,Whistler,Canada
+61.1701,30,80,76.9231,96.25,Bergen,Norway
+61.3006,70,80,50.7692,75.075,Burgas,Bulgaria
+61.3223,40,60,100,93.7727,Bristol,United Kingdom
+61.3793,70,80,61.3793,74.1538,Phuket,Thailand
+61.4039,80,60,50.7692,80.7955,Yogyakarta,Indonesia
+61.4101,20,80,80,86.575,Byron Bay,Australia
+61.4358,40,80,47.1429,79.0909,"Omaha, NE",United States
+61.4871,40,80,83.8462,84.5556,Manchester,United Kingdom
+61.4902,40,80,80,92.4091,Birmingham,United Kingdom
+61.5174,60,80,47.6923,90.75,Zadar,Croatia
+61.5385,80,40,61.5385,41.5,La Paz,Bolivia
+61.5694,20,60,63.3333,89.225,Verona,Italy
+61.6083,50,80,63.6364,70,"Cleveland, OH",United States
+61.6261,20,80,64.6154,84.3542,Bologna,Italy
+61.6456,70,40,91.6667,35.8333,Antigua,Guatemala
+61.6667,80,40,61.6667,62.9318,Kolkata,India
+61.6829,70,60,80,81.9762,Guangzhou,China
+61.693,60,60,63.6364,44.2097,San Jos�,Costa Rica
+61.725,100,40,40,61.725,Varkala,India
+61.725,80,40,40,61.725,Kota,India
+61.725,80,40,80,61.725,Patna,India
+61.725,80,40,80,61.725,Raipur,India
+61.725,70,40,40,61.725,Ranchi,India
+61.7621,30,80,80,70,"Santa Barbara, CA",United States
+61.7699,70,80,81.8182,34.1552,Fortaleza,Brazil
+61.8025,20,80,63.6364,80.9091,"Park City, UT",United States
+61.8182,70,40,61.8182,67.9318,Chandigarh,India
+61.8182,40,80,61.8182,75,Oranjestad,Aruba
+61.8182,80,80,61.8182,71.9,Ko Phi Phi,Thailand
+61.8182,70,40,61.8182,67.3571,Jabalpur,India
+61.8182,70,80,61.8182,33.8333,Campo Grande,Brazil
+61.8732,80,60,75.3846,76.1087,Colombo,Sri Lanka
+61.9222,100,40,53.3333,67.4464,Tabriz,Iran
+61.9478,50,80,60,72.5,"Indianapolis, IN",United States
+62.0061,60,80,60,80,"Ashland, OR",United States
+62.0698,50,80,43.3333,80,"Ogden, UT",United States
+62.0884,60,80,71.4286,90.725,Malaga,Spain
+62.1063,70,80,67.6923,51.5,Merida,Mexico
+62.1591,80,40,76.3636,62.1591,Alexandria,Egypt
+62.1871,30,60,60,80,"Princeton, NJ",United States
+62.2267,20,80,60,87.625,Turku,Finland
+62.24,70,40,78.4615,72.38,Kuwait City,Kuwait
+62.257,30,80,70,94.913,Edinburgh,United Kingdom
+62.348,20,60,80,70,"West Palm Beach, FL",United States
+62.3868,40,80,78.3333,96.25,Dortmund,Germany
+62.3915,40,80,60,80,"Dayton, OH",United States
+62.4117,20,80,60,40,"Stamford, CT",United States
+62.4715,70,60,44.2857,90.75,Rijeka,Croatia
+62.4754,40,60,68,81.4524,Bordeaux,France
+62.5,70,80,62.5,68.5455,Ko Pha Ngan,Thailand
+62.522,70,80,70.6667,80.5227,Varna,Bulgaria
+62.5469,80,60,50,80.5682,Surabaya,Indonesia
+62.5647,20,100,80,95.9773,Leiden,Netherlands
+62.5779,20,100,83.3333,96.075,Utrecht,Netherlands
+62.5911,60,60,43.3333,76.9091,Edmonton,Canada
+62.5943,30,80,100,80,"Key West, FL",United States
+62.6667,70,20,62.6667,61.9643,Pyongyang,North Korea
+62.6836,70,60,63.6364,77.325,George Town Penang,Malaysia
+62.724,60,80,98.1818,70.5417,Vilnius,Lithuania
+62.7512,50,80,49.2308,61.5385,"St. Louis, MO",United States
+62.7586,40,80,62.7586,84.913,Newcastle Upon Tyne,United Kingdom
+62.8312,70,80,57.8947,75.9615,Novi Sad,Serbia
+62.8569,50,80,61.5385,77.3636,Calgary,Canada
+62.8571,70,40,62.8571,69.8077,Baku,Azerbaijan
+62.9315,60,80,60,70,"Wichita, KS",United States
+62.9462,70,60,92.7273,67.5652,Yangon,Myanmar
+62.9563,30,80,81.8182,92,Galway,Ireland
+63.0434,40,80,58.1818,85.3333,Windsor,Canada
+63.1482,60,80,61.8182,82.4762,Guelph,Canada
+63.1576,70,80,60,36.3864,Campinas,Brazil
+63.2143,80,40,36.3636,63.2143,Port Said,Egypt
+63.2182,30,80,62.6667,80.9091,"Palo Alto, CA",United States
+63.225,70,20,40,63.225,Lilongwe,Malawi
+63.2477,70,80,52.3077,83.375,Taichung,Taiwan
+63.2555,50,60,52.3077,87.1522,Trieste,Italy
+63.2601,50,80,50,87.1,Nanaimo,Canada
+63.2718,50,80,60,80,"Norfolk, VA",United States
+63.2951,20,100,63.6364,75.7381,Strasbourg,France
+63.3333,70,80,63.3333,66.7273,Ko Tao,Thailand
+63.3864,30,40,80,63.3864,Thrissur,India
+63.3883,40,60,47.6923,88.15,Rethymno,Greece
+63.4163,30,60,100,90,Honolulu Hawaii,United States
+63.4497,70,80,60,88.375,Kaohsiung,Taiwan
+63.4544,50,80,57.5,45.0741,Kazan,Russia
+63.4598,30,80,62.5,71.2917,Jerusalem,Israel
+63.4893,50,80,72.2222,92.58,Javea,Spain
+63.4963,40,80,80,96.075,Haarlem,Netherlands
+63.5437,20,80,80,73.0769,"Minneapolis, MN",United States
+63.6261,40,100,63.0769,96.4318,Eindhoven,Netherlands
+63.6364,70,40,63.6364,63.0714,Nashik,India
+63.6364,70,40,63.6364,52.96,Addis Ababa,Ethiopia
+63.6364,70,80,63.6364,43.6667,Tulum,Mexico
+63.6364,70,40,63.6364,80.9091,Suva,Fiji
+63.6704,50,80,65,86.3636,"Cincinnati, OH",United States
+63.6952,50,80,80,75.3846,"Milwaukee, WI",United States
+63.7419,20,80,80,80,"Bridgeport, CT",United States
+63.7986,40,80,98.1818,79.2857,"Portland, OR",United States
+63.8359,80,60,67.5231,80.2045,Bandung,Indonesia
+63.8701,70,60,76.3636,75.1905,Port Louis,Mauritius
+63.8701,40,100,80,82.425,Antwerp,Belgium
+63.947,30,80,80,96.25,Tromso,Norway
+63.9594,50,80,61.6667,91.25,Aachen,Germany
+63.9827,80,40,67.7143,65.9483,Cairo,Egypt
+64.0286,30,80,63.0769,90.9091,Luxembourg,Luxembourg
+64.0651,40,60,40,96.575,Canberra,Australia
+64.1335,70,60,63.4783,75.3226,Santiago,Chile
+64.1366,70,60,57.931,80.625,Jakarta,Indonesia
+64.1552,50,80,60,97.6,Dunedin,New Zealand
+64.1715,50,80,53.8462,82.625,Oulu,Finland
+64.2,70,20,40,64.2,Niamey,Niger
+64.2049,50,80,40,91.575,Wollongong,Australia
+64.3246,70,80,63.5294,89.9792,Bratislava,Slovakia
+64.3829,40,80,80,80,"Santa Fe, NM",United States
+64.4435,50,60,97.5,90.4643,Athens,Greece
+64.4528,60,80,60,85.3333,Oshawa,Canada
+64.48,20,60,98.1818,80.9318,Nice,France
+64.5313,40,80,65,65.5556,"Oakland, CA",United States
+64.5631,50,80,96.3636,89.6667,Leeds,United Kingdom
+64.5989,60,80,47.1429,70,"Tucson, AZ",United States
+64.7255,80,60,63.6364,82.3409,Chongqing,China
+64.7512,30,80,100,90.725,Ciutadella Menorca,Spain
+64.7543,30,60,60,80,"Anchorage, AK",United States
+64.7644,50,80,63.6364,84.15,Nottingham,United Kingdom
+64.8102,60,80,60,82.1,Brampton,Canada
+64.8234,40,80,40,80,"Huntsville, AL",United States
+64.8242,30,80,100,90.725,Ibiza,Spain
+64.8475,50,100,74.5455,67.3684,"Kansas City, MO",United States
+65,40,80,76.3636,65,"New Orleans, LA",United States
+65.0192,70,80,69.5238,81.66,Plovdiv,Bulgaria
+65.0223,20,80,80,96.075,Breda,Netherlands
+65.0246,50,80,72.7273,87.625,Tampere,Finland
+65.0417,40,80,67.6923,80,"Salt Lake City, UT",United States
+65.0464,40,80,98.3333,87.1,Kelowna,Canada
+65.1148,50,80,56.3636,80,"Columbus, OH",United States
+65.1995,40,80,61.5385,90,"Asheville, NC",United States
+65.2321,50,80,60,82.1,Grande Prairie,Canada
+65.2764,50,80,61.8182,80,"Bellingham, WA",United States
+65.3114,80,40,60,35.1429,Bucaramanga,Colombia
+65.3316,40,80,92.7273,87.1,Lethbridge,Canada
+65.3333,30,80,65.3333,97.3864,Reykjavik,Iceland
+65.3518,40,80,40,70,"Hartford, CT",United States
+65.3797,30,80,76.3636,87.625,Helsinki,Finland
+65.3805,50,80,81.8182,80.9091,"Pittsburgh, PA",United States
+65.5,70,40,91.6667,65.5,Tunis,Tunisia
+65.5044,70,60,58.5714,76.1667,Taghazout,Morocco
+65.5351,40,80,80,80,"Providence, RI",United States
+65.5476,50,80,58.1818,76.7619,Halifax,Canada
+65.5538,50,80,87.1429,89.15,Leicester,United Kingdom
+65.5623,60,80,70.5882,81.3864,Tallinn,Estonia
+65.5934,50,80,67.6923,80,"Grand Rapids, MI",United States
+65.7143,40,80,65.7143,97.0435,Auckland,New Zealand
+65.7853,40,80,60,91.575,Hobart,Australia
+65.7962,70,60,79.1304,72.527,Izmir,Turkey
+65.8016,70,80,49.2308,90.4048,Szczecin,Poland
+65.8191,70,80,80,65.8191,Kiev,Ukraine
+65.8537,70,60,60,36.2727,Barranquilla,Colombia
+66.0293,50,80,58.1818,71.025,Grenoble,France
+66.0883,70,80,94.1176,90.75,Warsaw,Poland
+66.1148,20,80,76.3636,84.4783,Oxford,United Kingdom
+66.1538,80,40,66.1538,55.413,Cochabamba,Bolivia
+66.1847,70,80,94.6667,88.95,Krak�w,Poland
+66.187,70,100,71.4286,94.1364,Jeju Island,South Korea
+66.2701,70,60,66.1538,59.2391,Guayaquil,Ecuador
+66.2795,80,40,40,86.575,Nanchang,China
+66.309,70,80,58.1818,50.9048,Hermosillo,Mexico
+66.3455,40,60,92.3077,90.5625,Abu Dhabi,United Arab Emirates
+66.3603,70,40,60,81.9762,Qingdao,China
+66.3727,70,80,80,86.2292,Kosice,Slovakia
+66.3758,30,80,76.6667,78.3333,"Boston, MA",United States
+66.4263,60,80,60,87.1,Moncton,Canada
+66.4271,40,80,100,79.5476,Lille,France
+66.4434,50,80,70,80,"Tampa, FL",United States
+66.4578,70,60,70.5263,31.0556,Bogota,Colombia
+66.4807,30,80,61.8182,84.15,Cardiff,United Kingdom
+66.4916,60,80,74.5455,77.2727,"Buffalo, NY",United States
+66.5254,70,80,100,91.1667,Tenerife Canary Islands,Spain
+66.5359,50,80,58.1818,79.0909,"Louisville, KY",United States
+66.5786,80,80,80,83.6905,Tainan,Taiwan
+66.6089,40,100,88.2353,75.8333,"Austin, TX",United States
+66.633,20,80,44.6154,80,"San Jose, CA",United States
+66.6667,70,40,66.6667,50.1957,Lagos,Nigeria
+66.6734,50,80,74.5455,80,"Madison, WI",United States
+66.725,80,40,40,66.725,Rishikesh,India
+66.725,70,40,80,66.725,Agra,India
+66.725,100,40,40,66.725,Allahabad,India
+66.7495,20,80,61.4286,92.875,Salzburg,Austria
+66.807,70,80,64.6154,65.1364,Kaunas,Lithuania
+66.8669,50,60,60,87.1,Regina,Canada
+66.8801,70,40,81.25,36.3684,Cape Town,South Africa
+66.9461,60,80,60,80,"Chico, CA",United States
+66.9702,30,80,55.8333,97.275,Lugano,Switzerland
+67.0448,70,80,68.8462,89.9107,Taipei,Taiwan
+67.1296,70,20,98.4615,67.1296,Beirut,Lebanon
+67.2585,50,80,81.8182,75.8542,Toulouse,France
+67.4053,20,60,76.9231,70.8333,"Fort Lauderdale, FL",United States
+67.4185,80,40,66.6667,87.7955,Chengdu,China
+67.455,70,40,80,37.2381,Pretoria,South Africa
+67.5459,50,80,48.5714,87.1,Victoria,Canada
+67.5487,80,60,78.6667,63.6892,Davao,Philippines
+67.5584,20,80,74.7059,77.1887,Tel Aviv,Israel
+67.6128,80,80,79.3939,75.6129,Hoi An,Vietnam
+67.6337,60,80,56.3636,85.8095,Surrey,Canada
+67.6923,70,80,67.6923,43.2162,Guadalajara,Mexico
+67.7324,70,60,55,73.44,Tirana,Albania
+67.7573,80,60,60,74.9565,Da Lat,Vietnam
+67.8148,70,80,81.6,95.7619,Busan,South Korea
+67.8233,40,80,77.1429,89.2619,Pisa,Italy
+67.8333,70,40,78.3333,67.8333,Nagpur,India
+67.8333,80,40,80,67.8333,Ahmedabad,India
+67.8435,40,80,43.6364,79.0909,"Fresno, CA",United States
+67.8622,30,80,100,81.025,Cannes,France
+67.8855,20,80,40,80,"Fairfax, VA",United States
+67.9181,60,80,80,84.5,Treviso,Italy
+67.9609,70,80,65,87.9091,Coimbra,Portugal
+68.0199,70,60,100,59.5,La Plata,Argentina
+68.0479,30,80,79.1667,66.3158,"Washington, DC",United States
+68.0704,40,80,80,80,"Flagstaff, AZ",United States
+68.1217,20,80,71.5789,80,"Denver, CO",United States
+68.2,80,40,40,68.2,Kumasi,Ghana
+68.26,60,80,62.8571,86.6667,"Charlotte, NC",United States
+68.274,70,80,45.7143,85.7381,Tartu,Estonia
+68.4076,20,80,88.2759,74.2105,"Miami, FL",United States
+68.5125,70,80,60,69.1154,Chisinau,Moldova
+68.5195,50,80,80,89.7381,Trento,Italy
+68.5296,30,80,61.5385,96.9286,Basel,Switzerland
+68.5296,40,80,86.6667,95.65,Tokyo,Japan
+68.5444,70,80,78.1818,52.2273,Queretaro,Mexico
+68.5714,30,80,78.3333,68.5714,"Philadelphia, PA",United States
+68.6508,60,80,55.7143,80,"Gainesville, FL",United States
+68.6548,70,80,84.6154,68.6548,Lviv,Ukraine
+68.7308,40,80,80,87.2727,"New Haven, CT",United States
+68.75,40,80,68.75,69.62,Marseille,France
+68.7775,60,80,72.9412,82.8261,Ljubljana,Slovenia
+68.8264,40,80,68.5714,69.4844,Brussels,Belgium
+68.9422,70,80,82.1429,46.8974,Mexico City,Mexico
+69.0409,70,80,60,96.7,Funchal Madeira,Portugal
+69.0898,70,60,76.3636,35.5,Natal,Brazil
+69.1667,40,80,69.1667,83.5385,Vancouver,Canada
+69.1955,70,100,61.1765,77.54,Brasov,Romania
+69.3333,70,80,69.3333,74.5,Ko Lanta,Thailand
+69.4239,70,80,66.1111,75.0769,Riga,Latvia
+69.5039,50,100,53.0435,73.125,"Raleigh, NC",United States
+69.7759,70,80,40,48.4286,Krasnodar,Russia
+69.8132,40,80,58.1818,80,"Sacramento, CA",United States
+69.9569,60,60,45.3333,88.8478,Sharjah,United Arab Emirates
+69.9965,70,60,93.3333,32.837,S�o Paulo,Brazil
+undefined,30,80,45.4545,44.619,Nizhny,Russia
+undefined,70,40,23.6364,42.8095,Bahawalpur,Pakistan
+undefined,30,40,30.7692,41.2917,Baghdad,Iraq
+undefined,80,40,100,72.9318,Jodhpur,India
+undefined,70,40,44.7059,43.2917,Karachi,Pakistan
+undefined,70,40,45.4545,86.575,Guilin,China
+undefined,40,20,80,70,Avarua,Cook Islands
+undefined,70,40,40,86.575,Handan,China
+undefined,70,40,40,46.1905,Managua,Nicaragua
+undefined,100,40,20,41.45,Rawalpindi,Pakistan
+undefined,30,100,80,92.6429,Interlaken,Switzerland
+undefined,20,40,0,40,St John's,Antigua and Barbuda
+undefined,70,40,40,86.575,Yantai,China
+undefined,70,40,40,87.3409,Kunming,China
+undefined,40,80,100,94.975,Kobe,Japan
+undefined,70,80,49.3333,79.4524,Ploiesti,Romania
+undefined,70,100,71.4286,81.375,Timisoara,Romania
+undefined,70,80,70,47.3929,Saint Petersburg,Russia
+undefined,70,80,40,43.35,Chelyabinsk,Russia
+undefined,40,80,80,95.2143,Yokohama,Japan
+undefined,70,40,40,86.575,Tangshan,China
+undefined,30,80,96.6667,89.225,Florence,Italy
+undefined,70,20,45.4545,45.0455,Kabul,Afghanistan
+undefined,40,80,41.6667,89.225,Siena,Italy
+undefined,70,80,25.4545,48.35,Tomsk,Russia
+undefined,70,40,80,40,Paramaribo,Suriname
+undefined,30,80,83.4783,92.65,Amsterdam,Netherlands
+undefined,70,80,20,85.925,Rzeszow,Poland
+undefined,70,80,80.7692,72.2857,Ko Samui,Thailand
+undefined,30,80,78.8235,72.8673,Paris,France
+undefined,70,80,83.3333,96.0217,Gdansk,Poland
+undefined,70,80,40,70,Sarajevo,Bosnia
+undefined,70,80,20,43.1905,Omsk,Russia
+undefined,70,20,40,82.225,Antananarivo,Madagascar
+undefined,70,40,94.5455,74.1667,Male,Maldives
+undefined,70,40,45.4545,86.575,Jinan,China
+undefined,40,80,100,91.5682,Palma Mallorca,Spain
+undefined,70,80,40,86.575,Urumqi,China
+undefined,70,80,80,77.6562,Belgrade,Serbia
+undefined,70,100,74.4,80.5,Cluj,Romania
+undefined,70,40,40,86.575,Chaoyang,China
+undefined,80,40,40,86.575,Zhanjiang,China
+undefined,70,40,40,86.575,Kunshan,China
+undefined,70,40,40,86.575,Weihai,China
+undefined,80,40,40,86.575,Zhangjiakou,China
+undefined,80,40,40,86.575,Zhuzhou,China
+undefined,80,40,40,86.575,Xining,China
+undefined,80,40,40,86.575,Zhucheng,China
+undefined,80,80,40,86.575,Xiangyang,China
+undefined,80,40,40,86.575,Linyi,China
+undefined,70,100,74.4444,78.9355,Budapest,Hungary
+undefined,70,40,40,86.575,Huai'an,China
+undefined,70,40,43.6364,22.325,Tegucigalpa,Honduras
+undefined,40,80,76.9231,95.8,Cork,Ireland
+undefined,70,80,40,84.225,Avellino,Italy
+undefined,70,80,73.9623,76.5294,Chiang Mai,Thailand
+undefined,70,80,78.4,75.6111,Sofia,Bulgaria
+undefined,70,40,41.8182,81.575,Dongguan,China
+undefined,70,80,80,90.3864,Lodz,Poland
+undefined,70,40,40,86.575,Yangzhou,China
+undefined,70,80,40,48.35,Vladivostok,Russia
+undefined,70,40,40,86.575,Jiangmen,China
+undefined,70,80,40,86.575,Zhongshan,China
+undefined,40,80,100,76.1538,"Las Vegas, NV",United States
+undefined,70,100,72.3529,78.2879,Bucharest,Romania
+undefined,70,40,40,86.575,Shenyang,China
+undefined,30,100,20,82.1,Fort McMurray,Canada
+undefined,30,80,80,93.8,Frankfurt,Germany
+undefined,70,40,40,48.5476,Kano,Nigeria
+undefined,80,20,40,39.1,Mogadishu,Somalia
+undefined,20,100,72,87.4565,Rotterdam,Netherlands
+undefined,20,80,71.25,82.7857,Ghent,Belgium
+undefined,70,80,23.6364,36.3182,Juarez,Mexico
+undefined,40,80,80,81.6481,Naples,Italy
+undefined,40,80,40,83.3182,Northampton,United Kingdom
+undefined,80,40,40,86.575,Yichang,China
+undefined,70,40,40,86.575,Hefei,China
+undefined,20,80,81.8182,89.78,Turin,Italy
+undefined,40,80,43.6364,94.15,Coventry,United Kingdom
+undefined,20,80,46.6667,94.4286,Cambridge,United Kingdom
+undefined,20,80,80,94.15,Glasgow,United Kingdom
+undefined,80,80,78.8235,72.8108,Ho Chi Minh City,Vietnam
+undefined,30,80,71.5789,78.4615,"Seattle, WA",United States
+undefined,40,20,40,70,Port Vila,Vanuatu
+undefined,70,40,43.3333,19.75,Caracas,Venezuela
+undefined,70,80,76.5217,95.7619,Daegu,South Korea
+undefined,40,100,71.3333,93.2679,Groningen,Netherlands
+undefined,70,80,84.3636,73.9667,Bangkok,Thailand
+undefined,80,80,23.6364,41.1739,Obninsk,Russia
+undefined,70,20,95,73.86,Havana,Cuba
+undefined,40,80,81.6667,77.2955,Lyon,France
+undefined,30,80,97.1429,85.2045,Rome,Italy
+undefined,40,20,40,70,Honiara,Solomon Islands
+undefined,20,80,83.6364,85.2579,Barcelona,Spain
+undefined,70,40,80,36.42,Belem,Brazil
+undefined,30,80,73.3333,76.1111,"San Diego, CA",United States
+undefined,20,80,76,83.0833,Stockholm,Sweden
+undefined,40,80,100,91.575,Melbourne,Australia
+undefined,40,80,84.2857,92.8103,Madrid,Spain
+undefined,40,80,76.6667,97.4048,Bern,Switzerland
+undefined,40,80,75.4545,80.9143,Toronto,Canada
+undefined,30,80,86.3636,70.8696,"Los Angeles, CA",United States
+undefined,30,80,80,97.275,Zurich,Switzerland
+undefined,70,40,100,49.225,Santa Cruz,Bolivia
+undefined,30,80,90,71.6667,"San Francisco, CA",United States
+undefined,30,80,80,96.6136,Geneva,Switzerland
+undefined,40,80,80,80,"Virginia Beach, VA",United States
+undefined,20,80,40,96.575,Brisbane,Australia
+undefined,30,80,71.5789,96.3958,Copenhagen,Denmark
+undefined,20,40,80,46.95,Luanda,Angola
+undefined,70,40,40,81.575,Changsha,China
+undefined,30,80,94.4828,71.5686,"New York City, NY",United States
+undefined,70,80,80,94.975,Hamamatsu,Japan
+undefined,30,20,40,40.5238,Basra,Iraq
+undefined,80,20,40,46.45,Sialkot,Pakistan
+undefined,80,20,40,42.325,Sana'a,Yemen
+undefined,100,20,40,46.45,Sargodha,Pakistan
+undefined,80,40,38.1818,46.45,Quetta,Pakistan
+undefined,70,40,40,86.575,Tengzhou,China
+undefined,80,40,40,81.575,Fuzhou,China
+undefined,100,40,40,71.725,Aligarh,India
+undefined,80,40,40,86.575,Hohhot,China
+undefined,70,20,80,40,Sulaymaniyah,Kurdistan
+undefined,70,100,80,90,"Black Rock City, NV",United States
+undefined,80,40,80,91.575,Yangshuo,China
+undefined,100,20,20,41.45,Gujranwala,Pakistan
+undefined,80,20,38.1818,40,Brazzaville,Congo
+undefined,70,20,20,48.775,Yaounde,Cameroon
+undefined,80,40,40,81.575,Anshan,China
+undefined,100,20,23.6364,48.0476,Faisalabad,Pakistan
+undefined,70,40,40,86.575,Nantong,China
