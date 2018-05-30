@@ -1,0 +1,103 @@
+Market,Gini Index,Rank,Score,Rating,lat,lng
+"Bridgeport-Stamford, Conn.",0.5403,1,4.11,High,41.0878403,-73.5161916
+New York City,0.505,2,2.38,High,40.7127753,-74.0059728
+Miami-Fort Lauderdale,0.502,3,2.23,High,26.127822,-80.145093
+"McAllen-Edinburg, Texas",0.4936,4,1.82,High,26.2925651,-98.2075917
+New Orleans,0.4902,5,1.65,High,29.9510658,-90.0715323
+"Durham, N.C.",0.4895,6,1.62,High,35.9940329,-78.898619
+Los Angeles,0.4894,7,1.61,High,34.0522342,-118.2436849
+San Francisco-Oakland,0.4845,8,1.37,High,37.7982799,-122.3778182
+Houston,0.4802,9,1.16,High,29.7604267,-95.3698028
+Charlotte,0.479,10,1.1,High,35.2270869,-80.8431267
+"Jackson, Miss.",0.479,10,1.1,High,32.2987573,-90.1848103
+Boston,0.4772,12,1.01,High,42.3600825,-71.0588801
+Birmingham,0.4765,13,0.98,High,33.5206608,-86.80249
+Memphis,0.4751,14,0.91,High,35.1495343,-90.0489801
+Philadelphia,0.4738,15,0.85,High,39.9525839,-75.1652215
+Cleveland,0.4729,16,0.8,Somewhat high,41.49932,-81.6943605
+Chicago,0.4724,17,0.78,Somewhat high,41.8781136,-87.6297982
+"Greenville, S.C.",0.4724,17,0.78,Somewhat high,34.8526176,-82.3940104
+Tampa-St. Petersburg,0.4716,19,0.74,Somewhat high,28.0601747,-82.6478974
+"El Paso, Texas",0.47,20,0.66,Somewhat high,31.7618778,-106.4850217
+Jacksonville,0.4697,21,0.64,Somewhat high,30.3321838,-81.655651
+"Fresno, Calif.",0.4692,22,0.62,Somewhat high,36.7468422,-119.7725868
+Tucson,0.4691,23,0.61,Somewhat high,32.2217429,-110.926479
+"Cape Coral-Fort Myers, Fla.",0.4683,24,0.58,Somewhat high,26.6530122,-81.7787021
+Atlanta,0.468,25,0.56,Somewhat high,33.7489954,-84.3879824
+Detroit,0.468,25,0.56,Somewhat high,42.331427,-83.0457538
+"Chattanooga, Tenn.",0.4677,27,0.55,Somewhat high,35.0456297,-85.3096801
+"Bradenton-Sarasota, Fla.",0.4673,28,0.53,Somewhat high,27.3955284,-82.5545239
+Nashville,0.4659,29,0.46,Somewhat high,36.1626638,-86.7816016
+Pittsburgh,0.4652,30,0.42,Somewhat high,40.4406248,-79.9958864
+Oklahoma City,0.4647,31,0.4,Somewhat high,35.4675602,-97.5164276
+"New Haven, Conn.",0.4646,32,0.39,Somewhat high,41.308274,-72.9278835
+Austin,0.4643,33,0.38,Somewhat high,30.267153,-97.7430608
+"Knoxville, Tenn.",0.464,34,0.36,Somewhat high,35.9606384,-83.9207392
+Albuquerque,0.4634,35,0.34,Somewhat high,35.0853336,-106.6055534
+"Toledo, Ohio",0.4628,36,0.31,Somewhat high,41.6528052,-83.5378674
+Tulsa,0.4627,37,0.3,Somewhat high,36.1539816,-95.992775
+Dallas-Fort Worth,0.4625,38,0.29,Somewhat high,32.8998091,-97.0403352
+"Baton Rouge, La.",0.4618,39,0.26,Somewhat high,30.4582829,-91.1403196
+Providence,0.4618,39,0.26,Somewhat high,41.8239891,-71.4128343
+Milwaukee,0.4617,41,0.25,Medium,32.5263379,-116.9422144
+San Diego,0.4617,41,0.25,Medium,32.715738,-117.1610838
+St. Louis,0.4607,43,0.2,Medium,38.6270025,-90.1994042
+San Jose,0.4604,44,0.19,Medium,37.3382082,-121.8863286
+"Greensboro, N.C.",0.4601,45,0.17,Medium,36.0726354,-79.7919754
+"Augusta, Ga.",0.4597,46,0.15,Medium,33.4734978,-82.0105148
+Orlando,0.4596,47,0.15,Medium,28.5383355,-81.3792365
+Columbus,0.4594,48,0.14,Medium,39.9611755,-82.9987942
+"Charleston, S.C.",0.4589,49,0.11,Medium,32.7764749,-79.9310512
+Cincinnati,0.4587,50,0.1,Medium,39.1031182,-84.5120196
+Indianapolis,0.4585,51,0.09,Medium,39.768403,-86.158068
+Louisville,0.458,52,0.07,Medium,38.2526647,-85.7584557
+"Akron, Ohio",0.4567,53,0.01,Medium,41.0814447,-81.5190053
+San Antonio,0.4562,54,-0.02,Medium,29.4241219,-98.4936282
+Denver,0.456,55,-0.03,Medium,39.7392358,-104.990251
+"Bakersfield, Calif.",0.4557,56,-0.04,Medium,35.3732921,-119.0187125
+"Springfield, Mass.",0.4557,56,-0.04,Medium,42.1014831,-72.589811
+Hartford,0.4546,58,-0.1,Medium,41.7637111,-72.6850932
+Phoenix,0.4546,58,-0.1,Medium,33.4483771,-112.0740373
+"Dayton, Ohio",0.4535,60,-0.15,Medium,39.7589478,-84.1916069
+"Columbia, S.C.",0.452,61,-0.22,Medium,34.0007104,-81.0348144
+"Modesto, Calif.",0.4509,62,-0.28,Somewhat low,37.6390972,-120.9968782
+"Scranton-Wilkes-Barre, Pa.",0.4509,62,-0.28,Somewhat low,41.2981769,-75.9927652
+"Little Rock, Ark.",0.4504,64,-0.3,Somewhat low,34.7464809,-92.2895948
+Baltimore,0.4498,65,-0.33,Somewhat low,39.2903848,-76.6121893
+Buffalo,0.4497,66,-0.34,Somewhat low,42.8864468,-78.8783689
+Las Vegas,0.4491,67,-0.37,Somewhat low,36.1699412,-115.1398296
+Sacramento,0.4475,68,-0.44,Somewhat low,38.5815719,-121.4943996
+"Syracuse, N.Y.",0.4475,68,-0.44,Somewhat low,43.0481221,-76.1474244
+Kansas City,0.4474,70,-0.45,Somewhat low,39.0997265,-94.5785667
+"Portland, Ore.",0.4471,71,-0.46,Somewhat low,45.5230622,-122.6764815
+Seattle,0.4458,72,-0.53,Somewhat low,47.6062095,-122.3320708
+Richmond,0.4457,73,-0.53,Somewhat low,37.5407246,-77.4360481
+"Palm Bay-Melbourne, Fla.",0.4456,74,-0.54,Somewhat low,28.0478858,-80.6191626
+"Rochester, N.Y.",0.4451,75,-0.56,Somewhat low,43.16103,-77.6109219
+"Portland, Maine",0.4443,76,-0.6,Somewhat low,43.661471,-70.2553259
+"Stockton, Calif.",0.4428,77,-0.68,Somewhat low,37.9577016,-121.2907796
+"Worcester, Mass.",0.4419,78,-0.72,Somewhat low,42.2625932,-71.8022934
+Minneapolis-St. Paul,0.4414,79,-0.74,Somewhat low,44.9374831,-93.2009998
+Colorado Springs,0.4409,80,-0.77,Somewhat low,38.8338816,-104.8213634
+Omaha,0.4402,81,-0.8,Somewhat low,41.2523634,-95.9979883
+"Oxnard-Thousand Oaks, Calif.",0.4402,81,-0.8,Somewhat low,34.1450773,-118.8055782
+Raleigh,0.4401,83,-0.81,Somewhat low,35.7795897,-78.6381787
+"Grand Rapids, Mich.",0.4386,84,-0.88,Low,42.9633599,-85.6680863
+"Riverside-San Bernardino, Calif.",0.4382,85,-0.9,Low,34.1083449,-117.2897652
+"Boise, Idaho",0.438,86,-0.91,Low,43.6187102,-116.2146068
+Washington,0.4372,87,-0.95,Low,47.7510741,-120.7401385
+"Youngstown, Ohio",0.4362,88,-1,Low,41.0997803,-80.6495194
+"Madison, Wis.",0.4356,89,-1.03,Low,43.0730517,-89.4012302
+"Wichita, Kans.",0.4342,90,-1.1,Low,37.6871761,-97.330053
+"Allentown-Bethlehem, Pa.",0.4341,91,-1.1,Low,40.6518056,-75.4414942
+Salt Lake City,0.4334,92,-1.14,Low,40.7607793,-111.8910474
+"Lakeland, Fla.",0.4314,93,-1.23,Low,28.0394654,-81.9498042
+"Albany, N.Y.",0.4307,94,-1.27,Low,42.6525793,-73.7562317
+"Poughkeepsie, N.Y.",0.4307,94,-1.27,Low,41.7003713,-73.9209701
+Virginia Beach-Norfolk,0.4281,96,-1.4,Low,36.8441109,-76.1808112
+"Harrisburg, Pa.",0.4262,97,-1.49,Low,40.2731911,-76.8867008
+"Des Moines, Iowa",0.4256,98,-1.52,Low,41.6005448,-93.6091064
+Honolulu,0.4188,99,-1.85,Low,21.3069444,-157.8583333
+"Provo, Utah",0.4156,100,-2.01,Low,40.2338438,-111.6585337
+"Lancaster, Pa.",0.4138,101,-2.1,Low,40.0378755,-76.3055144
+"Ogden, Utah",0.4009,102,-2.73,Low,41.223,-111.9738304
