@@ -1,0 +1,111 @@
+query,lat,lng,city,county,state,state_abbr,country,country_abbr
+Duluth,46.78667189999999,-92.10048519999998,Duluth,St. Louis County,Minnesota,MN,United States,US
+Sidney,40.2842164,-84.15549870000001,Sidney,Clinton Township,Shelby County,Shelby County,Ohio,OH
+Lawton,34.6035669,-98.39592909999999,Lawton,Comanche County,Oklahoma,OK,United States,US
+Plattsburgh,44.6994873,-73.4529124,Plattsburgh,Plattsburgh,Clinton County,Clinton County,New York,NY
+Alamosa,37.4694491,-105.87002139999998,Alamosa,Alamosa County,Colorado,CO,United States,US
+Jacksonville,30.3321838,-81.65565099999998,Jacksonville,Duval County,Florida,FL,United States,US
+Aberdeen,57.149717,-2.094278000000031,Aberdeen,Aberdeen City,Scotland,Scotland,United Kingdom,GB
+Bemidji,47.471573,-94.8826861,Bemidji,Beltrami County,Minnesota,MN,United States,US
+Columbus,39.9611755,-82.99879420000002,Columbus,Franklin County,Ohio,OH,United States,US
+Greenville,34.85261759999999,-82.39401040000001,Greenville,Greenville County,South Carolina,SC,United States,US
+Roswell,33.3942655,-104.52302420000001,Roswell,Chaves County,New Mexico,NM,United States,US
+Eugene,44.0520691,-123.08675360000001,Eugene,Lane County,Oregon,OR,United States,US
+Fayetteville,35.0526641,-78.87835849999999,Fayetteville,Cumberland County,North Carolina,NC,United States,US
+Gulfport,30.3674198,-89.09281550000003,Gulfport,Harrison County,Mississippi,MS,United States,US
+Columbia,37.09024,-95.71289100000001,Independence,Fawn Creek,Montgomery County,Montgomery County,Kansas,KS
+Fort Wayne,41.079273,-85.13935129999999,Fort Wayne,Perry Township,Allen County,Allen County,Indiana,IN
+Thief River Falls,48.1191353,-96.18114730000002,Thief River Falls,Pennington County,Minnesota,MN,United States,US
+Moab,38.5733155,-109.54983950000002,Moab,Grand County,Utah,UT,United States,US
+Durham,35.9940329,-78.898619,Durham,Durham County,North Carolina,NC,United States,US
+Valdosta,30.8327022,-83.27848510000001,Valdosta,Lowndes County,Georgia,GA,United States,US
+Madison,43.0730517,-89.40123019999999,Madison,Dane County,Wisconsin,WI,United States,US
+Hilton Head,32.216316,-80.75260800000001,Hilton Head Island,Beaufort County,South Carolina,SC,United States,US
+Salisbury-Ocean City,38.340278,-75.51027799999997,Salisbury Regional Airport,a,5485,5485,Airport Terminal Rd,Airport Terminal Rd
+Fort Smith,35.3859242,-94.3985475,Fort Smith,Upper Township,Sebastian County,Sebastian County,Arkansas,AR
+Lincoln,37.0149484,-95.93291099999999,201,East 1st Avenue,Caney,Caney,Montgomery County,Montgomery County
+Abilene,32.4487364,-99.73314390000002,Abilene,Taylor County,Texas,TX,United States,US
+Hartford,41.7658043,-72.67337229999998,Hartford,Hartford County,Connecticut,CT,United States,US
+Kapalua,20.9997222,-156.6580556,Kapalua,Maui County,Hawaii,HI,United States,US
+Waco,31.549333,-97.14666950000003,Waco,McLennan County,Texas,TX,United States,US
+Hayden,37.4278349,-95.26108629999999,Hayden,Ladore,Neosho County,Neosho County,Kansas,KS
+Butte,39.647498,-121.64506269999998,3536,Butte Campus Drive,Oroville,Oroville,Butte County,Butte County
+Akron,41.0814447,-81.5190053,Akron,Summit County,Ohio,OH,United States,US
+North Platte,41.1402759,-100.7601454,North Platte,North Platte,Lincoln County,Lincoln County,Nebraska,NE
+Portland,45.5122308,-122.65871850000002,Portland,Multnomah County,Oregon,OR,United States,US
+Minot,48.2329668,-101.2922906,Minot,Ward County,North Dakota,ND,United States,US
+Hilo,19.7241106,-155.0868193,Hilo,Hawaii County,Hawaii,HI,United States,US
+Hana,20.757508,-155.988407,Hana,Maui County,Hawaii,HI,United States,US
+Kamuela,20.0230556,-155.6716667,Waimea,Hawaii County,Hawaii,HI,United States,US
+Westchester County,41.1220194,-73.79485160000002,Westchester County,,New York,NY,United States,US
+Grand Canyon,36.1069652,-112.1129972,Grand Canyon National Park,,Arizona,AZ,United States,US
+Hobbs,36.285926,-93.93902800000001,Hobbs State Park-Conservation Area,20201,Arkansas 12,AR-12,Rogers,Rogers
+Fairbanks,64.8377778,-147.7163888,Fairbanks,Fairbanks North Star,Alaska,AK,United States,US
+Harlingen,26.1906306,-97.69610260000002,Harlingen,Cameron County,Texas,TX,United States,US
+Pueblo,36.3559655,-94.13990089999999,1551,West Hudson Road,Rogers,Rogers,Township 6,Township 6
+Page,36.91472220000001,-111.4558333,Page,Coconino County,Arizona,AZ,United States,US
+Traverse City,44.7630567,-85.62063169999999,Traverse City,Peninsula Township,Grand Traverse County,Grand Traverse County,Michigan,MI
+Rapid City,44.0805434,-103.23101489999999,Rapid City,Central Pennington,Pennington County,Pennington County,South Dakota,SD
+Huntsville,34.7303688,-86.58610369999997,Huntsville,Madison County,Alabama,AL,United States,US
+Tyler,32.3512601,-95.30106239999998,Tyler,Smith County,Texas,TX,United States,US
+Tampa,27.950575,-82.45717760000002,Tampa,Hillsborough County,Florida,FL,United States,US
+Walla Walla,46.0645809,-118.34302079999998,Walla Walla,Walla Walla County,Washington,WA,United States,US
+Laramie,41.3113669,-105.59110069999997,Laramie,Albany County,Wyoming,WY,United States,US
+Kahului,20.8893351,-156.4729469,Kahului,Maui County,Hawaii,HI,United States,US
+Wilkes-Barre,41.2459149,-75.88130749999999,Wilkes-Barre,Plains Township,Luzerne County,Luzerne County,Pennsylvania,PA
+Eau Claire,44.811349,-91.49849410000002,Eau Claire,Eau Claire County,Wisconsin,WI,United States,US
+New Haven,41.308274,-72.92788350000001,New Haven,New Haven County,Connecticut,CT,United States,US
+Reno,39.5296329,-119.8138027,Reno,Washoe County,Nevada,NV,United States,US
+Billings,45.7832856,-108.5006904,Billings,Yellowstone County,Montana,MT,United States,US
+Rochester,43.15657789999999,-77.60884650000003,Rochester,Monroe County,New York,NY,United States,US
+Midland,43.6155825,-84.24721160000001,Midland,Midland County,Michigan,MI,United States,US
+Seattle,47.6062095,-122.3320708,Seattle,King County,Washington,WA,United States,US
+Dothan,31.2232313,-85.39048880000001,Dothan,Houston County,Alabama,AL,United States,US
+Kenai,60.55444439999999,-151.2583333,Kenai,Kenai Peninsula Borough,Alaska,AK,United States,US
+Salina,38.8402805,-97.61142369999999,Salina,Saline County,Kansas,KS,United States,US
+Green Bay,44.5133188,-88.01329579999998,Green Bay,Brown County,Wisconsin,WI,United States,US
+Albany,42.6525793,-73.7562317,Albany,Albany County,New York,NY,United States,US
+West Yellowstone,44.6621493,-111.10410919999998,West Yellowstone,Gallatin County,Montana,MT,United States,US
+Burlington,37.6780742,-97.23923589999998,8225,East Kellogg Drive,Wichita,Wichita,Sedgwick County,Sedgwick County
+Santa Maria,34.9530337,-120.43571910000003,Santa Maria,Santa Barbara County,California,CA,United States,US
+Wrangell,56.4708333,-132.37666660000002,Wrangell,Petersburg Borough,Alaska,AK,United States,US
+Kingsport,36.548434,-82.56181859999998,Kingsport,Sullivan County,Tennessee,TN,United States,US
+Charleston,32.7764749,-79.93105120000001,Charleston,Charleston County,South Carolina,SC,United States,US
+Memphis,35.1495343,-90.0489801,Memphis,Shelby County,Tennessee,TN,United States,US
+Columbus,39.9611755,-82.99879420000002,Columbus,Franklin County,Ohio,OH,United States,US
+Escanaba,45.74524659999999,-87.0645801,Escanaba,Delta County,Michigan,MI,United States,US
+Mobile,37.3584007,-94.7232548,1161,South 210th Street,Pittsburg,Pittsburg,Baker,Baker
+Kansas City,39.0997265,-94.57856670000001,Kansas City,Jackson County,Missouri,MO,United States,US
+Pocatello,42.8621042,-112.45061909999998,Pocatello,Bannock County,Idaho,ID,United States,US
+Wausau,44.9591352,-89.6301221,Wausau,Marathon County,Wisconsin,WI,United States,US
+Texarkana,33.425125,-94.04768820000004,Texarkana,Garland Township,Bowie County,Bowie County,Texas,TX
+Honolulu,21.3069444,-157.85833330000003,Honolulu,Honolulu County,Hawaii,HI,United States,US
+Joplin,37.08422710000001,-94.513281,Joplin,Jasper County,Missouri,MO,United States,US
+Provincetown,42.0584412,-70.17864250000002,Provincetown,Barnstable County,Massachusetts,MA,United States,US
+Key West,24.5550593,-81.77998709999997,Key West,Monroe County,Florida,FL,United States,US
+Liberal,37.0430812,-100.920999,Liberal,Liberal,Seward County,Seward County,Kansas,KS
+Laredo,27.5035613,-99.50755190000001,Laredo,Webb County,Texas,TX,United States,US
+Corpus Christi,27.8005828,-97.39638100000002,Corpus Christi,Nueces County,Texas,TX,United States,US
+Montrose,38.4783198,-107.8761738,Montrose,Montrose County,Colorado,CO,United States,US
+Los Angeles,34.0522342,-118.2436849,Los Angeles,Los Angeles County,California,CA,United States,US
+Rock Springs,41.58746439999999,-109.2029043,Rock Springs,Sweetwater County,Wyoming,WY,United States,US
+Jacksonville,30.3321838,-81.65565099999998,Jacksonville,Duval County,Florida,FL,United States,US
+Williston,33.4026477,-81.42010629999999,Williston,Barnwell County,South Carolina,SC,United States,US
+Norfolk,36.8507689,-76.2858726,Norfolk,,Virginia,VA,United States,US
+Saint George,37.0965278,-113.56841639999999,St. George,Washington County,Utah,UT,United States,US
+Garden City,36.1106488,-96.00305270000001,Garden City,Tulsa,Tulsa County,Tulsa County,Oklahoma,OK
+Kalispell,48.1919889,-114.31681300000002,Kalispell,Flathead County,Montana,MT,United States,US
+Killeen,31.1171194,-97.72779589999999,Killeen,Bell County,Texas,TX,United States,US
+Richmond,37.5407246,-77.4360481,Richmond,,Virginia,VA,United States,US
+Wichita,37.68717609999999,-97.33005300000002,Wichita,Sedgwick County,Kansas,KS,United States,US
+Fort Lauderdale,26.1224386,-80.13731740000003,Fort Lauderdale,Broward County,Florida,FL,United States,US
+Evansville,37.9715592,-87.57108979999998,Evansville,Center Township,Vanderburgh County,Vanderburgh County,Indiana,IN
+Chicago,41.8781136,-87.62979819999998,Chicago,Cook County,Illinois,IL,United States,US
+Colorado Springs,38.8338816,-104.8213634,Colorado Springs,El Paso County,Colorado,CO,United States,US
+Houston,29.7604267,-95.3698028,Houston,Harris County,Texas,TX,United States,US
+Lanai City,20.8305556,-156.92222219999996,Lāna‘i City,Lanai City,Maui County,Maui County,Hawaii,HI
+West Palm Beach,26.7153424,-80.05337459999998,West Palm Beach,Palm Beach County,Florida,FL,United States,US
+North Bend,47.4956579,-121.78677749999997,North Bend,King County,Washington,WA,United States,US
+Pittsburgh,40.44062479999999,-79.99588640000002,Pittsburgh,Allegheny County,Pennsylvania,PA,United States,US
+Myrtle Beach,33.6890603,-78.88669429999999,Myrtle Beach,Horry County,South Carolina,SC,United States,US
+Muskegon,43.2341813,-86.24839209999999,Muskegon,Laketon Township,Muskegon County,Muskegon County,Michigan,MI
