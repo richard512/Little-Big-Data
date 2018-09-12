@@ -1,0 +1,57 @@
+id,name,shortname,feetype
+1,Alabama,AL,Flat Rate
+2,Alaska,AK ,Flat Rate
+3,Arizona,AZ ,Value-Based
+4,Arkansas,AR,Weight-Based
+5,California,CA,Value-Based
+6,Colorado,CO,Value-Based
+7,Connecticut,CT,Flat Rate
+8,Delaware,DE,Flat Rate
+9,District of Columbia,DC,Weight-Based
+10,Florida,FL,Weight-Based
+11,Georgia,GA,Flat Rate
+12,Hawaii,HI,Weight-Based
+13,Idaho,ID,Age-Based
+14,Illinois,IL,Flat Rate
+15,Indiana,IN,Flat Rate
+16,Iowa,IA,Value-Based
+17,Kansas,KS,Weight-Based
+18,Kentucky,KY,Flat Rate
+19,Louisiana,LA,Value-Based
+20,Maine,ME,Flat Rate
+21,Maryland,MD,Weight-Based
+22,Massachusetts,MA,Flat Rate
+23,Michigan,MI,Value-Based
+24,Minnesota,MN,Value-Based
+25,Mississippi,MS,Flat Rate
+26,Missouri,MO,Other
+27,Montana,MT,Age-Based
+28,Nebraska,NE,Flat Rate
+29,Nevada,NV,Flat Rate
+30,New Hampshire,NH,Weight-Based
+31,New Jersey,NJ,Weight-Based
+32,New Mexico,NM,Weight-Based
+33,New York,NY,Weight-Based
+34,North Carolina,NC,Flat Rate
+35,North Dakota,ND,Weight-Based
+36,Ohio,OH,Flat Rate
+37,Oklahoma,OK,Age-Based
+38,Oregon,OR,Flat Rate
+39,Pennsylvania,PA,Flat Rate
+40,Rhode Island,RI,Weight-Based
+41,South Carolina,SC,Flat Rate
+42,South Dakota,SD,Weight-Based
+43,Tennessee,TN,Flat Rate
+44,Texas,TX,Flat Rate
+45,Utah,UT,Flat Rate
+46,Vermont,VT,Flat Rate
+47,Virginia,VA,Weight-Based
+48,Washington,WA,Other
+49,West Virginia,WV,Flat Rate
+50,Wisconsin,WI,Flat Rate
+51,Wyoming,WY,Flat Rate
+52,AS,AS,N/A
+53,GU,GU,N/A
+54,MP,MP,N/A
+55,PR,PR,Flat Rate
+56,VI,VI,N/A
